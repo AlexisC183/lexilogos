@@ -1,0 +1,17816 @@
+[
+ {
+ "unicode": "4E00",
+ "traits": 1,
+ "cles": 1,
+ "latin": [
+ "hito",
+ "ICHI",
+ "ITSU"
+ ]
+ },
+ {
+ "unicode": "4E59",
+ "traits": 1,
+ "cles": 5,
+ "latin": [
+ "OTSU"
+ ]
+ },
+ {
+ "unicode": "4E01",
+ "traits": 2,
+ "cles": 1,
+ "latin": [
+ "CHOO",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "4E03",
+ "traits": 2,
+ "cles": 1,
+ "latin": [
+ "nana",
+ "SHICHI"
+ ]
+ },
+ {
+ "unicode": "4E5D",
+ "traits": 2,
+ "cles": 5,
+ "latin": [
+ "kokono",
+ "KU",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "4E86",
+ "traits": 2,
+ "cles": 6,
+ "latin": [
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "4E8C",
+ "traits": 2,
+ "cles": 7,
+ "latin": [
+ "futa",
+ "NI"
+ ]
+ },
+ {
+ "unicode": "4EBA",
+ "traits": 2,
+ "cles": 9,
+ "latin": [
+ "hito",
+ "JIN",
+ "NIN"
+ ]
+ },
+ {
+ "unicode": "5165",
+ "traits": 2,
+ "cles": 11,
+ "latin": [
+ "hai",
+ "i",
+ "NYUU"
+ ]
+ },
+ {
+ "unicode": "516B",
+ "traits": 2,
+ "cles": 12,
+ "latin": [
+ "yat",
+ "yoo",
+ "ya",
+ "HACHI"
+ ]
+ },
+ {
+ "unicode": "5200",
+ "traits": 2,
+ "cles": 18,
+ "latin": [
+ "katana",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "529B",
+ "traits": 2,
+ "cles": 19,
+ "latin": [
+ "chikara",
+ "RIKI",
+ "RYOKU"
+ ]
+ },
+ {
+ "unicode": "5341",
+ "traits": 2,
+ "cles": 24,
+ "latin": [
+ "too",
+ "JUU"
+ ]
+ },
+ {
+ "unicode": "53C8",
+ "traits": 2,
+ "cles": 29,
+ "latin": [
+ "mata"
+ ]
+ },
+ {
+ "unicode": "4E07",
+ "traits": 3,
+ "cles": 1,
+ "latin": [
+ "MAN"
+ ]
+ },
+ {
+ "unicode": "4E08",
+ "traits": 3,
+ "cles": 1,
+ "latin": [
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "4E09",
+ "traits": 3,
+ "cles": 1,
+ "latin": [
+ "mi",
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "4E0A",
+ "traits": 3,
+ "cles": 1,
+ "latin": [
+ "nobo",
+ "ue",
+ "a",
+ "JOO",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "4E0B",
+ "traits": 3,
+ "cles": 1,
+ "latin": [
+ "kuda",
+ "moto",
+ "shimo",
+ "shita",
+ "GE",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "4E0E",
+ "traits": 3,
+ "cles": 1,
+ "latin": [
+ "ata",
+ "YO"
+ ]
+ },
+ {
+ "unicode": "4E38",
+ "traits": 3,
+ "cles": 4,
+ "latin": [
+ "maru",
+ "GAN"
+ ]
+ },
+ {
+ "unicode": "4E45",
+ "traits": 3,
+ "cles": 4,
+ "latin": [
+ "hisa",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "5343",
+ "traits": 3,
+ "cles": 4,
+ "latin": [
+ "chi",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "53CA",
+ "traits": 3,
+ "cles": 4,
+ "latin": [
+ "oyo",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "624D",
+ "traits": 3,
+ "cles": 6,
+ "latin": [
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "4EA1",
+ "traits": 3,
+ "cles": 8,
+ "latin": [
+ "na",
+ "BOO",
+ "MOO"
+ ]
+ },
+ {
+ "unicode": "51E1",
+ "traits": 3,
+ "cles": 16,
+ "latin": [
+ "BON"
+ ]
+ },
+ {
+ "unicode": "5203",
+ "traits": 3,
+ "cles": 18,
+ "latin": [
+ "ha",
+ "JIN"
+ ]
+ },
+ {
+ "unicode": "52FA",
+ "traits": 3,
+ "cles": 20,
+ "latin": [
+ "SHAKU"
+ ]
+ },
+ {
+ "unicode": "53E3",
+ "traits": 3,
+ "cles": 30,
+ "latin": [
+ "kuchi",
+ "KOO",
+ "KU"
+ ]
+ },
+ {
+ "unicode": "571F",
+ "traits": 3,
+ "cles": 32,
+ "latin": [
+ "tsuchi",
+ "DO",
+ "TO"
+ ]
+ },
+ {
+ "unicode": "58EB",
+ "traits": 3,
+ "cles": 33,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "5915",
+ "traits": 3,
+ "cles": 36,
+ "latin": [
+ "yuu",
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "5927",
+ "traits": 3,
+ "cles": 37,
+ "latin": [
+ "oo",
+ "DAI",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "5973",
+ "traits": 3,
+ "cles": 38,
+ "latin": [
+ "onna",
+ "JO",
+ "NYO"
+ ]
+ },
+ {
+ "unicode": "5B50",
+ "traits": 3,
+ "cles": 39,
+ "latin": [
+ "ko",
+ "SHI",
+ "SU"
+ ]
+ },
+ {
+ "unicode": "5BF8",
+ "traits": 3,
+ "cles": 41,
+ "latin": [
+ "SUN"
+ ]
+ },
+ {
+ "unicode": "5C0F",
+ "traits": 3,
+ "cles": 42,
+ "latin": [
+ "chii",
+ "o",
+ "ko",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5C71",
+ "traits": 3,
+ "cles": 46,
+ "latin": [
+ "yama",
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "5DDD",
+ "traits": 3,
+ "cles": 47,
+ "latin": [
+ "kawa",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "5DE5",
+ "traits": 3,
+ "cles": 48,
+ "latin": [
+ "KOO",
+ "KU"
+ ]
+ },
+ {
+ "unicode": "5DF1",
+ "traits": 3,
+ "cles": 49,
+ "latin": [
+ "onore",
+ "KI",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "5E72",
+ "traits": 3,
+ "cles": 51,
+ "latin": [
+ "hi",
+ "ho",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "5F13",
+ "traits": 3,
+ "cles": 57,
+ "latin": [
+ "yumi",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "4E0D",
+ "traits": 4,
+ "cles": 1,
+ "latin": [
+ "BU",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "5929",
+ "traits": 4,
+ "cles": 1,
+ "latin": [
+ "TEN"
+ ]
+ },
+ {
+ "unicode": "4E2D",
+ "traits": 4,
+ "cles": 2,
+ "latin": [
+ "naka",
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "5F14",
+ "traits": 4,
+ "cles": 2,
+ "latin": [
+ "tomura",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "4E39",
+ "traits": 4,
+ "cles": 4,
+ "latin": [
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "4E4F",
+ "traits": 4,
+ "cles": 4,
+ "latin": [
+ "tobo",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "5347",
+ "traits": 4,
+ "cles": 4,
+ "latin": [
+ "masu",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5348",
+ "traits": 4,
+ "cles": 4,
+ "latin": [
+ "GO"
+ ]
+ },
+ {
+ "unicode": "5C6F",
+ "traits": 4,
+ "cles": 5,
+ "latin": [
+ "TON"
+ ]
+ },
+ {
+ "unicode": "4E88",
+ "traits": 4,
+ "cles": 6,
+ "latin": [
+ "YO"
+ ]
+ },
+ {
+ "unicode": "4E92",
+ "traits": 4,
+ "cles": 7,
+ "latin": [
+ "taga",
+ "GO"
+ ]
+ },
+ {
+ "unicode": "4E94",
+ "traits": 4,
+ "cles": 7,
+ "latin": [
+ "itsu",
+ "GO"
+ ]
+ },
+ {
+ "unicode": "4E95",
+ "traits": 4,
+ "cles": 7,
+ "latin": [
+ "i",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "4EC1",
+ "traits": 4,
+ "cles": 9,
+ "latin": [
+ "JIN",
+ "NI"
+ ]
+ },
+ {
+ "unicode": "4ECA",
+ "traits": 4,
+ "cles": 9,
+ "latin": [
+ "ima",
+ "KIN",
+ "KON"
+ ]
+ },
+ {
+ "unicode": "4ECB",
+ "traits": 4,
+ "cles": 9,
+ "latin": [
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "4ECF",
+ "traits": 4,
+ "cles": 9,
+ "latin": [
+ "hotoke",
+ "BUTSU"
+ ]
+ },
+ {
+ "unicode": "5316",
+ "traits": 4,
+ "cles": 9,
+ "latin": [
+ "ba",
+ "KA",
+ "KE"
+ ]
+ },
+ {
+ "unicode": "5143",
+ "traits": 4,
+ "cles": 10,
+ "latin": [
+ "moto",
+ "GEN"
+ ]
+ },
+ {
+ "unicode": "516C",
+ "traits": 4,
+ "cles": 12,
+ "latin": [
+ "KOO",
+ "KU"
+ ]
+ },
+ {
+ "unicode": "516D",
+ "traits": 4,
+ "cles": 12,
+ "latin": [
+ "mu",
+ "ROKU"
+ ]
+ },
+ {
+ "unicode": "5206",
+ "traits": 4,
+ "cles": 12,
+ "latin": [
+ "wa",
+ "BU",
+ "BUN",
+ "FUN"
+ ]
+ },
+ {
+ "unicode": "5185",
+ "traits": 4,
+ "cles": 13,
+ "latin": [
+ "uchi",
+ "DAI",
+ "NAI"
+ ]
+ },
+ {
+ "unicode": "5186",
+ "traits": 4,
+ "cles": 13,
+ "latin": [
+ "EN"
+ ]
+ },
+ {
+ "unicode": "5197",
+ "traits": 4,
+ "cles": 14,
+ "latin": [
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "51F6",
+ "traits": 4,
+ "cles": 17,
+ "latin": [
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "5207",
+ "traits": 4,
+ "cles": 18,
+ "latin": [
+ "ki",
+ "kitsu",
+ "SAI",
+ "SETSU"
+ ]
+ },
+ {
+ "unicode": "5208",
+ "traits": 4,
+ "cles": 18,
+ "latin": [
+ "ka"
+ ]
+ },
+ {
+ "unicode": "5301",
+ "traits": 4,
+ "cles": 20,
+ "latin": [
+ "monme"
+ ]
+ },
+ {
+ "unicode": "5339",
+ "traits": 4,
+ "cles": 22,
+ "latin": [
+ "hiki",
+ "HITSU"
+ ]
+ },
+ {
+ "unicode": "533A",
+ "traits": 4,
+ "cles": 22,
+ "latin": [
+ "KU"
+ ]
+ },
+ {
+ "unicode": "5384",
+ "traits": 4,
+ "cles": 27,
+ "latin": [
+ "YAKU"
+ ]
+ },
+ {
+ "unicode": "53CD",
+ "traits": 4,
+ "cles": 27,
+ "latin": [
+ "so",
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "53CB",
+ "traits": 4,
+ "cles": 29,
+ "latin": [
+ "tomo",
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "53CC",
+ "traits": 4,
+ "cles": 29,
+ "latin": [
+ "futa",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "53CE",
+ "traits": 4,
+ "cles": 29,
+ "latin": [
+ "osa",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "592A",
+ "traits": 4,
+ "cles": 37,
+ "latin": [
+ "futo",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "592B",
+ "traits": 4,
+ "cles": 37,
+ "latin": [
+ "otto",
+ "FU",
+ "FUU"
+ ]
+ },
+ {
+ "unicode": "5B54",
+ "traits": 4,
+ "cles": 39,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5C11",
+ "traits": 4,
+ "cles": 42,
+ "latin": [
+ "suku",
+ "suko",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5C3A",
+ "traits": 4,
+ "cles": 44,
+ "latin": [
+ "SHAKU"
+ ]
+ },
+ {
+ "unicode": "5E7B",
+ "traits": 4,
+ "cles": 52,
+ "latin": [
+ "maboroshi",
+ "GEN"
+ ]
+ },
+ {
+ "unicode": "5F15",
+ "traits": 4,
+ "cles": 57,
+ "latin": [
+ "hi",
+ "IN"
+ ]
+ },
+ {
+ "unicode": "5FC3",
+ "traits": 4,
+ "cles": 61,
+ "latin": [
+ "kokoro",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "6238",
+ "traits": 4,
+ "cles": 63,
+ "latin": [
+ "to",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "624B",
+ "traits": 4,
+ "cles": 64,
+ "latin": [
+ "te",
+ "ta",
+ "SHU",
+ "ZU"
+ ]
+ },
+ {
+ "unicode": "652F",
+ "traits": 4,
+ "cles": 65,
+ "latin": [
+ "sasa",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "6587",
+ "traits": 4,
+ "cles": 67,
+ "latin": [
+ "fumi",
+ "BUN",
+ "MON"
+ ]
+ },
+ {
+ "unicode": "6597",
+ "traits": 4,
+ "cles": 68,
+ "latin": [
+ "TO"
+ ]
+ },
+ {
+ "unicode": "65A4",
+ "traits": 4,
+ "cles": 69,
+ "latin": [
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "65B9",
+ "traits": 4,
+ "cles": 70,
+ "latin": [
+ "kata",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "65E5",
+ "traits": 4,
+ "cles": 72,
+ "latin": [
+ "hi",
+ "JITSU",
+ "NI",
+ "NICHI"
+ ]
+ },
+ {
+ "unicode": "6708",
+ "traits": 4,
+ "cles": 74,
+ "latin": [
+ "tsuki",
+ "GATSU",
+ "GETSU"
+ ]
+ },
+ {
+ "unicode": "6728",
+ "traits": 4,
+ "cles": 75,
+ "latin": [
+ "ki",
+ "BOKU",
+ "MOKU"
+ ]
+ },
+ {
+ "unicode": "6B20",
+ "traits": 4,
+ "cles": 76,
+ "latin": [
+ "ka",
+ "KETSU"
+ ]
+ },
+ {
+ "unicode": "6B62",
+ "traits": 4,
+ "cles": 77,
+ "latin": [
+ "to",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "6BD4",
+ "traits": 4,
+ "cles": 81,
+ "latin": [
+ "kura",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "6BDB",
+ "traits": 4,
+ "cles": 82,
+ "latin": [
+ "ke",
+ "MOO"
+ ]
+ },
+ {
+ "unicode": "6C0F",
+ "traits": 4,
+ "cles": 83,
+ "latin": [
+ "uji",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "6C34",
+ "traits": 4,
+ "cles": 85,
+ "latin": [
+ "mizu",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "706B",
+ "traits": 4,
+ "cles": 86,
+ "latin": [
+ "hi",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "7236",
+ "traits": 4,
+ "cles": 88,
+ "latin": [
+ "chichi",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "7247",
+ "traits": 4,
+ "cles": 91,
+ "latin": [
+ "kata",
+ "HEN"
+ ]
+ },
+ {
+ "unicode": "725B",
+ "traits": 4,
+ "cles": 93,
+ "latin": [
+ "ushi",
+ "GYUU"
+ ]
+ },
+ {
+ "unicode": "72AC",
+ "traits": 4,
+ "cles": 94,
+ "latin": [
+ "inu",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "738B",
+ "traits": 4,
+ "cles": 96,
+ "latin": [
+ "OO"
+ ]
+ },
+ {
+ "unicode": "4E14",
+ "traits": 5,
+ "cles": 1,
+ "latin": [
+ "ka",
+ "SHO"
+ ]
+ },
+ {
+ "unicode": "4E16",
+ "traits": 5,
+ "cles": 1,
+ "latin": [
+ "yo",
+ "SE",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "4E19",
+ "traits": 5,
+ "cles": 1,
+ "latin": [
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "518A",
+ "traits": 5,
+ "cles": 1,
+ "latin": [
+ "SAKU",
+ "SATSU"
+ ]
+ },
+ {
+ "unicode": "592E",
+ "traits": 5,
+ "cles": 1,
+ "latin": [
+ "OO"
+ ]
+ },
+ {
+ "unicode": "672B",
+ "traits": 5,
+ "cles": 1,
+ "latin": [
+ "MATSU"
+ ]
+ },
+ {
+ "unicode": "51FA",
+ "traits": 5,
+ "cles": 2,
+ "latin": [
+ "da",
+ "de",
+ "SHUTSU",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "65E7",
+ "traits": 5,
+ "cles": 2,
+ "latin": [
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "672C",
+ "traits": 5,
+ "cles": 2,
+ "latin": [
+ "moto",
+ "HON"
+ ]
+ },
+ {
+ "unicode": "7532",
+ "traits": 5,
+ "cles": 2,
+ "latin": [
+ "KAN",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "4E3B",
+ "traits": 5,
+ "cles": 3,
+ "latin": [
+ "nushi",
+ "omo",
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "4E18",
+ "traits": 5,
+ "cles": 4,
+ "latin": [
+ "oka",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "5305",
+ "traits": 5,
+ "cles": 4,
+ "latin": [
+ "tsutsu",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "53F2",
+ "traits": 5,
+ "cles": 4,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "5931",
+ "traits": 5,
+ "cles": 4,
+ "latin": [
+ "SHITSU"
+ ]
+ },
+ {
+ "unicode": "65A5",
+ "traits": 5,
+ "cles": 4,
+ "latin": [
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "672A",
+ "traits": 5,
+ "cles": 4,
+ "latin": [
+ "MI"
+ ]
+ },
+ {
+ "unicode": "6C38",
+ "traits": 5,
+ "cles": 4,
+ "latin": [
+ "naga",
+ "EI"
+ ]
+ },
+ {
+ "unicode": "4ED5",
+ "traits": 5,
+ "cles": 9,
+ "latin": [
+ "tsuka",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "4ED6",
+ "traits": 5,
+ "cles": 9,
+ "latin": [
+ "hoka",
+ "TA"
+ ]
+ },
+ {
+ "unicode": "4ED8",
+ "traits": 5,
+ "cles": 9,
+ "latin": [
+ "tsu",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "4ED9",
+ "traits": 5,
+ "cles": 9,
+ "latin": [
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "4EE3",
+ "traits": 5,
+ "cles": 9,
+ "latin": [
+ "kawa",
+ "yo",
+ "DAI"
+ ]
+ },
+ {
+ "unicode": "4EE4",
+ "traits": 5,
+ "cles": 9,
+ "latin": [
+ "REI"
+ ]
+ },
+ {
+ "unicode": "4EE5",
+ "traits": 5,
+ "cles": 9,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "5144",
+ "traits": 5,
+ "cles": 10,
+ "latin": [
+ "ani",
+ "KEI",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "5199",
+ "traits": 5,
+ "cles": 14,
+ "latin": [
+ "utsu",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "51F8",
+ "traits": 5,
+ "cles": 17,
+ "latin": [
+ "TOTSU"
+ ]
+ },
+ {
+ "unicode": "51F9",
+ "traits": 5,
+ "cles": 17,
+ "latin": [
+ "OO"
+ ]
+ },
+ {
+ "unicode": "53EC",
+ "traits": 5,
+ "cles": 18,
+ "latin": [
+ "me",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "52A0",
+ "traits": 5,
+ "cles": 19,
+ "latin": [
+ "kuwa",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "53E5",
+ "traits": 5,
+ "cles": 20,
+ "latin": [
+ "KU"
+ ]
+ },
+ {
+ "unicode": "5317",
+ "traits": 5,
+ "cles": 21,
+ "latin": [
+ "kita",
+ "HOKU"
+ ]
+ },
+ {
+ "unicode": "5DE8",
+ "traits": 5,
+ "cles": 22,
+ "latin": [
+ "KYO"
+ ]
+ },
+ {
+ "unicode": "534A",
+ "traits": 5,
+ "cles": 24,
+ "latin": [
+ "naka",
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "53E4",
+ "traits": 5,
+ "cles": 24,
+ "latin": [
+ "furu",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "5360",
+ "traits": 5,
+ "cles": 25,
+ "latin": [
+ "urana",
+ "shi",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "5727",
+ "traits": 5,
+ "cles": 27,
+ "latin": [
+ "ATSU"
+ ]
+ },
+ {
+ "unicode": "53BB",
+ "traits": 5,
+ "cles": 28,
+ "latin": [
+ "KO",
+ "KYO"
+ ]
+ },
+ {
+ "unicode": "53F0",
+ "traits": 5,
+ "cles": 28,
+ "latin": [
+ "DAI",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "5F01",
+ "traits": 5,
+ "cles": 28,
+ "latin": [
+ "BEN"
+ ]
+ },
+ {
+ "unicode": "53EF",
+ "traits": 5,
+ "cles": 30,
+ "latin": [
+ "KA",
+ "KOKU"
+ ]
+ },
+ {
+ "unicode": "53F3",
+ "traits": 5,
+ "cles": 30,
+ "latin": [
+ "migi",
+ "U"
+ ]
+ },
+ {
+ "unicode": "53F7",
+ "traits": 5,
+ "cles": 30,
+ "latin": [
+ "GOO"
+ ]
+ },
+ {
+ "unicode": "53F8",
+ "traits": 5,
+ "cles": 30,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "56DA",
+ "traits": 5,
+ "cles": 31,
+ "latin": [
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "56DB",
+ "traits": 5,
+ "cles": 31,
+ "latin": [
+ "yon",
+ "yo",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "51AC",
+ "traits": 5,
+ "cles": 34,
+ "latin": [
+ "fuyu",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "51E6",
+ "traits": 5,
+ "cles": 34,
+ "latin": [
+ "SHO"
+ ]
+ },
+ {
+ "unicode": "5916",
+ "traits": 5,
+ "cles": 36,
+ "latin": [
+ "soto",
+ "hoka",
+ "GAI",
+ "GE"
+ ]
+ },
+ {
+ "unicode": "5974",
+ "traits": 5,
+ "cles": 38,
+ "latin": [
+ "DO"
+ ]
+ },
+ {
+ "unicode": "5C3C",
+ "traits": 5,
+ "cles": 44,
+ "latin": [
+ "ama",
+ "NI"
+ ]
+ },
+ {
+ "unicode": "529F",
+ "traits": 5,
+ "cles": 48,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5DE6",
+ "traits": 5,
+ "cles": 48,
+ "latin": [
+ "hidari",
+ "SA"
+ ]
+ },
+ {
+ "unicode": "5DE7",
+ "traits": 5,
+ "cles": 48,
+ "latin": [
+ "taku",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5E02",
+ "traits": 5,
+ "cles": 50,
+ "latin": [
+ "ichi",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "5E03",
+ "traits": 5,
+ "cles": 50,
+ "latin": [
+ "nuno",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "520A",
+ "traits": 5,
+ "cles": 51,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "5E73",
+ "traits": 5,
+ "cles": 51,
+ "latin": [
+ "hira",
+ "hai",
+ "BYOO",
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "5E7C",
+ "traits": 5,
+ "cles": 52,
+ "latin": [
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "5E81",
+ "traits": 5,
+ "cles": 53,
+ "latin": [
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "5E83",
+ "traits": 5,
+ "cles": 53,
+ "latin": [
+ "hiro",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5FC5",
+ "traits": 5,
+ "cles": 61,
+ "latin": [
+ "kanara",
+ "HITSU"
+ ]
+ },
+ {
+ "unicode": "6253",
+ "traits": 5,
+ "cles": 64,
+ "latin": [
+ "u",
+ "DA"
+ ]
+ },
+ {
+ "unicode": "6255",
+ "traits": 5,
+ "cles": 64,
+ "latin": [
+ "hara"
+ ]
+ },
+ {
+ "unicode": "672D",
+ "traits": 5,
+ "cles": 75,
+ "latin": [
+ "fuda",
+ "SATSU"
+ ]
+ },
+ {
+ "unicode": "6B63",
+ "traits": 5,
+ "cles": 77,
+ "latin": [
+ "tada",
+ "SEI",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "6BCD",
+ "traits": 5,
+ "cles": 80,
+ "latin": [
+ "haha",
+ "BO"
+ ]
+ },
+ {
+ "unicode": "6C11",
+ "traits": 5,
+ "cles": 83,
+ "latin": [
+ "tami",
+ "MIN"
+ ]
+ },
+ {
+ "unicode": "6C37",
+ "traits": 5,
+ "cles": 85,
+ "latin": [
+ "hi",
+ "koo",
+ "HYOO"
+ ]
+ },
+ {
+ "unicode": "6C41",
+ "traits": 5,
+ "cles": 85,
+ "latin": [
+ "shiru",
+ "JUU"
+ ]
+ },
+ {
+ "unicode": "72AF",
+ "traits": 5,
+ "cles": 94,
+ "latin": [
+ "oka",
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "7384",
+ "traits": 5,
+ "cles": 95,
+ "latin": [
+ "GEN"
+ ]
+ },
+ {
+ "unicode": "7389",
+ "traits": 5,
+ "cles": 96,
+ "latin": [
+ "tama",
+ "GYOKU"
+ ]
+ },
+ {
+ "unicode": "7518",
+ "traits": 5,
+ "cles": 99,
+ "latin": [
+ "ama",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "751F",
+ "traits": 5,
+ "cles": 100,
+ "latin": [
+ "i",
+ "u",
+ "JOO",
+ "SEI",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7528",
+ "traits": 5,
+ "cles": 101,
+ "latin": [
+ "mochi",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "7530",
+ "traits": 5,
+ "cles": 102,
+ "latin": [
+ "ta",
+ "DEN"
+ ]
+ },
+ {
+ "unicode": "7531",
+ "traits": 5,
+ "cles": 102,
+ "latin": [
+ "YU"
+ ]
+ },
+ {
+ "unicode": "7533",
+ "traits": 5,
+ "cles": 102,
+ "latin": [
+ "moo",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "767D",
+ "traits": 5,
+ "cles": 106,
+ "latin": [
+ "shiro",
+ "BYAKU",
+ "HAKU"
+ ]
+ },
+ {
+ "unicode": "76AE",
+ "traits": 5,
+ "cles": 107,
+ "latin": [
+ "kawa",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "76BF",
+ "traits": 5,
+ "cles": 108,
+ "latin": [
+ "sara"
+ ]
+ },
+ {
+ "unicode": "76EE",
+ "traits": 5,
+ "cles": 109,
+ "latin": [
+ "me",
+ "MOKU"
+ ]
+ },
+ {
+ "unicode": "77DB",
+ "traits": 5,
+ "cles": 110,
+ "latin": [
+ "hoko",
+ "MU"
+ ]
+ },
+ {
+ "unicode": "77E2",
+ "traits": 5,
+ "cles": 111,
+ "latin": [
+ "ya",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "77F3",
+ "traits": 5,
+ "cles": 112,
+ "latin": [
+ "ishi",
+ "KOKU",
+ "SEKI",
+ "SHAKU"
+ ]
+ },
+ {
+ "unicode": "793A",
+ "traits": 5,
+ "cles": 113,
+ "latin": [
+ "shime",
+ "JI",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "793C",
+ "traits": 5,
+ "cles": 113,
+ "latin": [
+ "REI"
+ ]
+ },
+ {
+ "unicode": "7A74",
+ "traits": 5,
+ "cles": 116,
+ "latin": [
+ "ana",
+ "KETSU"
+ ]
+ },
+ {
+ "unicode": "7ACB",
+ "traits": 5,
+ "cles": 117,
+ "latin": [
+ "ta",
+ "RITSU",
+ "RYUU"
+ ]
+ },
+ {
+ "unicode": "8FBA",
+ "traits": 5,
+ "cles": 162,
+ "latin": [
+ "ata",
+ "HEN"
+ ]
+ },
+ {
+ "unicode": "8FBC",
+ "traits": 5,
+ "cles": 162,
+ "latin": [
+ "ko"
+ ]
+ },
+ {
+ "unicode": "4E21",
+ "traits": 6,
+ "cles": 1,
+ "latin": [
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "518D",
+ "traits": 6,
+ "cles": 1,
+ "latin": [
+ "SA",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "4E89",
+ "traits": 6,
+ "cles": 4,
+ "latin": [
+ "araso",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "540E",
+ "traits": 6,
+ "cles": 4,
+ "latin": [
+ "kisaki",
+ "GOO",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "540F",
+ "traits": 6,
+ "cles": 4,
+ "latin": [
+ "RI"
+ ]
+ },
+ {
+ "unicode": "5E74",
+ "traits": 6,
+ "cles": 4,
+ "latin": [
+ "toshi",
+ "NEN"
+ ]
+ },
+ {
+ "unicode": "6731",
+ "traits": 6,
+ "cles": 4,
+ "latin": [
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "4EA4",
+ "traits": 6,
+ "cles": 8,
+ "latin": [
+ "ma",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5145",
+ "traits": 6,
+ "cles": 8,
+ "latin": [
+ "a",
+ "JUU"
+ ]
+ },
+ {
+ "unicode": "5984",
+ "traits": 6,
+ "cles": 8,
+ "latin": [
+ "BOO",
+ "MOO"
+ ]
+ },
+ {
+ "unicode": "4EEE",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "KA"
+ ]
+ },
+ {
+ "unicode": "4EF0",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "ao",
+ "oo",
+ "GYOO",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "4EF2",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "naka"
+ ]
+ },
+ {
+ "unicode": "4EF6",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "4EFB",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "maka",
+ "NIN"
+ ]
+ },
+ {
+ "unicode": "4F01",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "kuwada",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "4F0A",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "4F0E",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "4F0F",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "fu",
+ "FUKU"
+ ]
+ },
+ {
+ "unicode": "4F11",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "yasu",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "4F1A",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "a",
+ "E",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "4F1D",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "tsuta",
+ "DEN"
+ ]
+ },
+ {
+ "unicode": "5168",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "matta",
+ "ZEN"
+ ]
+ },
+ {
+ "unicode": "5408",
+ "traits": 6,
+ "cles": 9,
+ "latin": [
+ "a",
+ "GA",
+ "GOO"
+ ]
+ },
+ {
+ "unicode": "5146",
+ "traits": 6,
+ "cles": 10,
+ "latin": [
+ "kiza",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "5148",
+ "traits": 6,
+ "cles": 10,
+ "latin": [
+ "ma",
+ "saki",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "5149",
+ "traits": 6,
+ "cles": 10,
+ "latin": [
+ "hika",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5171",
+ "traits": 6,
+ "cles": 12,
+ "latin": [
+ "tomo",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "540C",
+ "traits": 6,
+ "cles": 13,
+ "latin": [
+ "ona",
+ "DOO"
+ ]
+ },
+ {
+ "unicode": "5411",
+ "traits": 6,
+ "cles": 13,
+ "latin": [
+ "mukoo",
+ "mu",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6B21",
+ "traits": 6,
+ "cles": 15,
+ "latin": [
+ "tsugi",
+ "JI",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "5211",
+ "traits": 6,
+ "cles": 18,
+ "latin": [
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "52A3",
+ "traits": 6,
+ "cles": 19,
+ "latin": [
+ "oto",
+ "RETSU"
+ ]
+ },
+ {
+ "unicode": "65EC",
+ "traits": 6,
+ "cles": 20,
+ "latin": [
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "65E8",
+ "traits": 6,
+ "cles": 21,
+ "latin": [
+ "mune",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "5320",
+ "traits": 6,
+ "cles": 22,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5370",
+ "traits": 6,
+ "cles": 26,
+ "latin": [
+ "shirushi",
+ "IN"
+ ]
+ },
+ {
+ "unicode": "5371",
+ "traits": 6,
+ "cles": 26,
+ "latin": [
+ "abu",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "7070",
+ "traits": 6,
+ "cles": 27,
+ "latin": [
+ "hai",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "53EB",
+ "traits": 6,
+ "cles": 30,
+ "latin": [
+ "sake",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "5403",
+ "traits": 6,
+ "cles": 30,
+ "latin": [
+ "domo",
+ "KITSU"
+ ]
+ },
+ {
+ "unicode": "5410",
+ "traits": 6,
+ "cles": 30,
+ "latin": [
+ "ha",
+ "TO"
+ ]
+ },
+ {
+ "unicode": "5438",
+ "traits": 6,
+ "cles": 30,
+ "latin": [
+ "su",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "56DE",
+ "traits": 6,
+ "cles": 31,
+ "latin": [
+ "mawa",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "56E0",
+ "traits": 6,
+ "cles": 31,
+ "latin": [
+ "yo",
+ "IN"
+ ]
+ },
+ {
+ "unicode": "56E3",
+ "traits": 6,
+ "cles": 31,
+ "latin": [
+ "DAN",
+ "TON"
+ ]
+ },
+ {
+ "unicode": "5728",
+ "traits": 6,
+ "cles": 32,
+ "latin": [
+ "a",
+ "ZAI"
+ ]
+ },
+ {
+ "unicode": "5730",
+ "traits": 6,
+ "cles": 32,
+ "latin": [
+ "CHI",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "5409",
+ "traits": 6,
+ "cles": 33,
+ "latin": [
+ "yoshi",
+ "KICHI",
+ "KITSU"
+ ]
+ },
+ {
+ "unicode": "5404",
+ "traits": 6,
+ "cles": 34,
+ "latin": [
+ "onoono",
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "540D",
+ "traits": 6,
+ "cles": 36,
+ "latin": [
+ "na",
+ "MEI",
+ "MYOO"
+ ]
+ },
+ {
+ "unicode": "591A",
+ "traits": 6,
+ "cles": 36,
+ "latin": [
+ "oo",
+ "TA"
+ ]
+ },
+ {
+ "unicode": "597D",
+ "traits": 6,
+ "cles": 38,
+ "latin": [
+ "kono",
+ "su",
+ "suki",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5982",
+ "traits": 6,
+ "cles": 38,
+ "latin": [
+ "JO",
+ "NYO"
+ ]
+ },
+ {
+ "unicode": "5983",
+ "traits": 6,
+ "cles": 38,
+ "latin": [
+ "HI"
+ ]
+ },
+ {
+ "unicode": "5B57",
+ "traits": 6,
+ "cles": 39,
+ "latin": [
+ "JI"
+ ]
+ },
+ {
+ "unicode": "5B58",
+ "traits": 6,
+ "cles": 39,
+ "latin": [
+ "SON",
+ "ZON"
+ ]
+ },
+ {
+ "unicode": "5B85",
+ "traits": 6,
+ "cles": 40,
+ "latin": [
+ "TAKU"
+ ]
+ },
+ {
+ "unicode": "5B87",
+ "traits": 6,
+ "cles": 40,
+ "latin": [
+ "U"
+ ]
+ },
+ {
+ "unicode": "5B88",
+ "traits": 6,
+ "cles": 40,
+ "latin": [
+ "mamo",
+ "mori",
+ "SHU",
+ "SU"
+ ]
+ },
+ {
+ "unicode": "5B89",
+ "traits": 6,
+ "cles": 40,
+ "latin": [
+ "yasu",
+ "AN"
+ ]
+ },
+ {
+ "unicode": "5BFA",
+ "traits": 6,
+ "cles": 41,
+ "latin": [
+ "tera",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "5F53",
+ "traits": 6,
+ "cles": 42,
+ "latin": [
+ "a",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "5C3D",
+ "traits": 6,
+ "cles": 44,
+ "latin": [
+ "tsu",
+ "JIN"
+ ]
+ },
+ {
+ "unicode": "5DDE",
+ "traits": 6,
+ "cles": 47,
+ "latin": [
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "5E06",
+ "traits": 6,
+ "cles": 50,
+ "latin": [
+ "ho",
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "5F0F",
+ "traits": 6,
+ "cles": 56,
+ "latin": [
+ "SHIKI"
+ ]
+ },
+ {
+ "unicode": "5F10",
+ "traits": 6,
+ "cles": 56,
+ "latin": [
+ "NI"
+ ]
+ },
+ {
+ "unicode": "5FD9",
+ "traits": 6,
+ "cles": 61,
+ "latin": [
+ "isoga",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "6210",
+ "traits": 6,
+ "cles": 62,
+ "latin": [
+ "na",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "6271",
+ "traits": 6,
+ "cles": 64,
+ "latin": [
+ "atsuka"
+ ]
+ },
+ {
+ "unicode": "65E9",
+ "traits": 6,
+ "cles": 72,
+ "latin": [
+ "haya",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "65ED",
+ "traits": 6,
+ "cles": 72,
+ "latin": [
+ "asahi",
+ "KYOKU"
+ ]
+ },
+ {
+ "unicode": "66F2",
+ "traits": 6,
+ "cles": 73,
+ "latin": [
+ "ma",
+ "KYOKU"
+ ]
+ },
+ {
+ "unicode": "6709",
+ "traits": 6,
+ "cles": 74,
+ "latin": [
+ "a",
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "6734",
+ "traits": 6,
+ "cles": 75,
+ "latin": [
+ "BOKU"
+ ]
+ },
+ {
+ "unicode": "673A",
+ "traits": 6,
+ "cles": 75,
+ "latin": [
+ "tsukue",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "673D",
+ "traits": 6,
+ "cles": 75,
+ "latin": [
+ "ku",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "5217",
+ "traits": 6,
+ "cles": 78,
+ "latin": [
+ "RETSU"
+ ]
+ },
+ {
+ "unicode": "6B7B",
+ "traits": 6,
+ "cles": 78,
+ "latin": [
+ "shi",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "6BCE",
+ "traits": 6,
+ "cles": 80,
+ "latin": [
+ "MAI"
+ ]
+ },
+ {
+ "unicode": "6C17",
+ "traits": 6,
+ "cles": 84,
+ "latin": [
+ "KE",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "6C57",
+ "traits": 6,
+ "cles": 85,
+ "latin": [
+ "ase",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "6C5A",
+ "traits": 6,
+ "cles": 85,
+ "latin": [
+ "kega",
+ "kitana",
+ "yogo",
+ "O"
+ ]
+ },
+ {
+ "unicode": "6C5F",
+ "traits": 6,
+ "cles": 85,
+ "latin": [
+ "e",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6C60",
+ "traits": 6,
+ "cles": 85,
+ "latin": [
+ "ike",
+ "CHI"
+ ]
+ },
+ {
+ "unicode": "706F",
+ "traits": 6,
+ "cles": 86,
+ "latin": [
+ "hi",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "58EE",
+ "traits": 6,
+ "cles": 90,
+ "latin": [
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "767E",
+ "traits": 6,
+ "cles": 106,
+ "latin": [
+ "HYAKU"
+ ]
+ },
+ {
+ "unicode": "7AF9",
+ "traits": 6,
+ "cles": 118,
+ "latin": [
+ "take",
+ "CHIKU"
+ ]
+ },
+ {
+ "unicode": "7C73",
+ "traits": 6,
+ "cles": 119,
+ "latin": [
+ "kome",
+ "BEI",
+ "MAI"
+ ]
+ },
+ {
+ "unicode": "7CF8",
+ "traits": 6,
+ "cles": 120,
+ "latin": [
+ "ito",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "7F36",
+ "traits": 6,
+ "cles": 121,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "7F8A",
+ "traits": 6,
+ "cles": 123,
+ "latin": [
+ "hitsuji",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "7FBD",
+ "traits": 6,
+ "cles": 124,
+ "latin": [
+ "ha",
+ "hane",
+ "U"
+ ]
+ },
+ {
+ "unicode": "8001",
+ "traits": 6,
+ "cles": 125,
+ "latin": [
+ "ROO"
+ ]
+ },
+ {
+ "unicode": "8003",
+ "traits": 6,
+ "cles": 125,
+ "latin": [
+ "kanga",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "8033",
+ "traits": 6,
+ "cles": 128,
+ "latin": [
+ "mimi",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "8089",
+ "traits": 6,
+ "cles": 130,
+ "latin": [
+ "NIKU"
+ ]
+ },
+ {
+ "unicode": "808C",
+ "traits": 6,
+ "cles": 130,
+ "latin": [
+ "hada"
+ ]
+ },
+ {
+ "unicode": "81EA",
+ "traits": 6,
+ "cles": 132,
+ "latin": [
+ "mizuka",
+ "JI",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "81F3",
+ "traits": 6,
+ "cles": 133,
+ "latin": [
+ "ita",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "820C",
+ "traits": 6,
+ "cles": 135,
+ "latin": [
+ "shita"
+ ]
+ },
+ {
+ "unicode": "821F",
+ "traits": 6,
+ "cles": 137,
+ "latin": [
+ "funa",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "8272",
+ "traits": 6,
+ "cles": 139,
+ "latin": [
+ "iro",
+ "SHIKI",
+ "SHOKU"
+ ]
+ },
+ {
+ "unicode": "828B",
+ "traits": 6,
+ "cles": 140,
+ "latin": [
+ "imo"
+ ]
+ },
+ {
+ "unicode": "829D",
+ "traits": 6,
+ "cles": 140,
+ "latin": [
+ "shiba"
+ ]
+ },
+ {
+ "unicode": "866B",
+ "traits": 6,
+ "cles": 142,
+ "latin": [
+ "mushi",
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "8840",
+ "traits": 6,
+ "cles": 143,
+ "latin": [
+ "chi",
+ "KETSU"
+ ]
+ },
+ {
+ "unicode": "884C",
+ "traits": 6,
+ "cles": 144,
+ "latin": [
+ "i",
+ "okona",
+ "GYOO",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "8863",
+ "traits": 6,
+ "cles": 145,
+ "latin": [
+ "koromo",
+ "I"
+ ]
+ },
+ {
+ "unicode": "897F",
+ "traits": 6,
+ "cles": 146,
+ "latin": [
+ "nishi",
+ "SAI",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "5DE1",
+ "traits": 6,
+ "cles": 162,
+ "latin": [
+ "megu",
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "8FC5",
+ "traits": 6,
+ "cles": 162,
+ "latin": [
+ "JIN"
+ ]
+ },
+ {
+ "unicode": "4E9C",
+ "traits": 7,
+ "cles": 1,
+ "latin": [
+ "A"
+ ]
+ },
+ {
+ "unicode": "66F4",
+ "traits": 7,
+ "cles": 1,
+ "latin": [
+ "sara",
+ "fu",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6765",
+ "traits": 7,
+ "cles": 1,
+ "latin": [
+ "ku",
+ "kita",
+ "RAI"
+ ]
+ },
+ {
+ "unicode": "675F",
+ "traits": 7,
+ "cles": 2,
+ "latin": [
+ "taba",
+ "SOKU"
+ ]
+ },
+ {
+ "unicode": "6C42",
+ "traits": 7,
+ "cles": 3,
+ "latin": [
+ "moto",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "52B1",
+ "traits": 7,
+ "cles": 4,
+ "latin": [
+ "hage",
+ "REI"
+ ]
+ },
+ {
+ "unicode": "7CFB",
+ "traits": 7,
+ "cles": 4,
+ "latin": [
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "4F3A",
+ "traits": 7,
+ "cles": 8,
+ "latin": [
+ "ukaga",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "4F2F",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "HAKU"
+ ]
+ },
+ {
+ "unicode": "4F34",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "tomona",
+ "BAN",
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "4F38",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "no",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "4F3C",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "ni",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "4F46",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "tada"
+ ]
+ },
+ {
+ "unicode": "4F4D",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "kurai",
+ "I"
+ ]
+ },
+ {
+ "unicode": "4F4E",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "hiku",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "4F4F",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "su",
+ "JUU"
+ ]
+ },
+ {
+ "unicode": "4F50",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "SA"
+ ]
+ },
+ {
+ "unicode": "4F53",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "karada",
+ "TAI",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "4F55",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "nani",
+ "nan",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "4F59",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "ama",
+ "YO"
+ ]
+ },
+ {
+ "unicode": "4F5C",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "tsuku",
+ "SAKU"
+ ]
+ },
+ {
+ "unicode": "542B",
+ "traits": 7,
+ "cles": 9,
+ "latin": [
+ "fuku",
+ "GAN"
+ ]
+ },
+ {
+ "unicode": "5150",
+ "traits": 7,
+ "cles": 10,
+ "latin": [
+ "JI",
+ "NI"
+ ]
+ },
+ {
+ "unicode": "5175",
+ "traits": 7,
+ "cles": 12,
+ "latin": [
+ "HEI",
+ "HYOO"
+ ]
+ },
+ {
+ "unicode": "5449",
+ "traits": 7,
+ "cles": 12,
+ "latin": [
+ "GO"
+ ]
+ },
+ {
+ "unicode": "5F1F",
+ "traits": 7,
+ "cles": 12,
+ "latin": [
+ "otooto",
+ "DAI",
+ "DE",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "51B7",
+ "traits": 7,
+ "cles": 15,
+ "latin": [
+ "tsume",
+ "hi",
+ "sa",
+ "REI"
+ ]
+ },
+ {
+ "unicode": "5224",
+ "traits": 7,
+ "cles": 18,
+ "latin": [
+ "BAN",
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "5225",
+ "traits": 7,
+ "cles": 18,
+ "latin": [
+ "waka",
+ "BETSU"
+ ]
+ },
+ {
+ "unicode": "52A9",
+ "traits": 7,
+ "cles": 19,
+ "latin": [
+ "suke",
+ "tasu",
+ "JO"
+ ]
+ },
+ {
+ "unicode": "52AA",
+ "traits": 7,
+ "cles": 19,
+ "latin": [
+ "tsuto",
+ "DO"
+ ]
+ },
+ {
+ "unicode": "52B4",
+ "traits": 7,
+ "cles": 19,
+ "latin": [
+ "ROO"
+ ]
+ },
+ {
+ "unicode": "533B",
+ "traits": 7,
+ "cles": 22,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "514B",
+ "traits": 7,
+ "cles": 24,
+ "latin": [
+ "KOKU"
+ ]
+ },
+ {
+ "unicode": "5374",
+ "traits": 7,
+ "cles": 26,
+ "latin": [
+ "KYAKU"
+ ]
+ },
+ {
+ "unicode": "5375",
+ "traits": 7,
+ "cles": 26,
+ "latin": [
+ "tamago",
+ "RAN"
+ ]
+ },
+ {
+ "unicode": "541B",
+ "traits": 7,
+ "cles": 30,
+ "latin": [
+ "kimi"
+ ]
+ },
+ {
+ "unicode": "541F",
+ "traits": 7,
+ "cles": 30,
+ "latin": [
+ "GIN"
+ ]
+ },
+ {
+ "unicode": "5420",
+ "traits": 7,
+ "cles": 30,
+ "latin": [
+ "ho"
+ ]
+ },
+ {
+ "unicode": "5426",
+ "traits": 7,
+ "cles": 30,
+ "latin": [
+ "iya",
+ "ina",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "5439",
+ "traits": 7,
+ "cles": 30,
+ "latin": [
+ "fu",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "5442",
+ "traits": 7,
+ "cles": 30,
+ "latin": [
+ "RO"
+ ]
+ },
+ {
+ "unicode": "5448",
+ "traits": 7,
+ "cles": 30,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "544A",
+ "traits": 7,
+ "cles": 30,
+ "latin": [
+ "tsu",
+ "KOKU"
+ ]
+ },
+ {
+ "unicode": "56F0",
+ "traits": 7,
+ "cles": 31,
+ "latin": [
+ "koma",
+ "KON"
+ ]
+ },
+ {
+ "unicode": "56F2",
+ "traits": 7,
+ "cles": 31,
+ "latin": [
+ "kako",
+ "I"
+ ]
+ },
+ {
+ "unicode": "56F3",
+ "traits": 7,
+ "cles": 31,
+ "latin": [
+ "haka",
+ "TO",
+ "ZU"
+ ]
+ },
+ {
+ "unicode": "5742",
+ "traits": 7,
+ "cles": 32,
+ "latin": [
+ "saka",
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "5747",
+ "traits": 7,
+ "cles": 32,
+ "latin": [
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "574A",
+ "traits": 7,
+ "cles": 32,
+ "latin": [
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "5751",
+ "traits": 7,
+ "cles": 32,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "58F0",
+ "traits": 7,
+ "cles": 32,
+ "latin": [
+ "kowa",
+ "koe",
+ "SEI",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "58F1",
+ "traits": 7,
+ "cles": 32,
+ "latin": [
+ "ICHI"
+ ]
+ },
+ {
+ "unicode": "5FD7",
+ "traits": 7,
+ "cles": 32,
+ "latin": [
+ "kokoroza",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "58F2",
+ "traits": 7,
+ "cles": 33,
+ "latin": [
+ "u",
+ "BAI"
+ ]
+ },
+ {
+ "unicode": "6761",
+ "traits": 7,
+ "cles": 34,
+ "latin": [
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "598A",
+ "traits": 7,
+ "cles": 38,
+ "latin": [
+ "NIN"
+ ]
+ },
+ {
+ "unicode": "5999",
+ "traits": 7,
+ "cles": 38,
+ "latin": [
+ "MYOO"
+ ]
+ },
+ {
+ "unicode": "59A8",
+ "traits": 7,
+ "cles": 38,
+ "latin": [
+ "samata",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "5B8C",
+ "traits": 7,
+ "cles": 40,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "5B8F",
+ "traits": 7,
+ "cles": 40,
+ "latin": [
+ "hiro",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5BFF",
+ "traits": 7,
+ "cles": 41,
+ "latin": [
+ "kotobuki",
+ "JU",
+ "SU"
+ ]
+ },
+ {
+ "unicode": "8096",
+ "traits": 7,
+ "cles": 42,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5C3E",
+ "traits": 7,
+ "cles": 44,
+ "latin": [
+ "o",
+ "BI"
+ ]
+ },
+ {
+ "unicode": "5C3F",
+ "traits": 7,
+ "cles": 44,
+ "latin": [
+ "NYOO"
+ ]
+ },
+ {
+ "unicode": "5C40",
+ "traits": 7,
+ "cles": 44,
+ "latin": [
+ "KYOKU"
+ ]
+ },
+ {
+ "unicode": "5C90",
+ "traits": 7,
+ "cles": 46,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "707D",
+ "traits": 7,
+ "cles": 47,
+ "latin": [
+ "wazawa",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "653B",
+ "traits": 7,
+ "cles": 48,
+ "latin": [
+ "se",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5FCC",
+ "traits": 7,
+ "cles": 49,
+ "latin": [
+ "i",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "6539",
+ "traits": 7,
+ "cles": 49,
+ "latin": [
+ "arata",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "5E0C",
+ "traits": 7,
+ "cles": 50,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "5E8A",
+ "traits": 7,
+ "cles": 53,
+ "latin": [
+ "toko",
+ "yuka",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5E8F",
+ "traits": 7,
+ "cles": 53,
+ "latin": [
+ "JO"
+ ]
+ },
+ {
+ "unicode": "5FDC",
+ "traits": 7,
+ "cles": 53,
+ "latin": [
+ "OO"
+ ]
+ },
+ {
+ "unicode": "5EF7",
+ "traits": 7,
+ "cles": 54,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "5F62",
+ "traits": 7,
+ "cles": 59,
+ "latin": [
+ "kata",
+ "katachi",
+ "GYOO",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "5F79",
+ "traits": 7,
+ "cles": 60,
+ "latin": [
+ "EKI",
+ "YAKU"
+ ]
+ },
+ {
+ "unicode": "5FCD",
+ "traits": 7,
+ "cles": 61,
+ "latin": [
+ "shino",
+ "NIN"
+ ]
+ },
+ {
+ "unicode": "5FD8",
+ "traits": 7,
+ "cles": 61,
+ "latin": [
+ "wasu",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "5FEB",
+ "traits": 7,
+ "cles": 61,
+ "latin": [
+ "kokoroyo",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "6211",
+ "traits": 7,
+ "cles": 62,
+ "latin": [
+ "ware",
+ "GA"
+ ]
+ },
+ {
+ "unicode": "6212",
+ "traits": 7,
+ "cles": 62,
+ "latin": [
+ "imashi",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "623B",
+ "traits": 7,
+ "cles": 63,
+ "latin": [
+ "modo",
+ "REI"
+ ]
+ },
+ {
+ "unicode": "6276",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "FU"
+ ]
+ },
+ {
+ "unicode": "6279",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "HI"
+ ]
+ },
+ {
+ "unicode": "6280",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "waza",
+ "GI"
+ ]
+ },
+ {
+ "unicode": "6284",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "628A",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "HA"
+ ]
+ },
+ {
+ "unicode": "6291",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "osa",
+ "YOKU"
+ ]
+ },
+ {
+ "unicode": "6295",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "na",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "6297",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6298",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "o",
+ "SETSU"
+ ]
+ },
+ {
+ "unicode": "629C",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "nu",
+ "BATSU"
+ ]
+ },
+ {
+ "unicode": "629E",
+ "traits": 7,
+ "cles": 64,
+ "latin": [
+ "TAKU"
+ ]
+ },
+ {
+ "unicode": "5BFE",
+ "traits": 7,
+ "cles": 67,
+ "latin": [
+ "TAI",
+ "TSUI"
+ ]
+ },
+ {
+ "unicode": "6749",
+ "traits": 7,
+ "cles": 75,
+ "latin": [
+ "sugi"
+ ]
+ },
+ {
+ "unicode": "6750",
+ "traits": 7,
+ "cles": 75,
+ "latin": [
+ "ZAI"
+ ]
+ },
+ {
+ "unicode": "6751",
+ "traits": 7,
+ "cles": 75,
+ "latin": [
+ "mura",
+ "SON"
+ ]
+ },
+ {
+ "unicode": "6C7A",
+ "traits": 7,
+ "cles": 85,
+ "latin": [
+ "ki",
+ "KETSU"
+ ]
+ },
+ {
+ "unicode": "6C7D",
+ "traits": 7,
+ "cles": 85,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "6C88",
+ "traits": 7,
+ "cles": 85,
+ "latin": [
+ "shizu",
+ "CHIN"
+ ]
+ },
+ {
+ "unicode": "6C96",
+ "traits": 7,
+ "cles": 85,
+ "latin": [
+ "oki",
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "6CA1",
+ "traits": 7,
+ "cles": 85,
+ "latin": [
+ "BOTSU"
+ ]
+ },
+ {
+ "unicode": "6CA2",
+ "traits": 7,
+ "cles": 85,
+ "latin": [
+ "sawa",
+ "TAKU"
+ ]
+ },
+ {
+ "unicode": "59A5",
+ "traits": 7,
+ "cles": 87,
+ "latin": [
+ "DA"
+ ]
+ },
+ {
+ "unicode": "72B6",
+ "traits": 7,
+ "cles": 90,
+ "latin": [
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "72C2",
+ "traits": 7,
+ "cles": 94,
+ "latin": [
+ "kuru",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "7537",
+ "traits": 7,
+ "cles": 102,
+ "latin": [
+ "otoko",
+ "DAN",
+ "NAN"
+ ]
+ },
+ {
+ "unicode": "753A",
+ "traits": 7,
+ "cles": 102,
+ "latin": [
+ "machi",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "793E",
+ "traits": 7,
+ "cles": 113,
+ "latin": [
+ "yashiro",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "5229",
+ "traits": 7,
+ "cles": 115,
+ "latin": [
+ "ki",
+ "RI"
+ ]
+ },
+ {
+ "unicode": "79C0",
+ "traits": 7,
+ "cles": 115,
+ "latin": [
+ "hii",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "79C1",
+ "traits": 7,
+ "cles": 115,
+ "latin": [
+ "watakushi",
+ "watashi",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "7A76",
+ "traits": 7,
+ "cles": 116,
+ "latin": [
+ "kiwa",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "5B5D",
+ "traits": 7,
+ "cles": 125,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "809D",
+ "traits": 7,
+ "cles": 130,
+ "latin": [
+ "kimo",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "81E3",
+ "traits": 7,
+ "cles": 131,
+ "latin": [
+ "JIN",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "4E71",
+ "traits": 7,
+ "cles": 135,
+ "latin": [
+ "mida",
+ "RAN"
+ ]
+ },
+ {
+ "unicode": "5373",
+ "traits": 7,
+ "cles": 138,
+ "latin": [
+ "SOKU"
+ ]
+ },
+ {
+ "unicode": "826F",
+ "traits": 7,
+ "cles": 138,
+ "latin": [
+ "yo",
+ "i",
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "82AD",
+ "traits": 7,
+ "cles": 140,
+ "latin": [
+ "BA",
+ "HA"
+ ]
+ },
+ {
+ "unicode": "82B1",
+ "traits": 7,
+ "cles": 140,
+ "latin": [
+ "hana",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "82B3",
+ "traits": 7,
+ "cles": 140,
+ "latin": [
+ "kanba",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "82B8",
+ "traits": 7,
+ "cles": 140,
+ "latin": [
+ "GEI"
+ ]
+ },
+ {
+ "unicode": "521D",
+ "traits": 7,
+ "cles": 145,
+ "latin": [
+ "haji",
+ "SHO"
+ ]
+ },
+ {
+ "unicode": "898B",
+ "traits": 7,
+ "cles": 147,
+ "latin": [
+ "mi",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "89D2",
+ "traits": 7,
+ "cles": 148,
+ "latin": [
+ "tsuno",
+ "kado",
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "8A00",
+ "traits": 7,
+ "cles": 149,
+ "latin": [
+ "koto",
+ "i",
+ "GEN",
+ "GON"
+ ]
+ },
+ {
+ "unicode": "8C37",
+ "traits": 7,
+ "cles": 150,
+ "latin": [
+ "tani",
+ "ya",
+ "KOKU"
+ ]
+ },
+ {
+ "unicode": "8C46",
+ "traits": 7,
+ "cles": 151,
+ "latin": [
+ "mame",
+ "TOO",
+ "ZU"
+ ]
+ },
+ {
+ "unicode": "8C9D",
+ "traits": 7,
+ "cles": 154,
+ "latin": [
+ "kai"
+ ]
+ },
+ {
+ "unicode": "8D64",
+ "traits": 7,
+ "cles": 155,
+ "latin": [
+ "aka",
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "8D70",
+ "traits": 7,
+ "cles": 156,
+ "latin": [
+ "hashi",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "8DB3",
+ "traits": 7,
+ "cles": 157,
+ "latin": [
+ "ashi",
+ "ta",
+ "SOKU"
+ ]
+ },
+ {
+ "unicode": "8EAB",
+ "traits": 7,
+ "cles": 158,
+ "latin": [
+ "mi",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "8ECA",
+ "traits": 7,
+ "cles": 159,
+ "latin": [
+ "kuruma",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "8F9B",
+ "traits": 7,
+ "cles": 160,
+ "latin": [
+ "kara",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "8FCE",
+ "traits": 7,
+ "cles": 162,
+ "latin": [
+ "muka",
+ "GEI"
+ ]
+ },
+ {
+ "unicode": "8FD1",
+ "traits": 7,
+ "cles": 162,
+ "latin": [
+ "chika",
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "8FD4",
+ "traits": 7,
+ "cles": 162,
+ "latin": [
+ "kae",
+ "HEN"
+ ]
+ },
+ {
+ "unicode": "90A6",
+ "traits": 7,
+ "cles": 163,
+ "latin": [
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "91CC",
+ "traits": 7,
+ "cles": 166,
+ "latin": [
+ "sato",
+ "RI"
+ ]
+ },
+ {
+ "unicode": "962A",
+ "traits": 7,
+ "cles": 170,
+ "latin": [
+ "saka"
+ ]
+ },
+ {
+ "unicode": "9632",
+ "traits": 7,
+ "cles": 170,
+ "latin": [
+ "fuse",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "9EA6",
+ "traits": 7,
+ "cles": 199,
+ "latin": [
+ "mugi",
+ "BAKU"
+ ]
+ },
+ {
+ "unicode": "627F",
+ "traits": 8,
+ "cles": 1,
+ "latin": [
+ "uketamawa",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "753B",
+ "traits": 8,
+ "cles": 1,
+ "latin": [
+ "GA",
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "6771",
+ "traits": 8,
+ "cles": 2,
+ "latin": [
+ "higashi",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "679C",
+ "traits": 8,
+ "cles": 2,
+ "latin": [
+ "ha",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "53D7",
+ "traits": 8,
+ "cles": 4,
+ "latin": [
+ "u",
+ "JU"
+ ]
+ },
+ {
+ "unicode": "5782",
+ "traits": 8,
+ "cles": 4,
+ "latin": [
+ "ta",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "5949",
+ "traits": 8,
+ "cles": 4,
+ "latin": [
+ "hoo",
+ "tatematsu",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "4E73",
+ "traits": 8,
+ "cles": 5,
+ "latin": [
+ "chi",
+ "NYUU"
+ ]
+ },
+ {
+ "unicode": "4E8B",
+ "traits": 8,
+ "cles": 6,
+ "latin": [
+ "koto",
+ "JI",
+ "ZU"
+ ]
+ },
+ {
+ "unicode": "4EAB",
+ "traits": 8,
+ "cles": 8,
+ "latin": [
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "4EAC",
+ "traits": 8,
+ "cles": 8,
+ "latin": [
+ "miyako",
+ "KEI",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "4EAD",
+ "traits": 8,
+ "cles": 8,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "5352",
+ "traits": 8,
+ "cles": 8,
+ "latin": [
+ "SOTSU"
+ ]
+ },
+ {
+ "unicode": "591C",
+ "traits": 8,
+ "cles": 8,
+ "latin": [
+ "yoru",
+ "yo",
+ "YA"
+ ]
+ },
+ {
+ "unicode": "76F2",
+ "traits": 8,
+ "cles": 8,
+ "latin": [
+ "mekura",
+ "MOO"
+ ]
+ },
+ {
+ "unicode": "80B2",
+ "traits": 8,
+ "cles": 8,
+ "latin": [
+ "soda",
+ "IKU"
+ ]
+ },
+ {
+ "unicode": "4F73",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "KA"
+ ]
+ },
+ {
+ "unicode": "4F75",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "awa",
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "4F7F",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "tsuka",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "4F8B",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "tato",
+ "REI"
+ ]
+ },
+ {
+ "unicode": "4F8D",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "samurai",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "4F9B",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "sona",
+ "tomo",
+ "KU",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "4F9D",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "E",
+ "I"
+ ]
+ },
+ {
+ "unicode": "4FA1",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "atai",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "4FAE",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "anado",
+ "BU"
+ ]
+ },
+ {
+ "unicode": "547D",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "inochi",
+ "MEI"
+ ]
+ },
+ {
+ "unicode": "820E",
+ "traits": 8,
+ "cles": 9,
+ "latin": [
+ "SEKI",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "514D",
+ "traits": 8,
+ "cles": 10,
+ "latin": [
+ "manuka",
+ "MEN"
+ ]
+ },
+ {
+ "unicode": "4E26",
+ "traits": 8,
+ "cles": 12,
+ "latin": [
+ "nara",
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "5178",
+ "traits": 8,
+ "cles": 12,
+ "latin": [
+ "TEN"
+ ]
+ },
+ {
+ "unicode": "5468",
+ "traits": 8,
+ "cles": 13,
+ "latin": [
+ "mawa",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "5CA1",
+ "traits": 8,
+ "cles": 13,
+ "latin": [
+ "oka",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5236",
+ "traits": 8,
+ "cles": 18,
+ "latin": [
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "5237",
+ "traits": 8,
+ "cles": 18,
+ "latin": [
+ "su",
+ "SATSU"
+ ]
+ },
+ {
+ "unicode": "5238",
+ "traits": 8,
+ "cles": 18,
+ "latin": [
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "523A",
+ "traits": 8,
+ "cles": 18,
+ "latin": [
+ "sa",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "523B",
+ "traits": 8,
+ "cles": 18,
+ "latin": [
+ "kiza",
+ "KOKU"
+ ]
+ },
+ {
+ "unicode": "52B9",
+ "traits": 8,
+ "cles": 19,
+ "latin": [
+ "ki",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "52BE",
+ "traits": 8,
+ "cles": 19,
+ "latin": [
+ "GAI"
+ ]
+ },
+ {
+ "unicode": "5354",
+ "traits": 8,
+ "cles": 24,
+ "latin": [
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "76F4",
+ "traits": 8,
+ "cles": 24,
+ "latin": [
+ "nao",
+ "CHOKU",
+ "JIKI"
+ ]
+ },
+ {
+ "unicode": "5353",
+ "traits": 8,
+ "cles": 25,
+ "latin": [
+ "TAKU"
+ ]
+ },
+ {
+ "unicode": "53C2",
+ "traits": 8,
+ "cles": 28,
+ "latin": [
+ "mai",
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "53D4",
+ "traits": 8,
+ "cles": 29,
+ "latin": [
+ "SHUKU"
+ ]
+ },
+ {
+ "unicode": "5473",
+ "traits": 8,
+ "cles": 30,
+ "latin": [
+ "aji",
+ "MI"
+ ]
+ },
+ {
+ "unicode": "547C",
+ "traits": 8,
+ "cles": 30,
+ "latin": [
+ "yo",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "56FA",
+ "traits": 8,
+ "cles": 31,
+ "latin": [
+ "kata",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "56FD",
+ "traits": 8,
+ "cles": 31,
+ "latin": [
+ "kuni",
+ "KOKU"
+ ]
+ },
+ {
+ "unicode": "576A",
+ "traits": 8,
+ "cles": 32,
+ "latin": [
+ "tsubo"
+ ]
+ },
+ {
+ "unicode": "5E78",
+ "traits": 8,
+ "cles": 32,
+ "latin": [
+ "sachi",
+ "shiawa",
+ "saiwa",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5947",
+ "traits": 8,
+ "cles": 37,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "5948",
+ "traits": 8,
+ "cles": 37,
+ "latin": [
+ "NA",
+ "NAI"
+ ]
+ },
+ {
+ "unicode": "5954",
+ "traits": 8,
+ "cles": 37,
+ "latin": [
+ "HON"
+ ]
+ },
+ {
+ "unicode": "59B9",
+ "traits": 8,
+ "cles": 38,
+ "latin": [
+ "imooto",
+ "MAI"
+ ]
+ },
+ {
+ "unicode": "59BB",
+ "traits": 8,
+ "cles": 38,
+ "latin": [
+ "tsuma",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "59C9",
+ "traits": 8,
+ "cles": 38,
+ "latin": [
+ "ane",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "59CB",
+ "traits": 8,
+ "cles": 38,
+ "latin": [
+ "haji",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "59D3",
+ "traits": 8,
+ "cles": 38,
+ "latin": [
+ "SEI",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5B63",
+ "traits": 8,
+ "cles": 39,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "5B66",
+ "traits": 8,
+ "cles": 39,
+ "latin": [
+ "mana",
+ "GAK",
+ "GAKU"
+ ]
+ },
+ {
+ "unicode": "5B97",
+ "traits": 8,
+ "cles": 40,
+ "latin": [
+ "SHUU",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "5B98",
+ "traits": 8,
+ "cles": 40,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "5B99",
+ "traits": 8,
+ "cles": 40,
+ "latin": [
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "5B9A",
+ "traits": 8,
+ "cles": 40,
+ "latin": [
+ "sada",
+ "JOO",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "5B9C",
+ "traits": 8,
+ "cles": 40,
+ "latin": [
+ "GI"
+ ]
+ },
+ {
+ "unicode": "5B9D",
+ "traits": 8,
+ "cles": 40,
+ "latin": [
+ "takara",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "5B9F",
+ "traits": 8,
+ "cles": 40,
+ "latin": [
+ "mi",
+ "mino",
+ "JITSU"
+ ]
+ },
+ {
+ "unicode": "5C1A",
+ "traits": 8,
+ "cles": 42,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5C45",
+ "traits": 8,
+ "cles": 44,
+ "latin": [
+ "i",
+ "KYO"
+ ]
+ },
+ {
+ "unicode": "5C48",
+ "traits": 8,
+ "cles": 44,
+ "latin": [
+ "KUTSU"
+ ]
+ },
+ {
+ "unicode": "5C4A",
+ "traits": 8,
+ "cles": 44,
+ "latin": [
+ "todo"
+ ]
+ },
+ {
+ "unicode": "5CA9",
+ "traits": 8,
+ "cles": 46,
+ "latin": [
+ "iwa",
+ "GAN"
+ ]
+ },
+ {
+ "unicode": "5CAC",
+ "traits": 8,
+ "cles": 46,
+ "latin": [
+ "misaki"
+ ]
+ },
+ {
+ "unicode": "5CB3",
+ "traits": 8,
+ "cles": 46,
+ "latin": [
+ "take",
+ "GAKU"
+ ]
+ },
+ {
+ "unicode": "5CB8",
+ "traits": 8,
+ "cles": 46,
+ "latin": [
+ "kishi",
+ "GAN"
+ ]
+ },
+ {
+ "unicode": "5E95",
+ "traits": 8,
+ "cles": 53,
+ "latin": [
+ "soko",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "5E97",
+ "traits": 8,
+ "cles": 53,
+ "latin": [
+ "mise",
+ "TEN"
+ ]
+ },
+ {
+ "unicode": "5E9C",
+ "traits": 8,
+ "cles": 53,
+ "latin": [
+ "FU"
+ ]
+ },
+ {
+ "unicode": "5EF6",
+ "traits": 8,
+ "cles": 54,
+ "latin": [
+ "no",
+ "EN"
+ ]
+ },
+ {
+ "unicode": "6B66",
+ "traits": 8,
+ "cles": 56,
+ "latin": [
+ "BU",
+ "MU"
+ ]
+ },
+ {
+ "unicode": "5F26",
+ "traits": 8,
+ "cles": 57,
+ "latin": [
+ "tsuru",
+ "GEN"
+ ]
+ },
+ {
+ "unicode": "5F7C",
+ "traits": 8,
+ "cles": 60,
+ "latin": [
+ "kare",
+ "kano"
+ ]
+ },
+ {
+ "unicode": "5F80",
+ "traits": 8,
+ "cles": 60,
+ "latin": [
+ "OO"
+ ]
+ },
+ {
+ "unicode": "5F81",
+ "traits": 8,
+ "cles": 60,
+ "latin": [
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "5F84",
+ "traits": 8,
+ "cles": 60,
+ "latin": [
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "5FE0",
+ "traits": 8,
+ "cles": 61,
+ "latin": [
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "5FF5",
+ "traits": 8,
+ "cles": 61,
+ "latin": [
+ "NEN"
+ ]
+ },
+ {
+ "unicode": "6016",
+ "traits": 8,
+ "cles": 61,
+ "latin": [
+ "kowa",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "6027",
+ "traits": 8,
+ "cles": 61,
+ "latin": [
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "602A",
+ "traits": 8,
+ "cles": 61,
+ "latin": [
+ "aya",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "623F",
+ "traits": 8,
+ "cles": 63,
+ "latin": [
+ "fusa",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "6240",
+ "traits": 8,
+ "cles": 63,
+ "latin": [
+ "tokoro",
+ "SHO"
+ ]
+ },
+ {
+ "unicode": "80A9",
+ "traits": 8,
+ "cles": 63,
+ "latin": [
+ "kata",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "62AB",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "HI"
+ ]
+ },
+ {
+ "unicode": "62B1",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "da",
+ "kaka",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "62B5",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "62B9",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "MATSU"
+ ]
+ },
+ {
+ "unicode": "62BC",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "o",
+ "OO"
+ ]
+ },
+ {
+ "unicode": "62BD",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "62C5",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "nina",
+ "katsu",
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "62CD",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "HAKU",
+ "HYOO"
+ ]
+ },
+ {
+ "unicode": "62D0",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "62D2",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "koba",
+ "KYO"
+ ]
+ },
+ {
+ "unicode": "62D3",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "TAKU"
+ ]
+ },
+ {
+ "unicode": "62D8",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "62D9",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "SETSU"
+ ]
+ },
+ {
+ "unicode": "62DB",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "mane",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "62DD",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "oga",
+ "HAI"
+ ]
+ },
+ {
+ "unicode": "62E0",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "KO",
+ "KYO"
+ ]
+ },
+ {
+ "unicode": "62E1",
+ "traits": 8,
+ "cles": 64,
+ "latin": [
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "653E",
+ "traits": 8,
+ "cles": 70,
+ "latin": [
+ "hana",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "6606",
+ "traits": 8,
+ "cles": 72,
+ "latin": [
+ "KON"
+ ]
+ },
+ {
+ "unicode": "6607",
+ "traits": 8,
+ "cles": 72,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "660E",
+ "traits": 8,
+ "cles": 72,
+ "latin": [
+ "aka",
+ "MEI",
+ "MYOO"
+ ]
+ },
+ {
+ "unicode": "6613",
+ "traits": 8,
+ "cles": 72,
+ "latin": [
+ "yasa",
+ "EKI",
+ "I"
+ ]
+ },
+ {
+ "unicode": "6614",
+ "traits": 8,
+ "cles": 72,
+ "latin": [
+ "mukashi",
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "670D",
+ "traits": 8,
+ "cles": 74,
+ "latin": [
+ "FUKU"
+ ]
+ },
+ {
+ "unicode": "676F",
+ "traits": 8,
+ "cles": 75,
+ "latin": [
+ "sakazuki",
+ "HAI"
+ ]
+ },
+ {
+ "unicode": "677E",
+ "traits": 8,
+ "cles": 75,
+ "latin": [
+ "matsu",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "677F",
+ "traits": 8,
+ "cles": 75,
+ "latin": [
+ "ita",
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "6790",
+ "traits": 8,
+ "cles": 75,
+ "latin": [
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "6795",
+ "traits": 8,
+ "cles": 75,
+ "latin": [
+ "makura"
+ ]
+ },
+ {
+ "unicode": "6797",
+ "traits": 8,
+ "cles": 75,
+ "latin": [
+ "hayashi",
+ "RIN"
+ ]
+ },
+ {
+ "unicode": "679A",
+ "traits": 8,
+ "cles": 75,
+ "latin": [
+ "MAI"
+ ]
+ },
+ {
+ "unicode": "679D",
+ "traits": 8,
+ "cles": 75,
+ "latin": [
+ "eda",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "67A0",
+ "traits": 8,
+ "cles": 75,
+ "latin": [
+ "waku"
+ ]
+ },
+ {
+ "unicode": "67A2",
+ "traits": 8,
+ "cles": 75,
+ "latin": [
+ "SUU"
+ ]
+ },
+ {
+ "unicode": "6B27",
+ "traits": 8,
+ "cles": 76,
+ "latin": [
+ "OO"
+ ]
+ },
+ {
+ "unicode": "6B69",
+ "traits": 8,
+ "cles": 77,
+ "latin": [
+ "aru",
+ "HO"
+ ]
+ },
+ {
+ "unicode": "80AF",
+ "traits": 8,
+ "cles": 77,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6BB4",
+ "traits": 8,
+ "cles": 79,
+ "latin": [
+ "nagu",
+ "OO"
+ ]
+ },
+ {
+ "unicode": "6BD2",
+ "traits": 8,
+ "cles": 80,
+ "latin": [
+ "DOKU"
+ ]
+ },
+ {
+ "unicode": "6CB3",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "kawa",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "6CB8",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "wa",
+ "FUTSU"
+ ]
+ },
+ {
+ "unicode": "6CB9",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "abura",
+ "YU"
+ ]
+ },
+ {
+ "unicode": "6CBB",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "osa",
+ "nao",
+ "CHI",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "6CBC",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "numa",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "6CBF",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "so",
+ "EN"
+ ]
+ },
+ {
+ "unicode": "6CC1",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "6CCA",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "to",
+ "HAKU"
+ ]
+ },
+ {
+ "unicode": "6CCC",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "HI",
+ "HITSU"
+ ]
+ },
+ {
+ "unicode": "6CD5",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "nori",
+ "HA",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "6CE1",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "awa",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "6CE2",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "nami",
+ "HA"
+ ]
+ },
+ {
+ "unicode": "6CE3",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "na",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "6CE5",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "doro",
+ "DEI"
+ ]
+ },
+ {
+ "unicode": "6CE8",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "soso",
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "6CF3",
+ "traits": 8,
+ "cles": 85,
+ "latin": [
+ "oyo",
+ "EI"
+ ]
+ },
+ {
+ "unicode": "7089",
+ "traits": 8,
+ "cles": 86,
+ "latin": [
+ "RO"
+ ]
+ },
+ {
+ "unicode": "708A",
+ "traits": 8,
+ "cles": 86,
+ "latin": [
+ "ta",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "708E",
+ "traits": 8,
+ "cles": 86,
+ "latin": [
+ "honoo",
+ "EN"
+ ]
+ },
+ {
+ "unicode": "65A7",
+ "traits": 8,
+ "cles": 88,
+ "latin": [
+ "ono",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "7248",
+ "traits": 8,
+ "cles": 91,
+ "latin": [
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "90AA",
+ "traits": 8,
+ "cles": 92,
+ "latin": [
+ "JA"
+ ]
+ },
+ {
+ "unicode": "7267",
+ "traits": 8,
+ "cles": 93,
+ "latin": [
+ "maki",
+ "BOKU"
+ ]
+ },
+ {
+ "unicode": "7269",
+ "traits": 8,
+ "cles": 93,
+ "latin": [
+ "mono",
+ "BUTSU",
+ "MOTSU"
+ ]
+ },
+ {
+ "unicode": "7684",
+ "traits": 8,
+ "cles": 106,
+ "latin": [
+ "mato",
+ "TEKI"
+ ]
+ },
+ {
+ "unicode": "5177",
+ "traits": 8,
+ "cles": 109,
+ "latin": [
+ "GU"
+ ]
+ },
+ {
+ "unicode": "77E5",
+ "traits": 8,
+ "cles": 111,
+ "latin": [
+ "shi",
+ "CHI"
+ ]
+ },
+ {
+ "unicode": "7948",
+ "traits": 8,
+ "cles": 113,
+ "latin": [
+ "ino",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "7949",
+ "traits": 8,
+ "cles": 113,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "548C",
+ "traits": 8,
+ "cles": 115,
+ "latin": [
+ "yawa",
+ "nago",
+ "WA"
+ ]
+ },
+ {
+ "unicode": "59D4",
+ "traits": 8,
+ "cles": 115,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "7A7A",
+ "traits": 8,
+ "cles": 116,
+ "latin": [
+ "kara",
+ "muna",
+ "a",
+ "sora",
+ "KUU"
+ ]
+ },
+ {
+ "unicode": "7A81",
+ "traits": 8,
+ "cles": 116,
+ "latin": [
+ "tsu",
+ "TOTSU"
+ ]
+ },
+ {
+ "unicode": "8005",
+ "traits": 8,
+ "cles": 125,
+ "latin": [
+ "mono",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "53D6",
+ "traits": 8,
+ "cles": 128,
+ "latin": [
+ "to",
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "80A2",
+ "traits": 8,
+ "cles": 130,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "80A5",
+ "traits": 8,
+ "cles": 130,
+ "latin": [
+ "ko",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "80AA",
+ "traits": 8,
+ "cles": 130,
+ "latin": [
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "5230",
+ "traits": 8,
+ "cles": 133,
+ "latin": [
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "82BD",
+ "traits": 8,
+ "cles": 140,
+ "latin": [
+ "me",
+ "GA"
+ ]
+ },
+ {
+ "unicode": "82D7",
+ "traits": 8,
+ "cles": 140,
+ "latin": [
+ "nawa",
+ "nae",
+ "BYOO",
+ "MYOO"
+ ]
+ },
+ {
+ "unicode": "82E5",
+ "traits": 8,
+ "cles": 140,
+ "latin": [
+ "mo",
+ "waka",
+ "JAKU",
+ "NYAKU"
+ ]
+ },
+ {
+ "unicode": "82E6",
+ "traits": 8,
+ "cles": 140,
+ "latin": [
+ "kuru",
+ "KU"
+ ]
+ },
+ {
+ "unicode": "82F1",
+ "traits": 8,
+ "cles": 140,
+ "latin": [
+ "EI"
+ ]
+ },
+ {
+ "unicode": "82FA",
+ "traits": 8,
+ "cles": 140,
+ "latin": [
+ "ichigo",
+ "BAI",
+ "MAI"
+ ]
+ },
+ {
+ "unicode": "8302",
+ "traits": 8,
+ "cles": 140,
+ "latin": [
+ "shige",
+ "MO"
+ ]
+ },
+ {
+ "unicode": "830E",
+ "traits": 8,
+ "cles": 140,
+ "latin": [
+ "kuki",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "864E",
+ "traits": 8,
+ "cles": 141,
+ "latin": [
+ "tora",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "8868",
+ "traits": 8,
+ "cles": 145,
+ "latin": [
+ "arawa",
+ "HYOO"
+ ]
+ },
+ {
+ "unicode": "8FEB",
+ "traits": 8,
+ "cles": 162,
+ "latin": [
+ "sema",
+ "HAKU"
+ ]
+ },
+ {
+ "unicode": "8FED",
+ "traits": 8,
+ "cles": 162,
+ "latin": [
+ "TETSU"
+ ]
+ },
+ {
+ "unicode": "8FF0",
+ "traits": 8,
+ "cles": 162,
+ "latin": [
+ "no",
+ "JUTSU"
+ ]
+ },
+ {
+ "unicode": "90B8",
+ "traits": 8,
+ "cles": 163,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "91D1",
+ "traits": 8,
+ "cles": 167,
+ "latin": [
+ "kane",
+ "KIN",
+ "KON"
+ ]
+ },
+ {
+ "unicode": "9577",
+ "traits": 8,
+ "cles": 168,
+ "latin": [
+ "naga",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "9580",
+ "traits": 8,
+ "cles": 169,
+ "latin": [
+ "kado",
+ "MON"
+ ]
+ },
+ {
+ "unicode": "963B",
+ "traits": 8,
+ "cles": 170,
+ "latin": [
+ "haba",
+ "SO"
+ ]
+ },
+ {
+ "unicode": "9644",
+ "traits": 8,
+ "cles": 170,
+ "latin": [
+ "FU"
+ ]
+ },
+ {
+ "unicode": "96E8",
+ "traits": 8,
+ "cles": 173,
+ "latin": [
+ "ame",
+ "U"
+ ]
+ },
+ {
+ "unicode": "9752",
+ "traits": 8,
+ "cles": 174,
+ "latin": [
+ "ao",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "975E",
+ "traits": 8,
+ "cles": 175,
+ "latin": [
+ "HI"
+ ]
+ },
+ {
+ "unicode": "6589",
+ "traits": 8,
+ "cles": 210,
+ "latin": [
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "5E25",
+ "traits": 9,
+ "cles": 2,
+ "latin": [
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "5E7D",
+ "traits": 9,
+ "cles": 2,
+ "latin": [
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "8877",
+ "traits": 9,
+ "cles": 2,
+ "latin": [
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "70BA",
+ "traits": 9,
+ "cles": 3,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "4E57",
+ "traits": 9,
+ "cles": 4,
+ "latin": [
+ "no",
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "5351",
+ "traits": 9,
+ "cles": 4,
+ "latin": [
+ "iya",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "5358",
+ "traits": 9,
+ "cles": 4,
+ "latin": [
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "76FE",
+ "traits": 9,
+ "cles": 4,
+ "latin": [
+ "tate",
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "91CD",
+ "traits": 9,
+ "cles": 4,
+ "latin": [
+ "omo",
+ "kasa",
+ "CHOO",
+ "JUU"
+ ]
+ },
+ {
+ "unicode": "4F10",
+ "traits": 9,
+ "cles": 8,
+ "latin": [
+ "BATSU"
+ ]
+ },
+ {
+ "unicode": "54C0",
+ "traits": 9,
+ "cles": 8,
+ "latin": [
+ "awa",
+ "AI"
+ ]
+ },
+ {
+ "unicode": "5E1D",
+ "traits": 9,
+ "cles": 8,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "4FAF",
+ "traits": 9,
+ "cles": 9,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "4FB5",
+ "traits": 9,
+ "cles": 9,
+ "latin": [
+ "oka",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "4FB6",
+ "traits": 9,
+ "cles": 9,
+ "latin": [
+ "RYO"
+ ]
+ },
+ {
+ "unicode": "4FBF",
+ "traits": 9,
+ "cles": 9,
+ "latin": [
+ "BEN",
+ "BIN"
+ ]
+ },
+ {
+ "unicode": "4FC2",
+ "traits": 9,
+ "cles": 9,
+ "latin": [
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "4FC3",
+ "traits": 9,
+ "cles": 9,
+ "latin": [
+ "unaga",
+ "SOKU"
+ ]
+ },
+ {
+ "unicode": "4FCA",
+ "traits": 9,
+ "cles": 9,
+ "latin": [
+ "SHUN"
+ ]
+ },
+ {
+ "unicode": "4FD7",
+ "traits": 9,
+ "cles": 9,
+ "latin": [
+ "ZOKU"
+ ]
+ },
+ {
+ "unicode": "4FDD",
+ "traits": 9,
+ "cles": 9,
+ "latin": [
+ "tamo",
+ "HO"
+ ]
+ },
+ {
+ "unicode": "4FE1",
+ "traits": 9,
+ "cles": 9,
+ "latin": [
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "524D",
+ "traits": 9,
+ "cles": 12,
+ "latin": [
+ "mae",
+ "ZEN"
+ ]
+ },
+ {
+ "unicode": "51A0",
+ "traits": 9,
+ "cles": 14,
+ "latin": [
+ "kanmuri",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "8ECD",
+ "traits": 9,
+ "cles": 14,
+ "latin": [
+ "GUN"
+ ]
+ },
+ {
+ "unicode": "524A",
+ "traits": 9,
+ "cles": 18,
+ "latin": [
+ "kezu",
+ "SAKU"
+ ]
+ },
+ {
+ "unicode": "52C5",
+ "traits": 9,
+ "cles": 19,
+ "latin": [
+ "CHOKU"
+ ]
+ },
+ {
+ "unicode": "52C7",
+ "traits": 9,
+ "cles": 19,
+ "latin": [
+ "isa",
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "5357",
+ "traits": 9,
+ "cles": 24,
+ "latin": [
+ "minami",
+ "NA",
+ "NAN"
+ ]
+ },
+ {
+ "unicode": "70B9",
+ "traits": 9,
+ "cles": 25,
+ "latin": [
+ "TEN"
+ ]
+ },
+ {
+ "unicode": "8C9E",
+ "traits": 9,
+ "cles": 25,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "5378",
+ "traits": 9,
+ "cles": 26,
+ "latin": [
+ "oroshi oro"
+ ]
+ },
+ {
+ "unicode": "5398",
+ "traits": 9,
+ "cles": 27,
+ "latin": [
+ "RIN"
+ ]
+ },
+ {
+ "unicode": "539A",
+ "traits": 9,
+ "cles": 27,
+ "latin": [
+ "atsu",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6020",
+ "traits": 9,
+ "cles": 28,
+ "latin": [
+ "nama",
+ "okota",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "53D9",
+ "traits": 9,
+ "cles": 29,
+ "latin": [
+ "JO"
+ ]
+ },
+ {
+ "unicode": "54B2",
+ "traits": 9,
+ "cles": 30,
+ "latin": [
+ "sa"
+ ]
+ },
+ {
+ "unicode": "54C1",
+ "traits": 9,
+ "cles": 30,
+ "latin": [
+ "shina",
+ "HIN"
+ ]
+ },
+ {
+ "unicode": "578B",
+ "traits": 9,
+ "cles": 32,
+ "latin": [
+ "kata",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "57A3",
+ "traits": 9,
+ "cles": 32,
+ "latin": [
+ "kaki"
+ ]
+ },
+ {
+ "unicode": "57CE",
+ "traits": 9,
+ "cles": 32,
+ "latin": [
+ "shiro",
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "5909",
+ "traits": 9,
+ "cles": 34,
+ "latin": [
+ "ka",
+ "HEN"
+ ]
+ },
+ {
+ "unicode": "594F",
+ "traits": 9,
+ "cles": 37,
+ "latin": [
+ "kana",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "5951",
+ "traits": 9,
+ "cles": 37,
+ "latin": [
+ "chigi",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "59E6",
+ "traits": 9,
+ "cles": 38,
+ "latin": [
+ "kashima",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "59FB",
+ "traits": 9,
+ "cles": 38,
+ "latin": [
+ "IN"
+ ]
+ },
+ {
+ "unicode": "59FF",
+ "traits": 9,
+ "cles": 38,
+ "latin": [
+ "sugata",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "5B64",
+ "traits": 9,
+ "cles": 39,
+ "latin": [
+ "KO"
+ ]
+ },
+ {
+ "unicode": "5BA2",
+ "traits": 9,
+ "cles": 40,
+ "latin": [
+ "KYAKU"
+ ]
+ },
+ {
+ "unicode": "5BA3",
+ "traits": 9,
+ "cles": 40,
+ "latin": [
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "5BA4",
+ "traits": 9,
+ "cles": 40,
+ "latin": [
+ "muro",
+ "SHITSU"
+ ]
+ },
+ {
+ "unicode": "5C01",
+ "traits": 9,
+ "cles": 41,
+ "latin": [
+ "FUU",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "5C02",
+ "traits": 9,
+ "cles": 41,
+ "latin": [
+ "moppa",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "770C",
+ "traits": 9,
+ "cles": 42,
+ "latin": [
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "5C4B",
+ "traits": 9,
+ "cles": 44,
+ "latin": [
+ "ya",
+ "OKU"
+ ]
+ },
+ {
+ "unicode": "5CE0",
+ "traits": 9,
+ "cles": 46,
+ "latin": [
+ "tooge"
+ ]
+ },
+ {
+ "unicode": "5CE1",
+ "traits": 9,
+ "cles": 46,
+ "latin": [
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "70AD",
+ "traits": 9,
+ "cles": 46,
+ "latin": [
+ "sumi",
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "5DFB",
+ "traits": 9,
+ "cles": 49,
+ "latin": [
+ "maki",
+ "ma",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "5EA6",
+ "traits": 9,
+ "cles": 53,
+ "latin": [
+ "tabi",
+ "DO",
+ "TAKU"
+ ]
+ },
+ {
+ "unicode": "5EFA",
+ "traits": 9,
+ "cles": 54,
+ "latin": [
+ "ta",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "5F27",
+ "traits": 9,
+ "cles": 57,
+ "latin": [
+ "KO"
+ ]
+ },
+ {
+ "unicode": "5F85",
+ "traits": 9,
+ "cles": 60,
+ "latin": [
+ "ma",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "5F8B",
+ "traits": 9,
+ "cles": 60,
+ "latin": [
+ "RITSU"
+ ]
+ },
+ {
+ "unicode": "5F8C",
+ "traits": 9,
+ "cles": 60,
+ "latin": [
+ "ato",
+ "nochi",
+ "ushi",
+ "GO",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6012",
+ "traits": 9,
+ "cles": 61,
+ "latin": [
+ "oko",
+ "ika",
+ "DO"
+ ]
+ },
+ {
+ "unicode": "6025",
+ "traits": 9,
+ "cles": 61,
+ "latin": [
+ "iso",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "6052",
+ "traits": 9,
+ "cles": 61,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6068",
+ "traits": 9,
+ "cles": 61,
+ "latin": [
+ "ura",
+ "KON"
+ ]
+ },
+ {
+ "unicode": "6070",
+ "traits": 9,
+ "cles": 61,
+ "latin": [
+ "CHOO",
+ "KAK",
+ "KOO",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "6094",
+ "traits": 9,
+ "cles": 61,
+ "latin": [
+ "ku",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "5A01",
+ "traits": 9,
+ "cles": 62,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "62EC",
+ "traits": 9,
+ "cles": 64,
+ "latin": [
+ "KATSU"
+ ]
+ },
+ {
+ "unicode": "62F7",
+ "traits": 9,
+ "cles": 64,
+ "latin": [
+ "GOO"
+ ]
+ },
+ {
+ "unicode": "62FE",
+ "traits": 9,
+ "cles": 64,
+ "latin": [
+ "hiro",
+ "JUU",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "6301",
+ "traits": 9,
+ "cles": 64,
+ "latin": [
+ "mo",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "6307",
+ "traits": 9,
+ "cles": 64,
+ "latin": [
+ "yubi",
+ "sa",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "6311",
+ "traits": 9,
+ "cles": 64,
+ "latin": [
+ "ido",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "631F",
+ "traits": 9,
+ "cles": 64,
+ "latin": [
+ "hasa",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "653F",
+ "traits": 9,
+ "cles": 66,
+ "latin": [
+ "matsurigoto",
+ "SEI",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "6545",
+ "traits": 9,
+ "cles": 66,
+ "latin": [
+ "yue",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "65BD",
+ "traits": 9,
+ "cles": 70,
+ "latin": [
+ "hodoko",
+ "SE",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "5192",
+ "traits": 9,
+ "cles": 72,
+ "latin": [
+ "oka",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "661F",
+ "traits": 9,
+ "cles": 72,
+ "latin": [
+ "hoshi",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "6620",
+ "traits": 9,
+ "cles": 72,
+ "latin": [
+ "utsu",
+ "EI"
+ ]
+ },
+ {
+ "unicode": "6625",
+ "traits": 9,
+ "cles": 72,
+ "latin": [
+ "haru",
+ "SHUN"
+ ]
+ },
+ {
+ "unicode": "6628",
+ "traits": 9,
+ "cles": 72,
+ "latin": [
+ "SAKU"
+ ]
+ },
+ {
+ "unicode": "662D",
+ "traits": 9,
+ "cles": 72,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "662F",
+ "traits": 9,
+ "cles": 72,
+ "latin": [
+ "ZE"
+ ]
+ },
+ {
+ "unicode": "663C",
+ "traits": 9,
+ "cles": 72,
+ "latin": [
+ "hiru",
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "67AF",
+ "traits": 9,
+ "cles": 75,
+ "latin": [
+ "ka",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "67B6",
+ "traits": 9,
+ "cles": 75,
+ "latin": [
+ "ka",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "67C4",
+ "traits": 9,
+ "cles": 75,
+ "latin": [
+ "gara",
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "67D3",
+ "traits": 9,
+ "cles": 75,
+ "latin": [
+ "so",
+ "shi",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "67F1",
+ "traits": 9,
+ "cles": 75,
+ "latin": [
+ "hashira",
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "67F3",
+ "traits": 9,
+ "cles": 75,
+ "latin": [
+ "yanagi",
+ "RYUU"
+ ]
+ },
+ {
+ "unicode": "67FB",
+ "traits": 9,
+ "cles": 75,
+ "latin": [
+ "SA"
+ ]
+ },
+ {
+ "unicode": "67FF",
+ "traits": 9,
+ "cles": 75,
+ "latin": [
+ "kaki"
+ ]
+ },
+ {
+ "unicode": "6804",
+ "traits": 9,
+ "cles": 75,
+ "latin": [
+ "ha",
+ "saka",
+ "EI"
+ ]
+ },
+ {
+ "unicode": "76F8",
+ "traits": 9,
+ "cles": 75,
+ "latin": [
+ "ai",
+ "SHOO",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "6B86",
+ "traits": 9,
+ "cles": 78,
+ "latin": [
+ "hoton",
+ "SAI",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "6BB5",
+ "traits": 9,
+ "cles": 79,
+ "latin": [
+ "DAN"
+ ]
+ },
+ {
+ "unicode": "6D0B",
+ "traits": 9,
+ "cles": 85,
+ "latin": [
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "6D17",
+ "traits": 9,
+ "cles": 85,
+ "latin": [
+ "ara",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "6D1E",
+ "traits": 9,
+ "cles": 85,
+ "latin": [
+ "hora",
+ "DOO"
+ ]
+ },
+ {
+ "unicode": "6D25",
+ "traits": 9,
+ "cles": 85,
+ "latin": [
+ "tsu",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "6D2A",
+ "traits": 9,
+ "cles": 85,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6D3B",
+ "traits": 9,
+ "cles": 85,
+ "latin": [
+ "KATSU"
+ ]
+ },
+ {
+ "unicode": "6D3E",
+ "traits": 9,
+ "cles": 85,
+ "latin": [
+ "HA"
+ ]
+ },
+ {
+ "unicode": "6D44",
+ "traits": 9,
+ "cles": 85,
+ "latin": [
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "6D45",
+ "traits": 9,
+ "cles": 85,
+ "latin": [
+ "asa",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "6D77",
+ "traits": 9,
+ "cles": 85,
+ "latin": [
+ "umi",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "7551",
+ "traits": 9,
+ "cles": 86,
+ "latin": [
+ "hata",
+ "hatake"
+ ]
+ },
+ {
+ "unicode": "7272",
+ "traits": 9,
+ "cles": 93,
+ "latin": [
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "72E9",
+ "traits": 9,
+ "cles": 94,
+ "latin": [
+ "ka",
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "72EC",
+ "traits": 9,
+ "cles": 94,
+ "latin": [
+ "hito",
+ "DOKU"
+ ]
+ },
+ {
+ "unicode": "72ED",
+ "traits": 9,
+ "cles": 94,
+ "latin": [
+ "seba",
+ "sema",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "73CD",
+ "traits": 9,
+ "cles": 96,
+ "latin": [
+ "mezura",
+ "CHIN"
+ ]
+ },
+ {
+ "unicode": "67D0",
+ "traits": 9,
+ "cles": 99,
+ "latin": [
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "751A",
+ "traits": 9,
+ "cles": 99,
+ "latin": [
+ "hanaha",
+ "JIN"
+ ]
+ },
+ {
+ "unicode": "601D",
+ "traits": 9,
+ "cles": 102,
+ "latin": [
+ "omo",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "754C",
+ "traits": 9,
+ "cles": 102,
+ "latin": [
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "754F",
+ "traits": 9,
+ "cles": 102,
+ "latin": [
+ "kashiko",
+ "oso",
+ "I"
+ ]
+ },
+ {
+ "unicode": "80C3",
+ "traits": 9,
+ "cles": 102,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "75AB",
+ "traits": 9,
+ "cles": 104,
+ "latin": [
+ "EKI"
+ ]
+ },
+ {
+ "unicode": "767A",
+ "traits": 9,
+ "cles": 105,
+ "latin": [
+ "HATSU",
+ "HOTSU"
+ ]
+ },
+ {
+ "unicode": "6CC9",
+ "traits": 9,
+ "cles": 106,
+ "latin": [
+ "izumi",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "7687",
+ "traits": 9,
+ "cles": 106,
+ "latin": [
+ "KOO",
+ "OO"
+ ]
+ },
+ {
+ "unicode": "76C6",
+ "traits": 9,
+ "cles": 108,
+ "latin": [
+ "BON"
+ ]
+ },
+ {
+ "unicode": "7701",
+ "traits": 9,
+ "cles": 109,
+ "latin": [
+ "habu",
+ "kaeri",
+ "SEI",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7709",
+ "traits": 9,
+ "cles": 109,
+ "latin": [
+ "mayu",
+ "BI",
+ "MI"
+ ]
+ },
+ {
+ "unicode": "770B",
+ "traits": 9,
+ "cles": 109,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "67D4",
+ "traits": 9,
+ "cles": 110,
+ "latin": [
+ "yawa",
+ "JUU",
+ "NYUU"
+ ]
+ },
+ {
+ "unicode": "7802",
+ "traits": 9,
+ "cles": 112,
+ "latin": [
+ "suna",
+ "SA"
+ ]
+ },
+ {
+ "unicode": "7814",
+ "traits": 9,
+ "cles": 112,
+ "latin": [
+ "to",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "7815",
+ "traits": 9,
+ "cles": 112,
+ "latin": [
+ "kuda",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "7956",
+ "traits": 9,
+ "cles": 113,
+ "latin": [
+ "SO"
+ ]
+ },
+ {
+ "unicode": "795D",
+ "traits": 9,
+ "cles": 113,
+ "latin": [
+ "iwa",
+ "SHUKU",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "795E",
+ "traits": 9,
+ "cles": 113,
+ "latin": [
+ "koo",
+ "kan",
+ "kami",
+ "JIN",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "79CB",
+ "traits": 9,
+ "cles": 115,
+ "latin": [
+ "aki",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "79D1",
+ "traits": 9,
+ "cles": 115,
+ "latin": [
+ "KA"
+ ]
+ },
+ {
+ "unicode": "79D2",
+ "traits": 9,
+ "cles": 115,
+ "latin": [
+ "BYOO"
+ ]
+ },
+ {
+ "unicode": "7A83",
+ "traits": 9,
+ "cles": 116,
+ "latin": [
+ "SETSU"
+ ]
+ },
+ {
+ "unicode": "7CFE",
+ "traits": 9,
+ "cles": 120,
+ "latin": [
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "7D00",
+ "traits": 9,
+ "cles": 120,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "7D04",
+ "traits": 9,
+ "cles": 120,
+ "latin": [
+ "YAKU"
+ ]
+ },
+ {
+ "unicode": "7D05",
+ "traits": 9,
+ "cles": 120,
+ "latin": [
+ "beni",
+ "kurenai",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "7D1A",
+ "traits": 9,
+ "cles": 120,
+ "latin": [
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "7F8E",
+ "traits": 9,
+ "cles": 123,
+ "latin": [
+ "utsuku",
+ "BI",
+ "MI"
+ ]
+ },
+ {
+ "unicode": "8010",
+ "traits": 9,
+ "cles": 126,
+ "latin": [
+ "ta",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "80BA",
+ "traits": 9,
+ "cles": 130,
+ "latin": [
+ "HAI"
+ ]
+ },
+ {
+ "unicode": "80C6",
+ "traits": 9,
+ "cles": 130,
+ "latin": [
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "80CC",
+ "traits": 9,
+ "cles": 130,
+ "latin": [
+ "sei",
+ "somu",
+ "se",
+ "HAI"
+ ]
+ },
+ {
+ "unicode": "80CE",
+ "traits": 9,
+ "cles": 130,
+ "latin": [
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "80DE",
+ "traits": 9,
+ "cles": 130,
+ "latin": [
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "81ED",
+ "traits": 9,
+ "cles": 132,
+ "latin": [
+ "kusa",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "8336",
+ "traits": 9,
+ "cles": 140,
+ "latin": [
+ "CHA",
+ "SA"
+ ]
+ },
+ {
+ "unicode": "8338",
+ "traits": 9,
+ "cles": 140,
+ "latin": [
+ "kinoko",
+ "take",
+ "JOO",
+ "NYU"
+ ]
+ },
+ {
+ "unicode": "8339",
+ "traits": 9,
+ "cles": 140,
+ "latin": [
+ "u",
+ "yu"
+ ]
+ },
+ {
+ "unicode": "8349",
+ "traits": 9,
+ "cles": 140,
+ "latin": [
+ "kusa",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "8352",
+ "traits": 9,
+ "cles": 140,
+ "latin": [
+ "ara",
+ "a",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "8358",
+ "traits": 9,
+ "cles": 140,
+ "latin": [
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "8650",
+ "traits": 9,
+ "cles": 141,
+ "latin": [
+ "shiita",
+ "GYAKU"
+ ]
+ },
+ {
+ "unicode": "8679",
+ "traits": 9,
+ "cles": 142,
+ "latin": [
+ "niji",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "8981",
+ "traits": 9,
+ "cles": 146,
+ "latin": [
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "8A02",
+ "traits": 9,
+ "cles": 149,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "8A08",
+ "traits": 9,
+ "cles": 149,
+ "latin": [
+ "haka",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "5247",
+ "traits": 9,
+ "cles": 154,
+ "latin": [
+ "SOKU"
+ ]
+ },
+ {
+ "unicode": "8CA0",
+ "traits": 9,
+ "cles": 154,
+ "latin": [
+ "ma",
+ "o",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "8D74",
+ "traits": 9,
+ "cles": 156,
+ "latin": [
+ "omomu",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "8ECC",
+ "traits": 9,
+ "cles": 159,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "8FF7",
+ "traits": 9,
+ "cles": 162,
+ "latin": [
+ "mayo",
+ "MAI",
+ "MEI"
+ ]
+ },
+ {
+ "unicode": "8FFD",
+ "traits": 9,
+ "cles": 162,
+ "latin": [
+ "o",
+ "TSUI"
+ ]
+ },
+ {
+ "unicode": "9000",
+ "traits": 9,
+ "cles": 162,
+ "latin": [
+ "shirizo",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "9001",
+ "traits": 9,
+ "cles": 162,
+ "latin": [
+ "oku",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "9003",
+ "traits": 9,
+ "cles": 162,
+ "latin": [
+ "noga",
+ "ni",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "9006",
+ "traits": 9,
+ "cles": 162,
+ "latin": [
+ "saka",
+ "GYAKU"
+ ]
+ },
+ {
+ "unicode": "90CA",
+ "traits": 9,
+ "cles": 163,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "90CE",
+ "traits": 9,
+ "cles": 163,
+ "latin": [
+ "ROO"
+ ]
+ },
+ {
+ "unicode": "9650",
+ "traits": 9,
+ "cles": 170,
+ "latin": [
+ "kagi",
+ "GEN"
+ ]
+ },
+ {
+ "unicode": "9762",
+ "traits": 9,
+ "cles": 176,
+ "latin": [
+ "omote",
+ "MEN"
+ ]
+ },
+ {
+ "unicode": "9769",
+ "traits": 9,
+ "cles": 177,
+ "latin": [
+ "kawa",
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "97F3",
+ "traits": 9,
+ "cles": 180,
+ "latin": [
+ "ne",
+ "oto",
+ "IN",
+ "ON"
+ ]
+ },
+ {
+ "unicode": "9801",
+ "traits": 9,
+ "cles": 181,
+ "latin": [
+ "kashira",
+ "peeji"
+ ]
+ },
+ {
+ "unicode": "98A8",
+ "traits": 9,
+ "cles": 182,
+ "latin": [
+ "kaze",
+ "FU",
+ "FUU"
+ ]
+ },
+ {
+ "unicode": "98DB",
+ "traits": 9,
+ "cles": 183,
+ "latin": [
+ "to",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "98DF",
+ "traits": 9,
+ "cles": 184,
+ "latin": [
+ "ta",
+ "SHOKU"
+ ]
+ },
+ {
+ "unicode": "9996",
+ "traits": 9,
+ "cles": 185,
+ "latin": [
+ "kubi",
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "9999",
+ "traits": 9,
+ "cles": 186,
+ "latin": [
+ "kao",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "755D",
+ "traits": 10,
+ "cles": 8,
+ "latin": [
+ "une",
+ "se"
+ ]
+ },
+ {
+ "unicode": "8870",
+ "traits": 10,
+ "cles": 8,
+ "latin": [
+ "otoro",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "4FEE",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "osa",
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "4FF3",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "HAI"
+ ]
+ },
+ {
+ "unicode": "4FF5",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "tawara",
+ "HYOO"
+ ]
+ },
+ {
+ "unicode": "4FF8",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "5009",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "kura",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "500B",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "KO"
+ ]
+ },
+ {
+ "unicode": "500D",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "BAI"
+ ]
+ },
+ {
+ "unicode": "5012",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "tao",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "5019",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "sooroo",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "501F",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "ka",
+ "SHAKU"
+ ]
+ },
+ {
+ "unicode": "5023",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "nara",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "5024",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "ne",
+ "atai",
+ "CHI"
+ ]
+ },
+ {
+ "unicode": "502B",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "RIN"
+ ]
+ },
+ {
+ "unicode": "5039",
+ "traits": 10,
+ "cles": 9,
+ "latin": [
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "517C",
+ "traits": 10,
+ "cles": 12,
+ "latin": [
+ "ka",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "7FC1",
+ "traits": 10,
+ "cles": 12,
+ "latin": [
+ "OO"
+ ]
+ },
+ {
+ "unicode": "51C6",
+ "traits": 10,
+ "cles": 15,
+ "latin": [
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "51CD",
+ "traits": 10,
+ "cles": 15,
+ "latin": [
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "5256",
+ "traits": 10,
+ "cles": 18,
+ "latin": [
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "525B",
+ "traits": 10,
+ "cles": 18,
+ "latin": [
+ "GOO"
+ ]
+ },
+ {
+ "unicode": "5263",
+ "traits": 10,
+ "cles": 18,
+ "latin": [
+ "tsurugi",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "5E30",
+ "traits": 10,
+ "cles": 18,
+ "latin": [
+ "kae",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "52C9",
+ "traits": 10,
+ "cles": 19,
+ "latin": [
+ "BEN"
+ ]
+ },
+ {
+ "unicode": "533F",
+ "traits": 10,
+ "cles": 22,
+ "latin": [
+ "TOKU"
+ ]
+ },
+ {
+ "unicode": "771F",
+ "traits": 10,
+ "cles": 24,
+ "latin": [
+ "ma",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "7D22",
+ "traits": 10,
+ "cles": 24,
+ "latin": [
+ "SAKU"
+ ]
+ },
+ {
+ "unicode": "539F",
+ "traits": 10,
+ "cles": 27,
+ "latin": [
+ "hara",
+ "GEN"
+ ]
+ },
+ {
+ "unicode": "80FD",
+ "traits": 10,
+ "cles": 28,
+ "latin": [
+ "NOO"
+ ]
+ },
+ {
+ "unicode": "54E1",
+ "traits": 10,
+ "cles": 30,
+ "latin": [
+ "IN"
+ ]
+ },
+ {
+ "unicode": "54F2",
+ "traits": 10,
+ "cles": 30,
+ "latin": [
+ "TETSU"
+ ]
+ },
+ {
+ "unicode": "5506",
+ "traits": 10,
+ "cles": 30,
+ "latin": [
+ "sosonoka",
+ "SA"
+ ]
+ },
+ {
+ "unicode": "57CB",
+ "traits": 10,
+ "cles": 32,
+ "latin": [
+ "u",
+ "MAI"
+ ]
+ },
+ {
+ "unicode": "590F",
+ "traits": 10,
+ "cles": 34,
+ "latin": [
+ "natsu",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "59EB",
+ "traits": 10,
+ "cles": 38,
+ "latin": [
+ "hime"
+ ]
+ },
+ {
+ "unicode": "5A18",
+ "traits": 10,
+ "cles": 38,
+ "latin": [
+ "musume"
+ ]
+ },
+ {
+ "unicode": "5A20",
+ "traits": 10,
+ "cles": 38,
+ "latin": [
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "5A2F",
+ "traits": 10,
+ "cles": 38,
+ "latin": [
+ "GO"
+ ]
+ },
+ {
+ "unicode": "5B6B",
+ "traits": 10,
+ "cles": 39,
+ "latin": [
+ "mago",
+ "SON"
+ ]
+ },
+ {
+ "unicode": "5BAE",
+ "traits": 10,
+ "cles": 40,
+ "latin": [
+ "miya",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "5BB0",
+ "traits": 10,
+ "cles": 40,
+ "latin": [
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "5BB3",
+ "traits": 10,
+ "cles": 40,
+ "latin": [
+ "GAI"
+ ]
+ },
+ {
+ "unicode": "5BB4",
+ "traits": 10,
+ "cles": 40,
+ "latin": [
+ "EN"
+ ]
+ },
+ {
+ "unicode": "5BB5",
+ "traits": 10,
+ "cles": 40,
+ "latin": [
+ "yoi",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5BB6",
+ "traits": 10,
+ "cles": 40,
+ "latin": [
+ "ya",
+ "ie",
+ "uchi",
+ "KA",
+ "KE"
+ ]
+ },
+ {
+ "unicode": "5BB9",
+ "traits": 10,
+ "cles": 40,
+ "latin": [
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "6848",
+ "traits": 10,
+ "cles": 40,
+ "latin": [
+ "AN"
+ ]
+ },
+ {
+ "unicode": "515A",
+ "traits": 10,
+ "cles": 42,
+ "latin": [
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "5C55",
+ "traits": 10,
+ "cles": 44,
+ "latin": [
+ "TEN"
+ ]
+ },
+ {
+ "unicode": "5CF0",
+ "traits": 10,
+ "cles": 46,
+ "latin": [
+ "mine",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "5CF6",
+ "traits": 10,
+ "cles": 46,
+ "latin": [
+ "shima",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "8CA2",
+ "traits": 10,
+ "cles": 48,
+ "latin": [
+ "mitsu",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5E2B",
+ "traits": 10,
+ "cles": 50,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "5E2F",
+ "traits": 10,
+ "cles": 50,
+ "latin": [
+ "obi o",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "5510",
+ "traits": 10,
+ "cles": 53,
+ "latin": [
+ "kara",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "5E2D",
+ "traits": 10,
+ "cles": 53,
+ "latin": [
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "5EA7",
+ "traits": 10,
+ "cles": 53,
+ "latin": [
+ "suwa",
+ "ZA"
+ ]
+ },
+ {
+ "unicode": "5EAB",
+ "traits": 10,
+ "cles": 53,
+ "latin": [
+ "KO"
+ ]
+ },
+ {
+ "unicode": "5EAD",
+ "traits": 10,
+ "cles": 53,
+ "latin": [
+ "niwa",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "5F31",
+ "traits": 10,
+ "cles": 57,
+ "latin": [
+ "yowa",
+ "JAKU"
+ ]
+ },
+ {
+ "unicode": "5F90",
+ "traits": 10,
+ "cles": 60,
+ "latin": [
+ "JO"
+ ]
+ },
+ {
+ "unicode": "5F92",
+ "traits": 10,
+ "cles": 60,
+ "latin": [
+ "TO"
+ ]
+ },
+ {
+ "unicode": "5F93",
+ "traits": 10,
+ "cles": 60,
+ "latin": [
+ "shitaga",
+ "JUU"
+ ]
+ },
+ {
+ "unicode": "604B",
+ "traits": 10,
+ "cles": 61,
+ "latin": [
+ "ko",
+ "koi",
+ "REN"
+ ]
+ },
+ {
+ "unicode": "6050",
+ "traits": 10,
+ "cles": 61,
+ "latin": [
+ "oso",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "6069",
+ "traits": 10,
+ "cles": 61,
+ "latin": [
+ "ON"
+ ]
+ },
+ {
+ "unicode": "606D",
+ "traits": 10,
+ "cles": 61,
+ "latin": [
+ "uyauya",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "6075",
+ "traits": 10,
+ "cles": 61,
+ "latin": [
+ "megu",
+ "E",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "609F",
+ "traits": 10,
+ "cles": 61,
+ "latin": [
+ "sato",
+ "GO"
+ ]
+ },
+ {
+ "unicode": "60A6",
+ "traits": 10,
+ "cles": 61,
+ "latin": [
+ "ETSU"
+ ]
+ },
+ {
+ "unicode": "60A9",
+ "traits": 10,
+ "cles": 61,
+ "latin": [
+ "naya",
+ "NOO"
+ ]
+ },
+ {
+ "unicode": "6247",
+ "traits": 10,
+ "cles": 63,
+ "latin": [
+ "oogi",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "6319",
+ "traits": 10,
+ "cles": 64,
+ "latin": [
+ "a",
+ "KYO"
+ ]
+ },
+ {
+ "unicode": "632F",
+ "traits": 10,
+ "cles": 64,
+ "latin": [
+ "fu",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "633F",
+ "traits": 10,
+ "cles": 64,
+ "latin": [
+ "sa",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "6349",
+ "traits": 10,
+ "cles": 64,
+ "latin": [
+ "tsuka",
+ "SAKU",
+ "SOKU"
+ ]
+ },
+ {
+ "unicode": "6355",
+ "traits": 10,
+ "cles": 64,
+ "latin": [
+ "tsuka",
+ "to",
+ "HO"
+ ]
+ },
+ {
+ "unicode": "635C",
+ "traits": 10,
+ "cles": 64,
+ "latin": [
+ "saga",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "654F",
+ "traits": 10,
+ "cles": 66,
+ "latin": [
+ "BIN"
+ ]
+ },
+ {
+ "unicode": "65C5",
+ "traits": 10,
+ "cles": 70,
+ "latin": [
+ "tabi",
+ "RYO"
+ ]
+ },
+ {
+ "unicode": "6642",
+ "traits": 10,
+ "cles": 72,
+ "latin": [
+ "toki",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "6666",
+ "traits": 10,
+ "cles": 72,
+ "latin": [
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "6813",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "6821",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "682A",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "kabu"
+ ]
+ },
+ {
+ "unicode": "6838",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "6839",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "ne",
+ "KON"
+ ]
+ },
+ {
+ "unicode": "683C",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "KAKU",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "683D",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "6843",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "momo",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "6851",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "kuwa",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "685C",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "sakura",
+ "OO"
+ ]
+ },
+ {
+ "unicode": "685F",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "6885",
+ "traits": 10,
+ "cles": 75,
+ "latin": [
+ "ume",
+ "BAI"
+ ]
+ },
+ {
+ "unicode": "6B89",
+ "traits": 10,
+ "cles": 78,
+ "latin": [
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "6B8A",
+ "traits": 10,
+ "cles": 78,
+ "latin": [
+ "koto",
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "6B8B",
+ "traits": 10,
+ "cles": 78,
+ "latin": [
+ "noko",
+ "ZAN"
+ ]
+ },
+ {
+ "unicode": "6BBA",
+ "traits": 10,
+ "cles": 79,
+ "latin": [
+ "koro",
+ "SATSU"
+ ]
+ },
+ {
+ "unicode": "6CF0",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "6D41",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "naga",
+ "RU",
+ "RYUU"
+ ]
+ },
+ {
+ "unicode": "6D5C",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "hama",
+ "HIN"
+ ]
+ },
+ {
+ "unicode": "6D66",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "ura",
+ "HO"
+ ]
+ },
+ {
+ "unicode": "6D6A",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "ROO"
+ ]
+ },
+ {
+ "unicode": "6D6E",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "u",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "6D74",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "a",
+ "YOKU"
+ ]
+ },
+ {
+ "unicode": "6D78",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "hita",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "6D88",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "ki",
+ "ke",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "6D99",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "namida",
+ "RUI"
+ ]
+ },
+ {
+ "unicode": "9152",
+ "traits": 10,
+ "cles": 85,
+ "latin": [
+ "sake",
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "70C8",
+ "traits": 10,
+ "cles": 86,
+ "latin": [
+ "RETSU"
+ ]
+ },
+ {
+ "unicode": "91DC",
+ "traits": 10,
+ "cles": 88,
+ "latin": [
+ "kama",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "5C06",
+ "traits": 10,
+ "cles": 90,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7279",
+ "traits": 10,
+ "cles": 93,
+ "latin": [
+ "TOKU"
+ ]
+ },
+ {
+ "unicode": "72FC",
+ "traits": 10,
+ "cles": 94,
+ "latin": [
+ "ookami",
+ "ROO"
+ ]
+ },
+ {
+ "unicode": "755C",
+ "traits": 10,
+ "cles": 95,
+ "latin": [
+ "CHIKU"
+ ]
+ },
+ {
+ "unicode": "73E0",
+ "traits": 10,
+ "cles": 96,
+ "latin": [
+ "JU",
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "73ED",
+ "traits": 10,
+ "cles": 96,
+ "latin": [
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "74F6",
+ "traits": 10,
+ "cles": 98,
+ "latin": [
+ "BIN"
+ ]
+ },
+ {
+ "unicode": "7554",
+ "traits": 10,
+ "cles": 102,
+ "latin": [
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "7559",
+ "traits": 10,
+ "cles": 102,
+ "latin": [
+ "to",
+ "RU",
+ "RYUU"
+ ]
+ },
+ {
+ "unicode": "75B2",
+ "traits": 10,
+ "cles": 104,
+ "latin": [
+ "tsuka",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "75BE",
+ "traits": 10,
+ "cles": 104,
+ "latin": [
+ "SHITSU"
+ ]
+ },
+ {
+ "unicode": "75C5",
+ "traits": 10,
+ "cles": 104,
+ "latin": [
+ "ya",
+ "yamai",
+ "BYOO",
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "75C7",
+ "traits": 10,
+ "cles": 104,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7686",
+ "traits": 10,
+ "cles": 106,
+ "latin": [
+ "mina",
+ "minna",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "76CA",
+ "traits": 10,
+ "cles": 108,
+ "latin": [
+ "EKI"
+ ]
+ },
+ {
+ "unicode": "7720",
+ "traits": 10,
+ "cles": 109,
+ "latin": [
+ "nemu",
+ "MIN"
+ ]
+ },
+ {
+ "unicode": "7832",
+ "traits": 10,
+ "cles": 112,
+ "latin": [
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "7834",
+ "traits": 10,
+ "cles": 112,
+ "latin": [
+ "yabu",
+ "HA"
+ ]
+ },
+ {
+ "unicode": "7965",
+ "traits": 10,
+ "cles": 113,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "79D8",
+ "traits": 10,
+ "cles": 115,
+ "latin": [
+ "hi",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "79DF",
+ "traits": 10,
+ "cles": 115,
+ "latin": [
+ "SO"
+ ]
+ },
+ {
+ "unicode": "79E9",
+ "traits": 10,
+ "cles": 115,
+ "latin": [
+ "CHITSU"
+ ]
+ },
+ {
+ "unicode": "79F0",
+ "traits": 10,
+ "cles": 115,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7B11",
+ "traits": 10,
+ "cles": 118,
+ "latin": [
+ "wara",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "6599",
+ "traits": 10,
+ "cles": 119,
+ "latin": [
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "7C89",
+ "traits": 10,
+ "cles": 119,
+ "latin": [
+ "ko",
+ "kona",
+ "FUN"
+ ]
+ },
+ {
+ "unicode": "7C8B",
+ "traits": 10,
+ "cles": 119,
+ "latin": [
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "7D0B",
+ "traits": 10,
+ "cles": 120,
+ "latin": [
+ "MON"
+ ]
+ },
+ {
+ "unicode": "7D0D",
+ "traits": 10,
+ "cles": 120,
+ "latin": [
+ "osa",
+ "NA",
+ "NAN",
+ "NOO",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "7D14",
+ "traits": 10,
+ "cles": 120,
+ "latin": [
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "7D19",
+ "traits": 10,
+ "cles": 120,
+ "latin": [
+ "kami",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "7D1B",
+ "traits": 10,
+ "cles": 120,
+ "latin": [
+ "magi",
+ "FUN"
+ ]
+ },
+ {
+ "unicode": "7D20",
+ "traits": 10,
+ "cles": 120,
+ "latin": [
+ "SO",
+ "SU"
+ ]
+ },
+ {
+ "unicode": "7D21",
+ "traits": 10,
+ "cles": 120,
+ "latin": [
+ "tsumu",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "5DEE",
+ "traits": 10,
+ "cles": 123,
+ "latin": [
+ "sa",
+ "SA"
+ ]
+ },
+ {
+ "unicode": "8015",
+ "traits": 10,
+ "cles": 127,
+ "latin": [
+ "tagaya",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "8017",
+ "traits": 10,
+ "cles": 127,
+ "latin": [
+ "KOO",
+ "MOO"
+ ]
+ },
+ {
+ "unicode": "6065",
+ "traits": 10,
+ "cles": 128,
+ "latin": [
+ "haji",
+ "ha",
+ "CHI"
+ ]
+ },
+ {
+ "unicode": "66F8",
+ "traits": 10,
+ "cles": 129,
+ "latin": [
+ "ka",
+ "SHO"
+ ]
+ },
+ {
+ "unicode": "6715",
+ "traits": 10,
+ "cles": 130,
+ "latin": [
+ "CHIN"
+ ]
+ },
+ {
+ "unicode": "6717",
+ "traits": 10,
+ "cles": 130,
+ "latin": [
+ "hoga",
+ "ROO"
+ ]
+ },
+ {
+ "unicode": "80F4",
+ "traits": 10,
+ "cles": 130,
+ "latin": [
+ "DOO"
+ ]
+ },
+ {
+ "unicode": "80F8",
+ "traits": 10,
+ "cles": 130,
+ "latin": [
+ "mune",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "8102",
+ "traits": 10,
+ "cles": 130,
+ "latin": [
+ "abura",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "8105",
+ "traits": 10,
+ "cles": 130,
+ "latin": [
+ "obiya",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "8108",
+ "traits": 10,
+ "cles": 130,
+ "latin": [
+ "MYAKU"
+ ]
+ },
+ {
+ "unicode": "810A",
+ "traits": 10,
+ "cles": 130,
+ "latin": [
+ "se",
+ "sei",
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "606F",
+ "traits": 10,
+ "cles": 132,
+ "latin": [
+ "iki",
+ "SOKU"
+ ]
+ },
+ {
+ "unicode": "81F4",
+ "traits": 10,
+ "cles": 133,
+ "latin": [
+ "ita",
+ "CHI"
+ ]
+ },
+ {
+ "unicode": "822A",
+ "traits": 10,
+ "cles": 137,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "822C",
+ "traits": 10,
+ "cles": 137,
+ "latin": [
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "65E2",
+ "traits": 10,
+ "cles": 138,
+ "latin": [
+ "sude",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "8377",
+ "traits": 10,
+ "cles": 140,
+ "latin": [
+ "ni",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "83EF",
+ "traits": 10,
+ "cles": 140,
+ "latin": [
+ "hana",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "868A",
+ "traits": 10,
+ "cles": 142,
+ "latin": [
+ "ka",
+ "BUN"
+ ]
+ },
+ {
+ "unicode": "8695",
+ "traits": 10,
+ "cles": 142,
+ "latin": [
+ "kaiko",
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "8896",
+ "traits": 10,
+ "cles": 145,
+ "latin": [
+ "sode"
+ ]
+ },
+ {
+ "unicode": "88AB",
+ "traits": 10,
+ "cles": 145,
+ "latin": [
+ "kabu",
+ "koomu",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "8A0E",
+ "traits": 10,
+ "cles": 149,
+ "latin": [
+ "u",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "8A13",
+ "traits": 10,
+ "cles": 149,
+ "latin": [
+ "KUN"
+ ]
+ },
+ {
+ "unicode": "8A17",
+ "traits": 10,
+ "cles": 149,
+ "latin": [
+ "TAKU"
+ ]
+ },
+ {
+ "unicode": "8A18",
+ "traits": 10,
+ "cles": 149,
+ "latin": [
+ "shiru",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "8CA1",
+ "traits": 10,
+ "cles": 154,
+ "latin": [
+ "SAI",
+ "ZAI"
+ ]
+ },
+ {
+ "unicode": "8D77",
+ "traits": 10,
+ "cles": 156,
+ "latin": [
+ "o",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "5C04",
+ "traits": 10,
+ "cles": 158,
+ "latin": [
+ "i",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "8ED2",
+ "traits": 10,
+ "cles": 159,
+ "latin": [
+ "noki",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "5507",
+ "traits": 10,
+ "cles": 161,
+ "latin": [
+ "kuchibiru",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "8FB1",
+ "traits": 10,
+ "cles": 161,
+ "latin": [
+ "hazukashi",
+ "JOKU"
+ ]
+ },
+ {
+ "unicode": "900F",
+ "traits": 10,
+ "cles": 162,
+ "latin": [
+ "su",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "9010",
+ "traits": 10,
+ "cles": 162,
+ "latin": [
+ "CHIKU"
+ ]
+ },
+ {
+ "unicode": "9013",
+ "traits": 10,
+ "cles": 162,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "9014",
+ "traits": 10,
+ "cles": 162,
+ "latin": [
+ "TO"
+ ]
+ },
+ {
+ "unicode": "901A",
+ "traits": 10,
+ "cles": 162,
+ "latin": [
+ "too",
+ "TSUU"
+ ]
+ },
+ {
+ "unicode": "901D",
+ "traits": 10,
+ "cles": 162,
+ "latin": [
+ "yu",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "901F",
+ "traits": 10,
+ "cles": 162,
+ "latin": [
+ "haya",
+ "SOKU"
+ ]
+ },
+ {
+ "unicode": "9020",
+ "traits": 10,
+ "cles": 162,
+ "latin": [
+ "tsuku",
+ "ZOO"
+ ]
+ },
+ {
+ "unicode": "9023",
+ "traits": 10,
+ "cles": 162,
+ "latin": [
+ "tsu",
+ "tsura",
+ "REN"
+ ]
+ },
+ {
+ "unicode": "90E1",
+ "traits": 10,
+ "cles": 163,
+ "latin": [
+ "GUN"
+ ]
+ },
+ {
+ "unicode": "914C",
+ "traits": 10,
+ "cles": 164,
+ "latin": [
+ "SHAKU"
+ ]
+ },
+ {
+ "unicode": "914D",
+ "traits": 10,
+ "cles": 164,
+ "latin": [
+ "HAI"
+ ]
+ },
+ {
+ "unicode": "91DD",
+ "traits": 10,
+ "cles": 167,
+ "latin": [
+ "hari",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "964D",
+ "traits": 10,
+ "cles": 170,
+ "latin": [
+ "o",
+ "fu",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "965B",
+ "traits": 10,
+ "cles": 170,
+ "latin": [
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "9662",
+ "traits": 10,
+ "cles": 170,
+ "latin": [
+ "IN"
+ ]
+ },
+ {
+ "unicode": "9663",
+ "traits": 10,
+ "cles": 170,
+ "latin": [
+ "JIN"
+ ]
+ },
+ {
+ "unicode": "9664",
+ "traits": 10,
+ "cles": 170,
+ "latin": [
+ "nozo",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "9665",
+ "traits": 10,
+ "cles": 170,
+ "latin": [
+ "ochii",
+ "otoshii",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "96BB",
+ "traits": 10,
+ "cles": 172,
+ "latin": [
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "98E2",
+ "traits": 10,
+ "cles": 184,
+ "latin": [
+ "u",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "99AC",
+ "traits": 10,
+ "cles": 187,
+ "latin": [
+ "ma",
+ "uma",
+ "BA"
+ ]
+ },
+ {
+ "unicode": "9AA8",
+ "traits": 10,
+ "cles": 188,
+ "latin": [
+ "hone",
+ "KOTSU"
+ ]
+ },
+ {
+ "unicode": "9AD8",
+ "traits": 10,
+ "cles": 189,
+ "latin": [
+ "taka",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "9B3C",
+ "traits": 10,
+ "cles": 194,
+ "latin": [
+ "oni",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "5264",
+ "traits": 10,
+ "cles": 210,
+ "latin": [
+ "ZAI"
+ ]
+ },
+ {
+ "unicode": "7ADC",
+ "traits": 10,
+ "cles": 212,
+ "latin": [
+ "tatsu",
+ "RYUU"
+ ]
+ },
+ {
+ "unicode": "7C9B",
+ "traits": 11,
+ "cles": 2,
+ "latin": [
+ "SHUKU"
+ ]
+ },
+ {
+ "unicode": "5DE3",
+ "traits": 11,
+ "cles": 3,
+ "latin": [
+ "su",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "5546",
+ "traits": 11,
+ "cles": 8,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7387",
+ "traits": 11,
+ "cles": 8,
+ "latin": [
+ "hiki",
+ "RITSU",
+ "SOTSU"
+ ]
+ },
+ {
+ "unicode": "504F",
+ "traits": 11,
+ "cles": 9,
+ "latin": [
+ "katayo",
+ "HEN"
+ ]
+ },
+ {
+ "unicode": "505C",
+ "traits": 11,
+ "cles": 9,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "5065",
+ "traits": 11,
+ "cles": 9,
+ "latin": [
+ "suko",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "5074",
+ "traits": 11,
+ "cles": 9,
+ "latin": [
+ "kawa",
+ "SOKU"
+ ]
+ },
+ {
+ "unicode": "5075",
+ "traits": 11,
+ "cles": 9,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "5076",
+ "traits": 11,
+ "cles": 9,
+ "latin": [
+ "GUU"
+ ]
+ },
+ {
+ "unicode": "507D",
+ "traits": 11,
+ "cles": 9,
+ "latin": [
+ "itsuwa",
+ "nise",
+ "GI"
+ ]
+ },
+ {
+ "unicode": "8CA7",
+ "traits": 11,
+ "cles": 12,
+ "latin": [
+ "mazu",
+ "BIN",
+ "HIN"
+ ]
+ },
+ {
+ "unicode": "526F",
+ "traits": 11,
+ "cles": 18,
+ "latin": [
+ "FUKU"
+ ]
+ },
+ {
+ "unicode": "5270",
+ "traits": 11,
+ "cles": 18,
+ "latin": [
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "52D5",
+ "traits": 11,
+ "cles": 19,
+ "latin": [
+ "ugo",
+ "DOO"
+ ]
+ },
+ {
+ "unicode": "52D8",
+ "traits": 11,
+ "cles": 19,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "9803",
+ "traits": 11,
+ "cles": 21,
+ "latin": [
+ "koro"
+ ]
+ },
+ {
+ "unicode": "4E7E",
+ "traits": 11,
+ "cles": 24,
+ "latin": [
+ "kawa",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "552F",
+ "traits": 11,
+ "cles": 30,
+ "latin": [
+ "I",
+ "YUI"
+ ]
+ },
+ {
+ "unicode": "5531",
+ "traits": 11,
+ "cles": 30,
+ "latin": [
+ "tona",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5553",
+ "traits": 11,
+ "cles": 30,
+ "latin": [
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "559D",
+ "traits": 11,
+ "cles": 30,
+ "latin": [
+ "KATSU"
+ ]
+ },
+ {
+ "unicode": "57DF",
+ "traits": 11,
+ "cles": 32,
+ "latin": [
+ "IKI"
+ ]
+ },
+ {
+ "unicode": "57F7",
+ "traits": 11,
+ "cles": 32,
+ "latin": [
+ "to",
+ "SHITSU",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "57F9",
+ "traits": 11,
+ "cles": 32,
+ "latin": [
+ "tsuchika",
+ "BAI"
+ ]
+ },
+ {
+ "unicode": "57FA",
+ "traits": 11,
+ "cles": 32,
+ "latin": [
+ "moto",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "5800",
+ "traits": 11,
+ "cles": 32,
+ "latin": [
+ "hori"
+ ]
+ },
+ {
+ "unicode": "5A46",
+ "traits": 11,
+ "cles": 38,
+ "latin": [
+ "BA"
+ ]
+ },
+ {
+ "unicode": "5A5A",
+ "traits": 11,
+ "cles": 38,
+ "latin": [
+ "KON"
+ ]
+ },
+ {
+ "unicode": "5A66",
+ "traits": 11,
+ "cles": 38,
+ "latin": [
+ "FU"
+ ]
+ },
+ {
+ "unicode": "5BBF",
+ "traits": 11,
+ "cles": 40,
+ "latin": [
+ "yado",
+ "JUKU",
+ "SHUKU"
+ ]
+ },
+ {
+ "unicode": "5BC2",
+ "traits": 11,
+ "cles": 40,
+ "latin": [
+ "sabi",
+ "JAKU",
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "5BC4",
+ "traits": 11,
+ "cles": 40,
+ "latin": [
+ "yo",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "5BC6",
+ "traits": 11,
+ "cles": 40,
+ "latin": [
+ "MITSU"
+ ]
+ },
+ {
+ "unicode": "5C09",
+ "traits": 11,
+ "cles": 41,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "5802",
+ "traits": 11,
+ "cles": 42,
+ "latin": [
+ "DOO"
+ ]
+ },
+ {
+ "unicode": "5E38",
+ "traits": 11,
+ "cles": 42,
+ "latin": [
+ "tsune",
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "5D07",
+ "traits": 11,
+ "cles": 46,
+ "latin": [
+ "SUU"
+ ]
+ },
+ {
+ "unicode": "5D0E",
+ "traits": 11,
+ "cles": 46,
+ "latin": [
+ "saki"
+ ]
+ },
+ {
+ "unicode": "5D29",
+ "traits": 11,
+ "cles": 46,
+ "latin": [
+ "kuzu",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "5E33",
+ "traits": 11,
+ "cles": 50,
+ "latin": [
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "5EB6",
+ "traits": 11,
+ "cles": 53,
+ "latin": [
+ "SHO"
+ ]
+ },
+ {
+ "unicode": "5EB7",
+ "traits": 11,
+ "cles": 53,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5EB8",
+ "traits": 11,
+ "cles": 53,
+ "latin": [
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "5F35",
+ "traits": 11,
+ "cles": 57,
+ "latin": [
+ "ha",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "5F37",
+ "traits": 11,
+ "cles": 57,
+ "latin": [
+ "tsuyo",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "5F69",
+ "traits": 11,
+ "cles": 59,
+ "latin": [
+ "irodo",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "5F6B",
+ "traits": 11,
+ "cles": 59,
+ "latin": [
+ "ho",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "5F97",
+ "traits": 11,
+ "cles": 60,
+ "latin": [
+ "u",
+ "e",
+ "TOKU"
+ ]
+ },
+ {
+ "unicode": "60A0",
+ "traits": 11,
+ "cles": 61,
+ "latin": [
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "60A3",
+ "traits": 11,
+ "cles": 61,
+ "latin": [
+ "wazura",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "60AA",
+ "traits": 11,
+ "cles": 61,
+ "latin": [
+ "waru",
+ "AKU"
+ ]
+ },
+ {
+ "unicode": "60BC",
+ "traits": 11,
+ "cles": 61,
+ "latin": [
+ "ita",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "60C5",
+ "traits": 11,
+ "cles": 61,
+ "latin": [
+ "nasa",
+ "JOO",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "60DC",
+ "traits": 11,
+ "cles": 61,
+ "latin": [
+ "o",
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "60E8",
+ "traits": 11,
+ "cles": 61,
+ "latin": [
+ "miji",
+ "SAN",
+ "ZAN"
+ ]
+ },
+ {
+ "unicode": "621A",
+ "traits": 11,
+ "cles": 62,
+ "latin": [
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "6368",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "su",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "636E",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "su"
+ ]
+ },
+ {
+ "unicode": "6383",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "ha",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "6388",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "sazu",
+ "JU"
+ ]
+ },
+ {
+ "unicode": "6392",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "HAI"
+ ]
+ },
+ {
+ "unicode": "6398",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "ho",
+ "KUTSU"
+ ]
+ },
+ {
+ "unicode": "639B",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "ka"
+ ]
+ },
+ {
+ "unicode": "63A1",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "to",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "63A2",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "saga",
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "63A5",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "tsu",
+ "SETSU"
+ ]
+ },
+ {
+ "unicode": "63A7",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "hika",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "63A8",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "o",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "63AA",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "SO"
+ ]
+ },
+ {
+ "unicode": "63B2",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "kaka",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "63CF",
+ "traits": 11,
+ "cles": 64,
+ "latin": [
+ "ega",
+ "BYOO"
+ ]
+ },
+ {
+ "unicode": "6551",
+ "traits": 11,
+ "cles": 66,
+ "latin": [
+ "suku",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "6559",
+ "traits": 11,
+ "cles": 66,
+ "latin": [
+ "oshi",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "659C",
+ "traits": 11,
+ "cles": 68,
+ "latin": [
+ "nana",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "65AD",
+ "traits": 11,
+ "cles": 69,
+ "latin": [
+ "kotowa",
+ "DAN"
+ ]
+ },
+ {
+ "unicode": "65CB",
+ "traits": 11,
+ "cles": 70,
+ "latin": [
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "65CF",
+ "traits": 11,
+ "cles": 70,
+ "latin": [
+ "ZOKU"
+ ]
+ },
+ {
+ "unicode": "66F9",
+ "traits": 11,
+ "cles": 72,
+ "latin": [
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "68B0",
+ "traits": 11,
+ "cles": 75,
+ "latin": [
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "6BBB",
+ "traits": 11,
+ "cles": 79,
+ "latin": [
+ "kara",
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "8CAB",
+ "traits": 11,
+ "cles": 80,
+ "latin": [
+ "tsuranu",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "6DAF",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "GAI"
+ ]
+ },
+ {
+ "unicode": "6DB2",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "EKI"
+ ]
+ },
+ {
+ "unicode": "6DBC",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "suzu",
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "6DD1",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "SHUKU"
+ ]
+ },
+ {
+ "unicode": "6DE1",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "awa",
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "6DF1",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "fuka",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "6DF7",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "ko",
+ "KON"
+ ]
+ },
+ {
+ "unicode": "6DFB",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "so",
+ "TEN"
+ ]
+ },
+ {
+ "unicode": "6E05",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "kiyo",
+ "SEI",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "6E07",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "kawa",
+ "KATSU"
+ ]
+ },
+ {
+ "unicode": "6E08",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "SAI",
+ "SEI",
+ "sumu",
+ "wataru",
+ "sukuu"
+ ]
+ },
+ {
+ "unicode": "6E09",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "6E0B",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "shibu",
+ "JUU",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "6E13",
+ "traits": 11,
+ "cles": 85,
+ "latin": [
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "731B",
+ "traits": 11,
+ "cles": 94,
+ "latin": [
+ "MOO"
+ ]
+ },
+ {
+ "unicode": "731F",
+ "traits": 11,
+ "cles": 94,
+ "latin": [
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "732B",
+ "traits": 11,
+ "cles": 94,
+ "latin": [
+ "neko",
+ "BYOO"
+ ]
+ },
+ {
+ "unicode": "671B",
+ "traits": 11,
+ "cles": 96,
+ "latin": [
+ "nozo",
+ "BOO",
+ "MOO"
+ ]
+ },
+ {
+ "unicode": "73FE",
+ "traits": 11,
+ "cles": 96,
+ "latin": [
+ "GEN"
+ ]
+ },
+ {
+ "unicode": "7403",
+ "traits": 11,
+ "cles": 96,
+ "latin": [
+ "tama",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "7406",
+ "traits": 11,
+ "cles": 96,
+ "latin": [
+ "RI"
+ ]
+ },
+ {
+ "unicode": "7523",
+ "traits": 11,
+ "cles": 100,
+ "latin": [
+ "u",
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "7565",
+ "traits": 11,
+ "cles": 102,
+ "latin": [
+ "RYAKU"
+ ]
+ },
+ {
+ "unicode": "7570",
+ "traits": 11,
+ "cles": 102,
+ "latin": [
+ "koto",
+ "I"
+ ]
+ },
+ {
+ "unicode": "7D2F",
+ "traits": 11,
+ "cles": 102,
+ "latin": [
+ "RUI"
+ ]
+ },
+ {
+ "unicode": "76D7",
+ "traits": 11,
+ "cles": 108,
+ "latin": [
+ "nusu",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "76DB",
+ "traits": 11,
+ "cles": 108,
+ "latin": [
+ "saka",
+ "JOO",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "773A",
+ "traits": 11,
+ "cles": 109,
+ "latin": [
+ "naga",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "773C",
+ "traits": 11,
+ "cles": 109,
+ "latin": [
+ "me",
+ "GAN"
+ ]
+ },
+ {
+ "unicode": "52D9",
+ "traits": 11,
+ "cles": 110,
+ "latin": [
+ "tsuto",
+ "MU"
+ ]
+ },
+ {
+ "unicode": "796D",
+ "traits": 11,
+ "cles": 113,
+ "latin": [
+ "matsu",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "8996",
+ "traits": 11,
+ "cles": 113,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "79FB",
+ "traits": 11,
+ "cles": 115,
+ "latin": [
+ "utsu",
+ "I"
+ ]
+ },
+ {
+ "unicode": "7A92",
+ "traits": 11,
+ "cles": 116,
+ "latin": [
+ "CHITSU"
+ ]
+ },
+ {
+ "unicode": "7A93",
+ "traits": 11,
+ "cles": 116,
+ "latin": [
+ "mado",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "7B1B",
+ "traits": 11,
+ "cles": 118,
+ "latin": [
+ "fue",
+ "TEKI"
+ ]
+ },
+ {
+ "unicode": "7B26",
+ "traits": 11,
+ "cles": 118,
+ "latin": [
+ "FU"
+ ]
+ },
+ {
+ "unicode": "7B2C",
+ "traits": 11,
+ "cles": 118,
+ "latin": [
+ "DAI"
+ ]
+ },
+ {
+ "unicode": "7C92",
+ "traits": 11,
+ "cles": 119,
+ "latin": [
+ "tsubu",
+ "RYUU"
+ ]
+ },
+ {
+ "unicode": "7C97",
+ "traits": 11,
+ "cles": 119,
+ "latin": [
+ "ara",
+ "SO"
+ ]
+ },
+ {
+ "unicode": "7C98",
+ "traits": 11,
+ "cles": 119,
+ "latin": [
+ "neba",
+ "NEN"
+ ]
+ },
+ {
+ "unicode": "7D30",
+ "traits": 11,
+ "cles": 120,
+ "latin": [
+ "koma",
+ "hoso",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "7D33",
+ "traits": 11,
+ "cles": 120,
+ "latin": [
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "7D39",
+ "traits": 11,
+ "cles": 120,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7D3A",
+ "traits": 11,
+ "cles": 120,
+ "latin": [
+ "KON"
+ ]
+ },
+ {
+ "unicode": "7D42",
+ "traits": 11,
+ "cles": 120,
+ "latin": [
+ "o",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "7D44",
+ "traits": 11,
+ "cles": 120,
+ "latin": [
+ "ku"
+ ]
+ },
+ {
+ "unicode": "7D4C",
+ "traits": 11,
+ "cles": 120,
+ "latin": [
+ "he",
+ "KEI",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "7FCC",
+ "traits": 11,
+ "cles": 124,
+ "latin": [
+ "YOKU"
+ ]
+ },
+ {
+ "unicode": "7FD2",
+ "traits": 11,
+ "cles": 124,
+ "latin": [
+ "nara",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "811A",
+ "traits": 11,
+ "cles": 130,
+ "latin": [
+ "ashi",
+ "KYA",
+ "KYAKU"
+ ]
+ },
+ {
+ "unicode": "8131",
+ "traits": 11,
+ "cles": 130,
+ "latin": [
+ "nu",
+ "DATSU"
+ ]
+ },
+ {
+ "unicode": "8133",
+ "traits": 11,
+ "cles": 130,
+ "latin": [
+ "NOO"
+ ]
+ },
+ {
+ "unicode": "8C5A",
+ "traits": 11,
+ "cles": 130,
+ "latin": [
+ "buta",
+ "TON"
+ ]
+ },
+ {
+ "unicode": "8236",
+ "traits": 11,
+ "cles": 137,
+ "latin": [
+ "HAKU"
+ ]
+ },
+ {
+ "unicode": "8239",
+ "traits": 11,
+ "cles": 137,
+ "latin": [
+ "fune",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "83CA",
+ "traits": 11,
+ "cles": 140,
+ "latin": [
+ "KIKU"
+ ]
+ },
+ {
+ "unicode": "83CC",
+ "traits": 11,
+ "cles": 140,
+ "latin": [
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "83D3",
+ "traits": 11,
+ "cles": 140,
+ "latin": [
+ "KA"
+ ]
+ },
+ {
+ "unicode": "83DC",
+ "traits": 11,
+ "cles": 140,
+ "latin": [
+ "na",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "8457",
+ "traits": 11,
+ "cles": 140,
+ "latin": [
+ "arawa",
+ "ichijiru",
+ "CHO"
+ ]
+ },
+ {
+ "unicode": "865A",
+ "traits": 11,
+ "cles": 141,
+ "latin": [
+ "KYO"
+ ]
+ },
+ {
+ "unicode": "86C7",
+ "traits": 11,
+ "cles": 142,
+ "latin": [
+ "hebi",
+ "DA",
+ "JA"
+ ]
+ },
+ {
+ "unicode": "86CD",
+ "traits": 11,
+ "cles": 142,
+ "latin": [
+ "hotaru",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "8853",
+ "traits": 11,
+ "cles": 144,
+ "latin": [
+ "JUTSU"
+ ]
+ },
+ {
+ "unicode": "888B",
+ "traits": 11,
+ "cles": 145,
+ "latin": [
+ "fukuro",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "7968",
+ "traits": 11,
+ "cles": 146,
+ "latin": [
+ "HYOO",
+ "PYOO"
+ ]
+ },
+ {
+ "unicode": "898F",
+ "traits": 11,
+ "cles": 147,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "8A1F",
+ "traits": 11,
+ "cles": 149,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "8A2A",
+ "traits": 11,
+ "cles": 149,
+ "latin": [
+ "tazu",
+ "otozu",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "8A2D",
+ "traits": 11,
+ "cles": 149,
+ "latin": [
+ "moo",
+ "SETSU"
+ ]
+ },
+ {
+ "unicode": "8A31",
+ "traits": 11,
+ "cles": 149,
+ "latin": [
+ "KYO"
+ ]
+ },
+ {
+ "unicode": "8A33",
+ "traits": 11,
+ "cles": 149,
+ "latin": [
+ "wake",
+ "YAKU"
+ ]
+ },
+ {
+ "unicode": "6B32",
+ "traits": 11,
+ "cles": 150,
+ "latin": [
+ "ho",
+ "hos",
+ "YOKU"
+ ]
+ },
+ {
+ "unicode": "6557",
+ "traits": 11,
+ "cles": 154,
+ "latin": [
+ "yabu",
+ "HAI"
+ ]
+ },
+ {
+ "unicode": "8CA8",
+ "traits": 11,
+ "cles": 154,
+ "latin": [
+ "KA"
+ ]
+ },
+ {
+ "unicode": "8CA9",
+ "traits": 11,
+ "cles": 154,
+ "latin": [
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "8CAC",
+ "traits": 11,
+ "cles": 154,
+ "latin": [
+ "se",
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "8D66",
+ "traits": 11,
+ "cles": 155,
+ "latin": [
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "8EDF",
+ "traits": 11,
+ "cles": 159,
+ "latin": [
+ "yawa",
+ "NAN"
+ ]
+ },
+ {
+ "unicode": "8EE2",
+ "traits": 11,
+ "cles": 159,
+ "latin": [
+ "koro",
+ "TEN"
+ ]
+ },
+ {
+ "unicode": "902E",
+ "traits": 11,
+ "cles": 162,
+ "latin": [
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "9031",
+ "traits": 11,
+ "cles": 162,
+ "latin": [
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "9032",
+ "traits": 11,
+ "cles": 162,
+ "latin": [
+ "susu"
+ ]
+ },
+ {
+ "unicode": "9038",
+ "traits": 11,
+ "cles": 162,
+ "latin": [
+ "ITSU"
+ ]
+ },
+ {
+ "unicode": "90E8",
+ "traits": 11,
+ "cles": 163,
+ "latin": [
+ "he",
+ "BU"
+ ]
+ },
+ {
+ "unicode": "90ED",
+ "traits": 11,
+ "cles": 163,
+ "latin": [
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "90F5",
+ "traits": 11,
+ "cles": 163,
+ "latin": [
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "90F7",
+ "traits": 11,
+ "cles": 163,
+ "latin": [
+ "GOO",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "90FD",
+ "traits": 11,
+ "cles": 163,
+ "latin": [
+ "miyako",
+ "TO",
+ "TSU"
+ ]
+ },
+ {
+ "unicode": "9154",
+ "traits": 11,
+ "cles": 164,
+ "latin": [
+ "yo",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "91C8",
+ "traits": 11,
+ "cles": 165,
+ "latin": [
+ "SHAKU"
+ ]
+ },
+ {
+ "unicode": "91CE",
+ "traits": 11,
+ "cles": 166,
+ "latin": [
+ "no",
+ "YA"
+ ]
+ },
+ {
+ "unicode": "91E3",
+ "traits": 11,
+ "cles": 167,
+ "latin": [
+ "tsu",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "554F",
+ "traits": 11,
+ "cles": 169,
+ "latin": [
+ "to",
+ "MON"
+ ]
+ },
+ {
+ "unicode": "9589",
+ "traits": 11,
+ "cles": 169,
+ "latin": [
+ "shi",
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "966A",
+ "traits": 11,
+ "cles": 170,
+ "latin": [
+ "BAI"
+ ]
+ },
+ {
+ "unicode": "9670",
+ "traits": 11,
+ "cles": 170,
+ "latin": [
+ "kage",
+ "IN"
+ ]
+ },
+ {
+ "unicode": "9673",
+ "traits": 11,
+ "cles": 170,
+ "latin": [
+ "CHIN"
+ ]
+ },
+ {
+ "unicode": "9675",
+ "traits": 11,
+ "cles": 170,
+ "latin": [
+ "misasagi",
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "9676",
+ "traits": 11,
+ "cles": 170,
+ "latin": [
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "9678",
+ "traits": 11,
+ "cles": 170,
+ "latin": [
+ "RIKU"
+ ]
+ },
+ {
+ "unicode": "967A",
+ "traits": 11,
+ "cles": 170,
+ "latin": [
+ "kewa",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "9686",
+ "traits": 11,
+ "cles": 170,
+ "latin": [
+ "RYUU"
+ ]
+ },
+ {
+ "unicode": "96EA",
+ "traits": 11,
+ "cles": 173,
+ "latin": [
+ "yuki",
+ "SETSU"
+ ]
+ },
+ {
+ "unicode": "7AE0",
+ "traits": 11,
+ "cles": 180,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "9802",
+ "traits": 11,
+ "cles": 181,
+ "latin": [
+ "itada",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "9B5A",
+ "traits": 11,
+ "cles": 195,
+ "latin": [
+ "uo",
+ "sakana",
+ "GYO"
+ ]
+ },
+ {
+ "unicode": "9CE5",
+ "traits": 11,
+ "cles": 196,
+ "latin": [
+ "tori",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "9E7F",
+ "traits": 11,
+ "cles": 198,
+ "latin": [
+ "shika",
+ "ka",
+ "ROKU"
+ ]
+ },
+ {
+ "unicode": "9EBB",
+ "traits": 11,
+ "cles": 200,
+ "latin": [
+ "asa",
+ "MA"
+ ]
+ },
+ {
+ "unicode": "9EC4",
+ "traits": 11,
+ "cles": 201,
+ "latin": [
+ "ki",
+ "KOO",
+ "OO"
+ ]
+ },
+ {
+ "unicode": "9ED2",
+ "traits": 11,
+ "cles": 203,
+ "latin": [
+ "kuro",
+ "KOKU"
+ ]
+ },
+ {
+ "unicode": "658E",
+ "traits": 11,
+ "cles": 210,
+ "latin": [
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "55AA",
+ "traits": 12,
+ "cles": 2,
+ "latin": [
+ "mo",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "5049",
+ "traits": 12,
+ "cles": 9,
+ "latin": [
+ "era",
+ "I"
+ ]
+ },
+ {
+ "unicode": "508D",
+ "traits": 12,
+ "cles": 9,
+ "latin": [
+ "katawa",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "5098",
+ "traits": 12,
+ "cles": 9,
+ "latin": [
+ "kasa",
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "5099",
+ "traits": 12,
+ "cles": 9,
+ "latin": [
+ "sona",
+ "BI"
+ ]
+ },
+ {
+ "unicode": "5584",
+ "traits": 12,
+ "cles": 12,
+ "latin": [
+ "yo",
+ "ZEN"
+ ]
+ },
+ {
+ "unicode": "5272",
+ "traits": 12,
+ "cles": 18,
+ "latin": [
+ "wa",
+ "sa",
+ "KATSU"
+ ]
+ },
+ {
+ "unicode": "5275",
+ "traits": 12,
+ "cles": 18,
+ "latin": [
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "52E4",
+ "traits": 12,
+ "cles": 19,
+ "latin": [
+ "tsuto",
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "535A",
+ "traits": 12,
+ "cles": 24,
+ "latin": [
+ "BAKU",
+ "HAKU"
+ ]
+ },
+ {
+ "unicode": "559A",
+ "traits": 12,
+ "cles": 30,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "55AB",
+ "traits": 12,
+ "cles": 30,
+ "latin": [
+ "KITSU"
+ ]
+ },
+ {
+ "unicode": "55B6",
+ "traits": 12,
+ "cles": 30,
+ "latin": [
+ "itona",
+ "EI"
+ ]
+ },
+ {
+ "unicode": "570F",
+ "traits": 12,
+ "cles": 31,
+ "latin": [
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "5805",
+ "traits": 12,
+ "cles": 32,
+ "latin": [
+ "kata",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "5815",
+ "traits": 12,
+ "cles": 32,
+ "latin": [
+ "DA"
+ ]
+ },
+ {
+ "unicode": "5824",
+ "traits": 12,
+ "cles": 32,
+ "latin": [
+ "tsutsumi",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "582A",
+ "traits": 12,
+ "cles": 32,
+ "latin": [
+ "ta",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "5831",
+ "traits": 12,
+ "cles": 32,
+ "latin": [
+ "muku",
+ "HOO",
+ "POO"
+ ]
+ },
+ {
+ "unicode": "5834",
+ "traits": 12,
+ "cles": 32,
+ "latin": [
+ "ba",
+ "CHOO",
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "5840",
+ "traits": 12,
+ "cles": 32,
+ "latin": [
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "5854",
+ "traits": 12,
+ "cles": 32,
+ "latin": [
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "585A",
+ "traits": 12,
+ "cles": 32,
+ "latin": [
+ "tsuka"
+ ]
+ },
+ {
+ "unicode": "559C",
+ "traits": 12,
+ "cles": 33,
+ "latin": [
+ "yoroko",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "5965",
+ "traits": 12,
+ "cles": 37,
+ "latin": [
+ "OKU",
+ "OO"
+ ]
+ },
+ {
+ "unicode": "5A7F",
+ "traits": 12,
+ "cles": 38,
+ "latin": [
+ "muko",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "5A92",
+ "traits": 12,
+ "cles": 38,
+ "latin": [
+ "BAI"
+ ]
+ },
+ {
+ "unicode": "5BCC",
+ "traits": 12,
+ "cles": 40,
+ "latin": [
+ "to",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "5BD2",
+ "traits": 12,
+ "cles": 40,
+ "latin": [
+ "samu",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "5C0A",
+ "traits": 12,
+ "cles": 41,
+ "latin": [
+ "tatto",
+ "SON",
+ "ZON"
+ ]
+ },
+ {
+ "unicode": "638C",
+ "traits": 12,
+ "cles": 42,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5C31",
+ "traits": 12,
+ "cles": 43,
+ "latin": [
+ "tsu",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "5C5E",
+ "traits": 12,
+ "cles": 44,
+ "latin": [
+ "ZOKU"
+ ]
+ },
+ {
+ "unicode": "9806",
+ "traits": 12,
+ "cles": 47,
+ "latin": [
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "9805",
+ "traits": 12,
+ "cles": 48,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "5E3D",
+ "traits": 12,
+ "cles": 50,
+ "latin": [
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "5E45",
+ "traits": 12,
+ "cles": 50,
+ "latin": [
+ "haba",
+ "FUKU"
+ ]
+ },
+ {
+ "unicode": "5E7E",
+ "traits": 12,
+ "cles": 52,
+ "latin": [
+ "iku",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "5EC3",
+ "traits": 12,
+ "cles": 53,
+ "latin": [
+ "suta",
+ "HAI"
+ ]
+ },
+ {
+ "unicode": "5ECA",
+ "traits": 12,
+ "cles": 53,
+ "latin": [
+ "ROO"
+ ]
+ },
+ {
+ "unicode": "5F3E",
+ "traits": 12,
+ "cles": 57,
+ "latin": [
+ "hazu",
+ "hi",
+ "tama",
+ "DAN"
+ ]
+ },
+ {
+ "unicode": "5C0B",
+ "traits": 12,
+ "cles": 58,
+ "latin": [
+ "tazu",
+ "JIN"
+ ]
+ },
+ {
+ "unicode": "5FA1",
+ "traits": 12,
+ "cles": 60,
+ "latin": [
+ "GO"
+ ]
+ },
+ {
+ "unicode": "5FA9",
+ "traits": 12,
+ "cles": 60,
+ "latin": [
+ "FUKU"
+ ]
+ },
+ {
+ "unicode": "5FAA",
+ "traits": 12,
+ "cles": 60,
+ "latin": [
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "8857",
+ "traits": 12,
+ "cles": 60,
+ "latin": [
+ "machi",
+ "GAI",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "60D1",
+ "traits": 12,
+ "cles": 61,
+ "latin": [
+ "mado",
+ "WAKU"
+ ]
+ },
+ {
+ "unicode": "60F0",
+ "traits": 12,
+ "cles": 61,
+ "latin": [
+ "DA"
+ ]
+ },
+ {
+ "unicode": "6109",
+ "traits": 12,
+ "cles": 61,
+ "latin": [
+ "YU"
+ ]
+ },
+ {
+ "unicode": "614C",
+ "traits": 12,
+ "cles": 61,
+ "latin": [
+ "awa",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "88C1",
+ "traits": 12,
+ "cles": 62,
+ "latin": [
+ "saba",
+ "ta",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "6249",
+ "traits": 12,
+ "cles": 63,
+ "latin": [
+ "tobira",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "96C7",
+ "traits": 12,
+ "cles": 63,
+ "latin": [
+ "yato",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "63D0",
+ "traits": 12,
+ "cles": 64,
+ "latin": [
+ "sa",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "63DA",
+ "traits": 12,
+ "cles": 64,
+ "latin": [
+ "a",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "63DB",
+ "traits": 12,
+ "cles": 64,
+ "latin": [
+ "ka",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "63E1",
+ "traits": 12,
+ "cles": 64,
+ "latin": [
+ "nigi",
+ "AKU"
+ ]
+ },
+ {
+ "unicode": "63EE",
+ "traits": 12,
+ "cles": 64,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "63F4",
+ "traits": 12,
+ "cles": 64,
+ "latin": [
+ "EN"
+ ]
+ },
+ {
+ "unicode": "63FA",
+ "traits": 12,
+ "cles": 64,
+ "latin": [
+ "yu",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "642D",
+ "traits": 12,
+ "cles": 64,
+ "latin": [
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "6562",
+ "traits": 12,
+ "cles": 66,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "6563",
+ "traits": 12,
+ "cles": 66,
+ "latin": [
+ "chi",
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "656C",
+ "traits": 12,
+ "cles": 66,
+ "latin": [
+ "uyama",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "6669",
+ "traits": 12,
+ "cles": 72,
+ "latin": [
+ "BAN"
+ ]
+ },
+ {
+ "unicode": "666E",
+ "traits": 12,
+ "cles": 72,
+ "latin": [
+ "FU"
+ ]
+ },
+ {
+ "unicode": "666F",
+ "traits": 12,
+ "cles": 72,
+ "latin": [
+ "KE",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "6674",
+ "traits": 12,
+ "cles": 72,
+ "latin": [
+ "ha",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "6676",
+ "traits": 12,
+ "cles": 72,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "6681",
+ "traits": 12,
+ "cles": 72,
+ "latin": [
+ "akatsuki",
+ "GYOO"
+ ]
+ },
+ {
+ "unicode": "6691",
+ "traits": 12,
+ "cles": 72,
+ "latin": [
+ "atsu",
+ "SHO"
+ ]
+ },
+ {
+ "unicode": "91CF",
+ "traits": 12,
+ "cles": 72,
+ "latin": [
+ "haka",
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "66FF",
+ "traits": 12,
+ "cles": 73,
+ "latin": [
+ "ka",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "6700",
+ "traits": 12,
+ "cles": 73,
+ "latin": [
+ "motto",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "671D",
+ "traits": 12,
+ "cles": 74,
+ "latin": [
+ "asa",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "68CB",
+ "traits": 12,
+ "cles": 75,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "68D2",
+ "traits": 12,
+ "cles": 75,
+ "latin": [
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "68DA",
+ "traits": 12,
+ "cles": 75,
+ "latin": [
+ "tana"
+ ]
+ },
+ {
+ "unicode": "68DF",
+ "traits": 12,
+ "cles": 75,
+ "latin": [
+ "mune",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "68EE",
+ "traits": 12,
+ "cles": 75,
+ "latin": [
+ "mori",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "68FA",
+ "traits": 12,
+ "cles": 75,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "6905",
+ "traits": 12,
+ "cles": 75,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "690D",
+ "traits": 12,
+ "cles": 75,
+ "latin": [
+ "u",
+ "SHOKU"
+ ]
+ },
+ {
+ "unicode": "691C",
+ "traits": 12,
+ "cles": 75,
+ "latin": [
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "6975",
+ "traits": 12,
+ "cles": 75,
+ "latin": [
+ "kiwa",
+ "GOKU",
+ "KYOKU"
+ ]
+ },
+ {
+ "unicode": "6B3A",
+ "traits": 12,
+ "cles": 76,
+ "latin": [
+ "azamu",
+ "GI"
+ ]
+ },
+ {
+ "unicode": "6B3E",
+ "traits": 12,
+ "cles": 76,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "6B96",
+ "traits": 12,
+ "cles": 78,
+ "latin": [
+ "fu",
+ "SHOKU"
+ ]
+ },
+ {
+ "unicode": "6E1B",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "he",
+ "GEN"
+ ]
+ },
+ {
+ "unicode": "6E21",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "wata",
+ "TO"
+ ]
+ },
+ {
+ "unicode": "6E26",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "uzu",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "6E29",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "atata",
+ "ON"
+ ]
+ },
+ {
+ "unicode": "6E2C",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "haka",
+ "SOKU"
+ ]
+ },
+ {
+ "unicode": "6E2F",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "minato",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6E56",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "mizuumi",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "6E6F",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "yu",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "6E7E",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "WAN"
+ ]
+ },
+ {
+ "unicode": "6E7F",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "shime",
+ "SHITSU"
+ ]
+ },
+ {
+ "unicode": "6E80",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "mi",
+ "MAN"
+ ]
+ },
+ {
+ "unicode": "6ECB",
+ "traits": 12,
+ "cles": 85,
+ "latin": [
+ "JI"
+ ]
+ },
+ {
+ "unicode": "7121",
+ "traits": 12,
+ "cles": 86,
+ "latin": [
+ "na",
+ "BU",
+ "MU"
+ ]
+ },
+ {
+ "unicode": "7136",
+ "traits": 12,
+ "cles": 86,
+ "latin": [
+ "ZEN"
+ ]
+ },
+ {
+ "unicode": "713C",
+ "traits": 12,
+ "cles": 86,
+ "latin": [
+ "ya"
+ ]
+ },
+ {
+ "unicode": "716E",
+ "traits": 12,
+ "cles": 86,
+ "latin": [
+ "ni",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "7336",
+ "traits": 12,
+ "cles": 94,
+ "latin": [
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "7434",
+ "traits": 12,
+ "cles": 96,
+ "latin": [
+ "koto",
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "7525",
+ "traits": 12,
+ "cles": 100,
+ "latin": [
+ "oi"
+ ]
+ },
+ {
+ "unicode": "5841",
+ "traits": 12,
+ "cles": 102,
+ "latin": [
+ "RUI"
+ ]
+ },
+ {
+ "unicode": "756A",
+ "traits": 12,
+ "cles": 102,
+ "latin": [
+ "BAN"
+ ]
+ },
+ {
+ "unicode": "7573",
+ "traits": 12,
+ "cles": 102,
+ "latin": [
+ "tata",
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "758E",
+ "traits": 12,
+ "cles": 103,
+ "latin": [
+ "uto",
+ "SO"
+ ]
+ },
+ {
+ "unicode": "75D8",
+ "traits": 12,
+ "cles": 104,
+ "latin": [
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "75DB",
+ "traits": 12,
+ "cles": 104,
+ "latin": [
+ "ita",
+ "TSUU"
+ ]
+ },
+ {
+ "unicode": "75E2",
+ "traits": 12,
+ "cles": 104,
+ "latin": [
+ "RI"
+ ]
+ },
+ {
+ "unicode": "767B",
+ "traits": 12,
+ "cles": 105,
+ "latin": [
+ "nobo",
+ "TO",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "77ED",
+ "traits": 12,
+ "cles": 111,
+ "latin": [
+ "mijika",
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "785D",
+ "traits": 12,
+ "cles": 112,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "786B",
+ "traits": 12,
+ "cles": 112,
+ "latin": [
+ "RYUU"
+ ]
+ },
+ {
+ "unicode": "786C",
+ "traits": 12,
+ "cles": 112,
+ "latin": [
+ "kata",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "7A0B",
+ "traits": 12,
+ "cles": 115,
+ "latin": [
+ "hodo",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "7A0E",
+ "traits": 12,
+ "cles": 115,
+ "latin": [
+ "ZEI"
+ ]
+ },
+ {
+ "unicode": "7AE5",
+ "traits": 12,
+ "cles": 117,
+ "latin": [
+ "warabe",
+ "DOO"
+ ]
+ },
+ {
+ "unicode": "7B46",
+ "traits": 12,
+ "cles": 118,
+ "latin": [
+ "fude",
+ "HITSU",
+ "PITSU"
+ ]
+ },
+ {
+ "unicode": "7B48",
+ "traits": 12,
+ "cles": 118,
+ "latin": [
+ "hazu"
+ ]
+ },
+ {
+ "unicode": "7B49",
+ "traits": 12,
+ "cles": 118,
+ "latin": [
+ "hito",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "7B4B",
+ "traits": 12,
+ "cles": 118,
+ "latin": [
+ "suji",
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "7B52",
+ "traits": 12,
+ "cles": 118,
+ "latin": [
+ "tsutsu",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "7B54",
+ "traits": 12,
+ "cles": 118,
+ "latin": [
+ "kota",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "7B56",
+ "traits": 12,
+ "cles": 118,
+ "latin": [
+ "SAKU"
+ ]
+ },
+ {
+ "unicode": "7CA7",
+ "traits": 12,
+ "cles": 119,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7D2B",
+ "traits": 12,
+ "cles": 120,
+ "latin": [
+ "murasaki",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "7D50",
+ "traits": 12,
+ "cles": 120,
+ "latin": [
+ "musu",
+ "KETSU"
+ ]
+ },
+ {
+ "unicode": "7D5E",
+ "traits": 12,
+ "cles": 120,
+ "latin": [
+ "shi",
+ "shibo",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "7D61",
+ "traits": 12,
+ "cles": 120,
+ "latin": [
+ "kara",
+ "RAKU"
+ ]
+ },
+ {
+ "unicode": "7D66",
+ "traits": 12,
+ "cles": 120,
+ "latin": [
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "7D71",
+ "traits": 12,
+ "cles": 120,
+ "latin": [
+ "su",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "7D75",
+ "traits": 12,
+ "cles": 120,
+ "latin": [
+ "E",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "7D76",
+ "traits": 12,
+ "cles": 120,
+ "latin": [
+ "ta",
+ "ZETSU"
+ ]
+ },
+ {
+ "unicode": "8CB7",
+ "traits": 12,
+ "cles": 122,
+ "latin": [
+ "ka",
+ "BAI"
+ ]
+ },
+ {
+ "unicode": "7740",
+ "traits": 12,
+ "cles": 123,
+ "latin": [
+ "tsu",
+ "ki",
+ "CHAKU"
+ ]
+ },
+ {
+ "unicode": "52DD",
+ "traits": 12,
+ "cles": 130,
+ "latin": [
+ "masa",
+ "ka",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "671F",
+ "traits": 12,
+ "cles": 130,
+ "latin": [
+ "GO",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "8139",
+ "traits": 12,
+ "cles": 130,
+ "latin": [
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "8155",
+ "traits": 12,
+ "cles": 130,
+ "latin": [
+ "ude",
+ "WAN"
+ ]
+ },
+ {
+ "unicode": "52DF",
+ "traits": 12,
+ "cles": 140,
+ "latin": [
+ "tsuno",
+ "BO"
+ ]
+ },
+ {
+ "unicode": "843D",
+ "traits": 12,
+ "cles": 140,
+ "latin": [
+ "o",
+ "RAKU"
+ ]
+ },
+ {
+ "unicode": "8449",
+ "traits": 12,
+ "cles": 140,
+ "latin": [
+ "ha",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "846C",
+ "traits": 12,
+ "cles": 140,
+ "latin": [
+ "hoomu",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "86EE",
+ "traits": 12,
+ "cles": 142,
+ "latin": [
+ "BAN"
+ ]
+ },
+ {
+ "unicode": "8846",
+ "traits": 12,
+ "cles": 143,
+ "latin": [
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "88C2",
+ "traits": 12,
+ "cles": 145,
+ "latin": [
+ "sa",
+ "RETSU"
+ ]
+ },
+ {
+ "unicode": "88C5",
+ "traits": 12,
+ "cles": 145,
+ "latin": [
+ "yosoo",
+ "SHOO",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "88D5",
+ "traits": 12,
+ "cles": 145,
+ "latin": [
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "88DC",
+ "traits": 12,
+ "cles": 145,
+ "latin": [
+ "ogina",
+ "HO"
+ ]
+ },
+ {
+ "unicode": "899A",
+ "traits": 12,
+ "cles": 147,
+ "latin": [
+ "obo",
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "8A34",
+ "traits": 12,
+ "cles": 149,
+ "latin": [
+ "utta",
+ "SO"
+ ]
+ },
+ {
+ "unicode": "8A3A",
+ "traits": 12,
+ "cles": 149,
+ "latin": [
+ "mi",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "8A3C",
+ "traits": 12,
+ "cles": 149,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "8A50",
+ "traits": 12,
+ "cles": 149,
+ "latin": [
+ "SA"
+ ]
+ },
+ {
+ "unicode": "8A54",
+ "traits": 12,
+ "cles": 149,
+ "latin": [
+ "mikotonori",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "8A55",
+ "traits": 12,
+ "cles": 149,
+ "latin": [
+ "HYOO"
+ ]
+ },
+ {
+ "unicode": "8A5E",
+ "traits": 12,
+ "cles": 149,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "8A60",
+ "traits": 12,
+ "cles": 149,
+ "latin": [
+ "yo",
+ "EI"
+ ]
+ },
+ {
+ "unicode": "8C61",
+ "traits": 12,
+ "cles": 152,
+ "latin": [
+ "SHOO",
+ "ZOO"
+ ]
+ },
+ {
+ "unicode": "8CAF",
+ "traits": 12,
+ "cles": 154,
+ "latin": [
+ "CHO"
+ ]
+ },
+ {
+ "unicode": "8CB4",
+ "traits": 12,
+ "cles": 154,
+ "latin": [
+ "tatto",
+ "tooto",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "8CB8",
+ "traits": 12,
+ "cles": 154,
+ "latin": [
+ "ka",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "8CBB",
+ "traits": 12,
+ "cles": 154,
+ "latin": [
+ "tsui",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "8CBF",
+ "traits": 12,
+ "cles": 154,
+ "latin": [
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "8CC0",
+ "traits": 12,
+ "cles": 154,
+ "latin": [
+ "GA"
+ ]
+ },
+ {
+ "unicode": "8D85",
+ "traits": 12,
+ "cles": 156,
+ "latin": [
+ "ko",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "8D8A",
+ "traits": 12,
+ "cles": 156,
+ "latin": [
+ "ko",
+ "ETSU"
+ ]
+ },
+ {
+ "unicode": "8DDD",
+ "traits": 12,
+ "cles": 157,
+ "latin": [
+ "KYO"
+ ]
+ },
+ {
+ "unicode": "8EF8",
+ "traits": 12,
+ "cles": 159,
+ "latin": [
+ "JIKU"
+ ]
+ },
+ {
+ "unicode": "8EFD",
+ "traits": 12,
+ "cles": 159,
+ "latin": [
+ "karu",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "9042",
+ "traits": 12,
+ "cles": 162,
+ "latin": [
+ "to",
+ "tsui",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "9045",
+ "traits": 12,
+ "cles": 162,
+ "latin": [
+ "oku",
+ "oso",
+ "CHI"
+ ]
+ },
+ {
+ "unicode": "9047",
+ "traits": 12,
+ "cles": 162,
+ "latin": [
+ "GUU"
+ ]
+ },
+ {
+ "unicode": "904A",
+ "traits": 12,
+ "cles": 162,
+ "latin": [
+ "aso",
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "904B",
+ "traits": 12,
+ "cles": 162,
+ "latin": [
+ "hako",
+ "UN"
+ ]
+ },
+ {
+ "unicode": "904D",
+ "traits": 12,
+ "cles": 162,
+ "latin": [
+ "HEN"
+ ]
+ },
+ {
+ "unicode": "904E",
+ "traits": 12,
+ "cles": 162,
+ "latin": [
+ "su",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "9053",
+ "traits": 12,
+ "cles": 162,
+ "latin": [
+ "michi",
+ "DOO",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "9054",
+ "traits": 12,
+ "cles": 162,
+ "latin": [
+ "dachi",
+ "tachi",
+ "TATSU"
+ ]
+ },
+ {
+ "unicode": "9162",
+ "traits": 12,
+ "cles": 164,
+ "latin": [
+ "su",
+ "SAKU"
+ ]
+ },
+ {
+ "unicode": "920D",
+ "traits": 12,
+ "cles": 167,
+ "latin": [
+ "nibu",
+ "DON"
+ ]
+ },
+ {
+ "unicode": "958B",
+ "traits": 12,
+ "cles": 169,
+ "latin": [
+ "a",
+ "hira",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "9591",
+ "traits": 12,
+ "cles": 169,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "9593",
+ "traits": 12,
+ "cles": 169,
+ "latin": [
+ "aida",
+ "ma",
+ "KAN",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "967D",
+ "traits": 12,
+ "cles": 170,
+ "latin": [
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "9685",
+ "traits": 12,
+ "cles": 170,
+ "latin": [
+ "sumi",
+ "GUU"
+ ]
+ },
+ {
+ "unicode": "968A",
+ "traits": 12,
+ "cles": 170,
+ "latin": [
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "968E",
+ "traits": 12,
+ "cles": 170,
+ "latin": [
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "968F",
+ "traits": 12,
+ "cles": 170,
+ "latin": [
+ "ZUI"
+ ]
+ },
+ {
+ "unicode": "7126",
+ "traits": 12,
+ "cles": 172,
+ "latin": [
+ "ko",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "96C4",
+ "traits": 12,
+ "cles": 172,
+ "latin": [
+ "o",
+ "on",
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "96C6",
+ "traits": 12,
+ "cles": 172,
+ "latin": [
+ "atsu",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "96F0",
+ "traits": 12,
+ "cles": 173,
+ "latin": [
+ "FUN"
+ ]
+ },
+ {
+ "unicode": "96F2",
+ "traits": 12,
+ "cles": 173,
+ "latin": [
+ "kumo",
+ "UN"
+ ]
+ },
+ {
+ "unicode": "60B2",
+ "traits": 12,
+ "cles": 175,
+ "latin": [
+ "kana",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "98EF",
+ "traits": 12,
+ "cles": 184,
+ "latin": [
+ "meshi",
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "98F2",
+ "traits": 12,
+ "cles": 184,
+ "latin": [
+ "no",
+ "IN"
+ ]
+ },
+ {
+ "unicode": "6B6F",
+ "traits": 12,
+ "cles": 211,
+ "latin": [
+ "ha",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "68C4",
+ "traits": 13,
+ "cles": 8,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "88CF",
+ "traits": 13,
+ "cles": 8,
+ "latin": [
+ "ura",
+ "RI"
+ ]
+ },
+ {
+ "unicode": "5091",
+ "traits": 13,
+ "cles": 9,
+ "latin": [
+ "KETSU"
+ ]
+ },
+ {
+ "unicode": "50AC",
+ "traits": 13,
+ "cles": 9,
+ "latin": [
+ "moyoo",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "50B5",
+ "traits": 13,
+ "cles": 9,
+ "latin": [
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "50B7",
+ "traits": 13,
+ "cles": 9,
+ "latin": [
+ "kizu",
+ "ita",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "50BE",
+ "traits": 13,
+ "cles": 9,
+ "latin": [
+ "katamu",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "50CD",
+ "traits": 13,
+ "cles": 9,
+ "latin": [
+ "hatara",
+ "DOO"
+ ]
+ },
+ {
+ "unicode": "50E7",
+ "traits": 13,
+ "cles": 9,
+ "latin": [
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "52E2",
+ "traits": 13,
+ "cles": 19,
+ "latin": [
+ "ikio",
+ "SEI",
+ "ZEI"
+ ]
+ },
+ {
+ "unicode": "52E7",
+ "traits": 13,
+ "cles": 19,
+ "latin": [
+ "susu",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "55E3",
+ "traits": 13,
+ "cles": 30,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "5606",
+ "traits": 13,
+ "cles": 30,
+ "latin": [
+ "nage",
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "5712",
+ "traits": 13,
+ "cles": 31,
+ "latin": [
+ "sono",
+ "EN"
+ ]
+ },
+ {
+ "unicode": "584A",
+ "traits": 13,
+ "cles": 32,
+ "latin": [
+ "katamari",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "5851",
+ "traits": 13,
+ "cles": 32,
+ "latin": [
+ "SO"
+ ]
+ },
+ {
+ "unicode": "5857",
+ "traits": 13,
+ "cles": 32,
+ "latin": [
+ "nu",
+ "TO"
+ ]
+ },
+ {
+ "unicode": "5869",
+ "traits": 13,
+ "cles": 32,
+ "latin": [
+ "shio",
+ "EN"
+ ]
+ },
+ {
+ "unicode": "5968",
+ "traits": 13,
+ "cles": 37,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5AC1",
+ "traits": 13,
+ "cles": 38,
+ "latin": [
+ "totsu",
+ "yome",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "5ACC",
+ "traits": 13,
+ "cles": 38,
+ "latin": [
+ "iya",
+ "kira",
+ "GEN",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "5BDB",
+ "traits": 13,
+ "cles": 40,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "5BDD",
+ "traits": 13,
+ "cles": 40,
+ "latin": [
+ "ne",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "5E79",
+ "traits": 13,
+ "cles": 51,
+ "latin": [
+ "miki",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "5EC9",
+ "traits": 13,
+ "cles": 53,
+ "latin": [
+ "REN"
+ ]
+ },
+ {
+ "unicode": "5FAE",
+ "traits": 13,
+ "cles": 60,
+ "latin": [
+ "BI"
+ ]
+ },
+ {
+ "unicode": "60F3",
+ "traits": 13,
+ "cles": 61,
+ "latin": [
+ "SO",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "6101",
+ "traits": 13,
+ "cles": 61,
+ "latin": [
+ "ure",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "611A",
+ "traits": 13,
+ "cles": 61,
+ "latin": [
+ "oro",
+ "GU"
+ ]
+ },
+ {
+ "unicode": "611B",
+ "traits": 13,
+ "cles": 61,
+ "latin": [
+ "AI"
+ ]
+ },
+ {
+ "unicode": "611F",
+ "traits": 13,
+ "cles": 61,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "6148",
+ "traits": 13,
+ "cles": 61,
+ "latin": [
+ "itsuku",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "614E",
+ "traits": 13,
+ "cles": 61,
+ "latin": [
+ "tsutsushi",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "6168",
+ "traits": 13,
+ "cles": 61,
+ "latin": [
+ "GAI"
+ ]
+ },
+ {
+ "unicode": "6226",
+ "traits": 13,
+ "cles": 62,
+ "latin": [
+ "ikusa",
+ "tataka",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "640D",
+ "traits": 13,
+ "cles": 64,
+ "latin": [
+ "soko",
+ "SON"
+ ]
+ },
+ {
+ "unicode": "642C",
+ "traits": 13,
+ "cles": 64,
+ "latin": [
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "643A",
+ "traits": 13,
+ "cles": 64,
+ "latin": [
+ "tazusa",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "643E",
+ "traits": 13,
+ "cles": 64,
+ "latin": [
+ "shibo",
+ "SAKU"
+ ]
+ },
+ {
+ "unicode": "6442",
+ "traits": 13,
+ "cles": 64,
+ "latin": [
+ "SETSU"
+ ]
+ },
+ {
+ "unicode": "6478",
+ "traits": 13,
+ "cles": 64,
+ "latin": [
+ "MO"
+ ]
+ },
+ {
+ "unicode": "6570",
+ "traits": 13,
+ "cles": 66,
+ "latin": [
+ "kazo",
+ "SUU"
+ ]
+ },
+ {
+ "unicode": "65B0",
+ "traits": 13,
+ "cles": 69,
+ "latin": [
+ "atara",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "6687",
+ "traits": 13,
+ "cles": 72,
+ "latin": [
+ "hima",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "6696",
+ "traits": 13,
+ "cles": 72,
+ "latin": [
+ "atata",
+ "DAN"
+ ]
+ },
+ {
+ "unicode": "6697",
+ "traits": 13,
+ "cles": 72,
+ "latin": [
+ "kura",
+ "AN"
+ ]
+ },
+ {
+ "unicode": "696D",
+ "traits": 13,
+ "cles": 75,
+ "latin": [
+ "GYOO"
+ ]
+ },
+ {
+ "unicode": "697C",
+ "traits": 13,
+ "cles": 75,
+ "latin": [
+ "ROO"
+ ]
+ },
+ {
+ "unicode": "697D",
+ "traits": 13,
+ "cles": 75,
+ "latin": [
+ "tano",
+ "GAK",
+ "RAKU"
+ ]
+ },
+ {
+ "unicode": "6B73",
+ "traits": 13,
+ "cles": 77,
+ "latin": [
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "6BBF",
+ "traits": 13,
+ "cles": 79,
+ "latin": [
+ "tono",
+ "DEN",
+ "TEN"
+ ]
+ },
+ {
+ "unicode": "6E90",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "minamoto",
+ "GEN"
+ ]
+ },
+ {
+ "unicode": "6E96",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "6E9C",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "ta"
+ ]
+ },
+ {
+ "unicode": "6E9D",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "mizo",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6EB6",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "to",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "6EC5",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "horo",
+ "METSU"
+ ]
+ },
+ {
+ "unicode": "6ED1",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "name",
+ "sube",
+ "KATSU"
+ ]
+ },
+ {
+ "unicode": "6EDD",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "taki"
+ ]
+ },
+ {
+ "unicode": "6EDE",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "todokoo",
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "6F20",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "BAKU"
+ ]
+ },
+ {
+ "unicode": "6F22",
+ "traits": 13,
+ "cles": 85,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "7159",
+ "traits": 13,
+ "cles": 86,
+ "latin": [
+ "kemu",
+ "EN"
+ ]
+ },
+ {
+ "unicode": "7167",
+ "traits": 13,
+ "cles": 86,
+ "latin": [
+ "te",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7169",
+ "traits": 13,
+ "cles": 86,
+ "latin": [
+ "wazura",
+ "BON",
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "96C5",
+ "traits": 13,
+ "cles": 92,
+ "latin": [
+ "GA"
+ ]
+ },
+ {
+ "unicode": "732E",
+ "traits": 13,
+ "cles": 94,
+ "latin": [
+ "KEN",
+ "KON"
+ ]
+ },
+ {
+ "unicode": "733F",
+ "traits": 13,
+ "cles": 94,
+ "latin": [
+ "saru",
+ "EN"
+ ]
+ },
+ {
+ "unicode": "8056",
+ "traits": 13,
+ "cles": 96,
+ "latin": [
+ "SEI",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "75F4",
+ "traits": 13,
+ "cles": 104,
+ "latin": [
+ "CHI"
+ ]
+ },
+ {
+ "unicode": "76DF",
+ "traits": 13,
+ "cles": 108,
+ "latin": [
+ "MEI"
+ ]
+ },
+ {
+ "unicode": "7761",
+ "traits": 13,
+ "cles": 109,
+ "latin": [
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "7763",
+ "traits": 13,
+ "cles": 109,
+ "latin": [
+ "TOKU"
+ ]
+ },
+ {
+ "unicode": "7881",
+ "traits": 13,
+ "cles": 112,
+ "latin": [
+ "GO"
+ ]
+ },
+ {
+ "unicode": "7897",
+ "traits": 13,
+ "cles": 112,
+ "latin": [
+ "WAN"
+ ]
+ },
+ {
+ "unicode": "7981",
+ "traits": 13,
+ "cles": 113,
+ "latin": [
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "7985",
+ "traits": 13,
+ "cles": 113,
+ "latin": [
+ "ZEN"
+ ]
+ },
+ {
+ "unicode": "798D",
+ "traits": 13,
+ "cles": 113,
+ "latin": [
+ "KA"
+ ]
+ },
+ {
+ "unicode": "798F",
+ "traits": 13,
+ "cles": 113,
+ "latin": [
+ "FUKU"
+ ]
+ },
+ {
+ "unicode": "7A1A",
+ "traits": 13,
+ "cles": 115,
+ "latin": [
+ "CHI"
+ ]
+ },
+ {
+ "unicode": "7BC0",
+ "traits": 13,
+ "cles": 118,
+ "latin": [
+ "SETSU"
+ ]
+ },
+ {
+ "unicode": "7D79",
+ "traits": 13,
+ "cles": 120,
+ "latin": [
+ "kinu",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "7D99",
+ "traits": 13,
+ "cles": 120,
+ "latin": [
+ "tsu",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "7D9A",
+ "traits": 13,
+ "cles": 120,
+ "latin": [
+ "tsuzu",
+ "ZOKU"
+ ]
+ },
+ {
+ "unicode": "7F6A",
+ "traits": 13,
+ "cles": 122,
+ "latin": [
+ "tsumi",
+ "ZAI"
+ ]
+ },
+ {
+ "unicode": "7F6E",
+ "traits": 13,
+ "cles": 122,
+ "latin": [
+ "o",
+ "CHI"
+ ]
+ },
+ {
+ "unicode": "7F72",
+ "traits": 13,
+ "cles": 122,
+ "latin": [
+ "SHO"
+ ]
+ },
+ {
+ "unicode": "7FA4",
+ "traits": 13,
+ "cles": 123,
+ "latin": [
+ "mu",
+ "GUN"
+ ]
+ },
+ {
+ "unicode": "7FA9",
+ "traits": 13,
+ "cles": 123,
+ "latin": [
+ "GI"
+ ]
+ },
+ {
+ "unicode": "8170",
+ "traits": 13,
+ "cles": 130,
+ "latin": [
+ "koshi",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "8178",
+ "traits": 13,
+ "cles": 130,
+ "latin": [
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "8179",
+ "traits": 13,
+ "cles": 130,
+ "latin": [
+ "hara",
+ "FUKU"
+ ]
+ },
+ {
+ "unicode": "8F9E",
+ "traits": 13,
+ "cles": 135,
+ "latin": [
+ "ya",
+ "JI"
+ ]
+ },
+ {
+ "unicode": "8247",
+ "traits": 13,
+ "cles": 137,
+ "latin": [
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "5893",
+ "traits": 13,
+ "cles": 140,
+ "latin": [
+ "haka",
+ "BO"
+ ]
+ },
+ {
+ "unicode": "5922",
+ "traits": 13,
+ "cles": 140,
+ "latin": [
+ "yume",
+ "MU"
+ ]
+ },
+ {
+ "unicode": "5E55",
+ "traits": 13,
+ "cles": 140,
+ "latin": [
+ "MAKU"
+ ]
+ },
+ {
+ "unicode": "84B8",
+ "traits": 13,
+ "cles": 140,
+ "latin": [
+ "mu",
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "84C4",
+ "traits": 13,
+ "cles": 140,
+ "latin": [
+ "takuwa",
+ "CHIKU"
+ ]
+ },
+ {
+ "unicode": "865C",
+ "traits": 13,
+ "cles": 141,
+ "latin": [
+ "RYO"
+ ]
+ },
+ {
+ "unicode": "865E",
+ "traits": 13,
+ "cles": 141,
+ "latin": [
+ "osore"
+ ]
+ },
+ {
+ "unicode": "88F8",
+ "traits": 13,
+ "cles": 145,
+ "latin": [
+ "hadaka",
+ "RA"
+ ]
+ },
+ {
+ "unicode": "8910",
+ "traits": 13,
+ "cles": 145,
+ "latin": [
+ "KATSU"
+ ]
+ },
+ {
+ "unicode": "89E3",
+ "traits": 13,
+ "cles": 148,
+ "latin": [
+ "to",
+ "GE",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "89E6",
+ "traits": 13,
+ "cles": 148,
+ "latin": [
+ "sawa",
+ "fu",
+ "SHOKU"
+ ]
+ },
+ {
+ "unicode": "8A66",
+ "traits": 13,
+ "cles": 149,
+ "latin": [
+ "kokoro",
+ "tame",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "8A69",
+ "traits": 13,
+ "cles": 149,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "8A70",
+ "traits": 13,
+ "cles": 149,
+ "latin": [
+ "tsu",
+ "KITSU"
+ ]
+ },
+ {
+ "unicode": "8A71",
+ "traits": 13,
+ "cles": 149,
+ "latin": [
+ "hana",
+ "hanashi",
+ "WA"
+ ]
+ },
+ {
+ "unicode": "8A72",
+ "traits": 13,
+ "cles": 149,
+ "latin": [
+ "GAI"
+ ]
+ },
+ {
+ "unicode": "8A73",
+ "traits": 13,
+ "cles": 149,
+ "latin": [
+ "kuwa",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "8A87",
+ "traits": 13,
+ "cles": 149,
+ "latin": [
+ "hoko",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "8A89",
+ "traits": 13,
+ "cles": 149,
+ "latin": [
+ "homa",
+ "YO"
+ ]
+ },
+ {
+ "unicode": "8AA0",
+ "traits": 13,
+ "cles": 149,
+ "latin": [
+ "makoto",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "8C4A",
+ "traits": 13,
+ "cles": 151,
+ "latin": [
+ "yuta",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "8CC3",
+ "traits": 13,
+ "cles": 154,
+ "latin": [
+ "CHIN"
+ ]
+ },
+ {
+ "unicode": "8CC4",
+ "traits": 13,
+ "cles": 154,
+ "latin": [
+ "makana",
+ "WAI"
+ ]
+ },
+ {
+ "unicode": "8CC7",
+ "traits": 13,
+ "cles": 154,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "8CCA",
+ "traits": 13,
+ "cles": 154,
+ "latin": [
+ "ZOKU"
+ ]
+ },
+ {
+ "unicode": "8DE1",
+ "traits": 13,
+ "cles": 157,
+ "latin": [
+ "ato",
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "8DEF",
+ "traits": 13,
+ "cles": 157,
+ "latin": [
+ "RO"
+ ]
+ },
+ {
+ "unicode": "8DF3",
+ "traits": 13,
+ "cles": 157,
+ "latin": [
+ "to",
+ "ha",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "8DF5",
+ "traits": 13,
+ "cles": 157,
+ "latin": [
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "8F03",
+ "traits": 13,
+ "cles": 159,
+ "latin": [
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "8F09",
+ "traits": 13,
+ "cles": 159,
+ "latin": [
+ "no",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "8FB2",
+ "traits": 13,
+ "cles": 161,
+ "latin": [
+ "NOO"
+ ]
+ },
+ {
+ "unicode": "9055",
+ "traits": 13,
+ "cles": 162,
+ "latin": [
+ "chiga",
+ "I"
+ ]
+ },
+ {
+ "unicode": "905C",
+ "traits": 13,
+ "cles": 162,
+ "latin": [
+ "herikuda",
+ "SON"
+ ]
+ },
+ {
+ "unicode": "9060",
+ "traits": 13,
+ "cles": 162,
+ "latin": [
+ "too",
+ "EN"
+ ]
+ },
+ {
+ "unicode": "9063",
+ "traits": 13,
+ "cles": 162,
+ "latin": [
+ "tsuka",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "916A",
+ "traits": 13,
+ "cles": 164,
+ "latin": [
+ "RAKU"
+ ]
+ },
+ {
+ "unicode": "916C",
+ "traits": 13,
+ "cles": 164,
+ "latin": [
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "9234",
+ "traits": 13,
+ "cles": 167,
+ "latin": [
+ "suzu",
+ "REI",
+ "RIN"
+ ]
+ },
+ {
+ "unicode": "9244",
+ "traits": 13,
+ "cles": 167,
+ "latin": [
+ "TETSU"
+ ]
+ },
+ {
+ "unicode": "925B",
+ "traits": 13,
+ "cles": 167,
+ "latin": [
+ "namari",
+ "EN"
+ ]
+ },
+ {
+ "unicode": "9262",
+ "traits": 13,
+ "cles": 167,
+ "latin": [
+ "HACHI",
+ "HATSU"
+ ]
+ },
+ {
+ "unicode": "9271",
+ "traits": 13,
+ "cles": 167,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "9694",
+ "traits": 13,
+ "cles": 170,
+ "latin": [
+ "heda",
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "9699",
+ "traits": 13,
+ "cles": 170,
+ "latin": [
+ "suki"
+ ]
+ },
+ {
+ "unicode": "96F6",
+ "traits": 13,
+ "cles": 173,
+ "latin": [
+ "REI"
+ ]
+ },
+ {
+ "unicode": "96F7",
+ "traits": 13,
+ "cles": 173,
+ "latin": [
+ "kaminari",
+ "RAI"
+ ]
+ },
+ {
+ "unicode": "96FB",
+ "traits": 13,
+ "cles": 173,
+ "latin": [
+ "DEN"
+ ]
+ },
+ {
+ "unicode": "9774",
+ "traits": 13,
+ "cles": 177,
+ "latin": [
+ "kutsu",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "610F",
+ "traits": 13,
+ "cles": 180,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "9810",
+ "traits": 13,
+ "cles": 181,
+ "latin": [
+ "azu",
+ "YO"
+ ]
+ },
+ {
+ "unicode": "9811",
+ "traits": 13,
+ "cles": 181,
+ "latin": [
+ "GAN"
+ ]
+ },
+ {
+ "unicode": "9812",
+ "traits": 13,
+ "cles": 181,
+ "latin": [
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "98FC",
+ "traits": 13,
+ "cles": 184,
+ "latin": [
+ "ka",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "98FD",
+ "traits": 13,
+ "cles": 184,
+ "latin": [
+ "a",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "98FE",
+ "traits": 13,
+ "cles": 184,
+ "latin": [
+ "kaza",
+ "SHOKU"
+ ]
+ },
+ {
+ "unicode": "9F13",
+ "traits": 13,
+ "cles": 207,
+ "latin": [
+ "tsuzumi",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "9F20",
+ "traits": 13,
+ "cles": 208,
+ "latin": [
+ "nezumi",
+ "SHO",
+ "SO"
+ ]
+ },
+ {
+ "unicode": "8C6A",
+ "traits": 14,
+ "cles": 8,
+ "latin": [
+ "GOO"
+ ]
+ },
+ {
+ "unicode": "50CF",
+ "traits": 14,
+ "cles": 9,
+ "latin": [
+ "ZOO"
+ ]
+ },
+ {
+ "unicode": "50D5",
+ "traits": 14,
+ "cles": 9,
+ "latin": [
+ "BOKU"
+ ]
+ },
+ {
+ "unicode": "50DA",
+ "traits": 14,
+ "cles": 9,
+ "latin": [
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "7591",
+ "traits": 14,
+ "cles": 21,
+ "latin": [
+ "utaga",
+ "GI"
+ ]
+ },
+ {
+ "unicode": "66A6",
+ "traits": 14,
+ "cles": 27,
+ "latin": [
+ "koyomi",
+ "REKI"
+ ]
+ },
+ {
+ "unicode": "5618",
+ "traits": 14,
+ "cles": 30,
+ "latin": [
+ "uso"
+ ]
+ },
+ {
+ "unicode": "9CF4",
+ "traits": 14,
+ "cles": 30,
+ "latin": [
+ "na",
+ "MEI"
+ ]
+ },
+ {
+ "unicode": "587E",
+ "traits": 14,
+ "cles": 32,
+ "latin": [
+ "JUKU"
+ ]
+ },
+ {
+ "unicode": "5883",
+ "traits": 14,
+ "cles": 32,
+ "latin": [
+ "sakai",
+ "KEI",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "5897",
+ "traits": 14,
+ "cles": 32,
+ "latin": [
+ "fu",
+ "ZOO"
+ ]
+ },
+ {
+ "unicode": "596A",
+ "traits": 14,
+ "cles": 37,
+ "latin": [
+ "uba",
+ "DATSU"
+ ]
+ },
+ {
+ "unicode": "5AE1",
+ "traits": 14,
+ "cles": 38,
+ "latin": [
+ "CHAKU"
+ ]
+ },
+ {
+ "unicode": "5BDF",
+ "traits": 14,
+ "cles": 40,
+ "latin": [
+ "SATSU"
+ ]
+ },
+ {
+ "unicode": "5BE1",
+ "traits": 14,
+ "cles": 40,
+ "latin": [
+ "KA"
+ ]
+ },
+ {
+ "unicode": "5BE7",
+ "traits": 14,
+ "cles": 40,
+ "latin": [
+ "NEI"
+ ]
+ },
+ {
+ "unicode": "5C64",
+ "traits": 14,
+ "cles": 44,
+ "latin": [
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "8150",
+ "traits": 14,
+ "cles": 53,
+ "latin": [
+ "kusa",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "5F70",
+ "traits": 14,
+ "cles": 59,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5FB3",
+ "traits": 14,
+ "cles": 60,
+ "latin": [
+ "TOKU"
+ ]
+ },
+ {
+ "unicode": "5FB4",
+ "traits": 14,
+ "cles": 60,
+ "latin": [
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "614B",
+ "traits": 14,
+ "cles": 61,
+ "latin": [
+ "TAI"
+ ]
+ },
+ {
+ "unicode": "6162",
+ "traits": 14,
+ "cles": 61,
+ "latin": [
+ "MAN"
+ ]
+ },
+ {
+ "unicode": "6163",
+ "traits": 14,
+ "cles": 61,
+ "latin": [
+ "na",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "618E",
+ "traits": 14,
+ "cles": 61,
+ "latin": [
+ "niku",
+ "ZOO"
+ ]
+ },
+ {
+ "unicode": "6458",
+ "traits": 14,
+ "cles": 64,
+ "latin": [
+ "tsu",
+ "TEKI"
+ ]
+ },
+ {
+ "unicode": "65D7",
+ "traits": 14,
+ "cles": 70,
+ "latin": [
+ "hata",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "6982",
+ "traits": 14,
+ "cles": 75,
+ "latin": [
+ "GAI"
+ ]
+ },
+ {
+ "unicode": "69CB",
+ "traits": 14,
+ "cles": 75,
+ "latin": [
+ "kama",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "6A21",
+ "traits": 14,
+ "cles": 75,
+ "latin": [
+ "BO",
+ "MO"
+ ]
+ },
+ {
+ "unicode": "6B4C",
+ "traits": 14,
+ "cles": 76,
+ "latin": [
+ "uta",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "6B74",
+ "traits": 14,
+ "cles": 77,
+ "latin": [
+ "REKI"
+ ]
+ },
+ {
+ "unicode": "96CC",
+ "traits": 14,
+ "cles": 77,
+ "latin": [
+ "mesu",
+ "me",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "7A40",
+ "traits": 14,
+ "cles": 79,
+ "latin": [
+ "KOKU"
+ ]
+ },
+ {
+ "unicode": "6EF4",
+ "traits": 14,
+ "cles": 85,
+ "latin": [
+ "shizuku",
+ "shitata",
+ "TEKI"
+ ]
+ },
+ {
+ "unicode": "6F01",
+ "traits": 14,
+ "cles": 85,
+ "latin": [
+ "GYO",
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "6F02",
+ "traits": 14,
+ "cles": 85,
+ "latin": [
+ "tadayo",
+ "HYOO"
+ ]
+ },
+ {
+ "unicode": "6F06",
+ "traits": 14,
+ "cles": 85,
+ "latin": [
+ "urushi",
+ "SHITSU"
+ ]
+ },
+ {
+ "unicode": "6F0F",
+ "traits": 14,
+ "cles": 85,
+ "latin": [
+ "mo",
+ "ROO"
+ ]
+ },
+ {
+ "unicode": "6F14",
+ "traits": 14,
+ "cles": 85,
+ "latin": [
+ "EN"
+ ]
+ },
+ {
+ "unicode": "6F2B",
+ "traits": 14,
+ "cles": 85,
+ "latin": [
+ "MAN"
+ ]
+ },
+ {
+ "unicode": "68A8",
+ "traits": 11,
+ "cles": 75,
+ "latin": [
+ "nashi"
+ ]
+ },
+ {
+ "unicode": "6F38",
+ "traits": 14,
+ "cles": 85,
+ "latin": [
+ "ZEN"
+ ]
+ },
+ {
+ "unicode": "718A",
+ "traits": 14,
+ "cles": 86,
+ "latin": [
+ "kuma"
+ ]
+ },
+ {
+ "unicode": "7344",
+ "traits": 14,
+ "cles": 94,
+ "latin": [
+ "GOKU"
+ ]
+ },
+ {
+ "unicode": "760D",
+ "traits": 14,
+ "cles": 104,
+ "latin": [
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "7891",
+ "traits": 14,
+ "cles": 112,
+ "latin": [
+ "HI"
+ ]
+ },
+ {
+ "unicode": "78C1",
+ "traits": 14,
+ "cles": 112,
+ "latin": [
+ "JI"
+ ]
+ },
+ {
+ "unicode": "7A2E",
+ "traits": 14,
+ "cles": 115,
+ "latin": [
+ "tane",
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "7A32",
+ "traits": 14,
+ "cles": 115,
+ "latin": [
+ "ina",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "7AEF",
+ "traits": 14,
+ "cles": 117,
+ "latin": [
+ "hashi",
+ "hata",
+ "ha",
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "7B87",
+ "traits": 14,
+ "cles": 118,
+ "latin": [
+ "KA"
+ ]
+ },
+ {
+ "unicode": "7B97",
+ "traits": 14,
+ "cles": 118,
+ "latin": [
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "7BA1",
+ "traits": 14,
+ "cles": 118,
+ "latin": [
+ "kuda",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "7CBE",
+ "traits": 14,
+ "cles": 119,
+ "latin": [
+ "SEI",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7DAD",
+ "traits": 14,
+ "cles": 120,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "7DB1",
+ "traits": 14,
+ "cles": 120,
+ "latin": [
+ "tsuna",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "7DB2",
+ "traits": 14,
+ "cles": 120,
+ "latin": [
+ "ami",
+ "MOO"
+ ]
+ },
+ {
+ "unicode": "7DBF",
+ "traits": 14,
+ "cles": 120,
+ "latin": [
+ "wata",
+ "MEN"
+ ]
+ },
+ {
+ "unicode": "7DCF",
+ "traits": 14,
+ "cles": 120,
+ "latin": [
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "7DD1",
+ "traits": 14,
+ "cles": 120,
+ "latin": [
+ "midori",
+ "ROKU",
+ "RYOKU"
+ ]
+ },
+ {
+ "unicode": "7DD2",
+ "traits": 14,
+ "cles": 120,
+ "latin": [
+ "o",
+ "CHO",
+ "SHO"
+ ]
+ },
+ {
+ "unicode": "7DF4",
+ "traits": 14,
+ "cles": 120,
+ "latin": [
+ "ne",
+ "REN"
+ ]
+ },
+ {
+ "unicode": "7F70",
+ "traits": 14,
+ "cles": 122,
+ "latin": [
+ "BACHI",
+ "BATSU"
+ ]
+ },
+ {
+ "unicode": "819C",
+ "traits": 14,
+ "cles": 130,
+ "latin": [
+ "MAKU"
+ ]
+ },
+ {
+ "unicode": "6155",
+ "traits": 14,
+ "cles": 140,
+ "latin": [
+ "shita",
+ "BO"
+ ]
+ },
+ {
+ "unicode": "66AE",
+ "traits": 14,
+ "cles": 140,
+ "latin": [
+ "ku",
+ "BO"
+ ]
+ },
+ {
+ "unicode": "88FD",
+ "traits": 14,
+ "cles": 145,
+ "latin": [
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "8907",
+ "traits": 14,
+ "cles": 145,
+ "latin": [
+ "FUKU"
+ ]
+ },
+ {
+ "unicode": "8A8C",
+ "traits": 14,
+ "cles": 149,
+ "latin": [
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "8A8D",
+ "traits": 14,
+ "cles": 149,
+ "latin": [
+ "mito",
+ "NIN"
+ ]
+ },
+ {
+ "unicode": "8A93",
+ "traits": 14,
+ "cles": 149,
+ "latin": [
+ "chika",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "8A98",
+ "traits": 14,
+ "cles": 149,
+ "latin": [
+ "saso",
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "8A9E",
+ "traits": 14,
+ "cles": 149,
+ "latin": [
+ "kata",
+ "GO"
+ ]
+ },
+ {
+ "unicode": "8AA4",
+ "traits": 14,
+ "cles": 149,
+ "latin": [
+ "ayama",
+ "GO"
+ ]
+ },
+ {
+ "unicode": "8AAC",
+ "traits": 14,
+ "cles": 149,
+ "latin": [
+ "to",
+ "SETSU",
+ "ZEI"
+ ]
+ },
+ {
+ "unicode": "8AAD",
+ "traits": 14,
+ "cles": 149,
+ "latin": [
+ "yo",
+ "DOKU",
+ "TOKU",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "8E0A",
+ "traits": 14,
+ "cles": 157,
+ "latin": [
+ "odo",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "9069",
+ "traits": 14,
+ "cles": 162,
+ "latin": [
+ "TEKI"
+ ]
+ },
+ {
+ "unicode": "906D",
+ "traits": 14,
+ "cles": 162,
+ "latin": [
+ "a",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "906E",
+ "traits": 14,
+ "cles": 162,
+ "latin": [
+ "saegi",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "9175",
+ "traits": 14,
+ "cles": 164,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "9177",
+ "traits": 14,
+ "cles": 164,
+ "latin": [
+ "KOKU"
+ ]
+ },
+ {
+ "unicode": "9178",
+ "traits": 14,
+ "cles": 164,
+ "latin": [
+ "su",
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "9280",
+ "traits": 14,
+ "cles": 167,
+ "latin": [
+ "GIN"
+ ]
+ },
+ {
+ "unicode": "9283",
+ "traits": 14,
+ "cles": 167,
+ "latin": [
+ "JUU"
+ ]
+ },
+ {
+ "unicode": "9285",
+ "traits": 14,
+ "cles": 167,
+ "latin": [
+ "akagane",
+ "DOO"
+ ]
+ },
+ {
+ "unicode": "9291",
+ "traits": 14,
+ "cles": 167,
+ "latin": [
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "9298",
+ "traits": 14,
+ "cles": 167,
+ "latin": [
+ "MEI"
+ ]
+ },
+ {
+ "unicode": "92AD",
+ "traits": 14,
+ "cles": 167,
+ "latin": [
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "805E",
+ "traits": 14,
+ "cles": 169,
+ "latin": [
+ "ki",
+ "BUN",
+ "MON"
+ ]
+ },
+ {
+ "unicode": "95A2",
+ "traits": 14,
+ "cles": 169,
+ "latin": [
+ "seki",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "95A3",
+ "traits": 14,
+ "cles": 169,
+ "latin": [
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "95A5",
+ "traits": 14,
+ "cles": 169,
+ "latin": [
+ "BATSU"
+ ]
+ },
+ {
+ "unicode": "969B",
+ "traits": 14,
+ "cles": 170,
+ "latin": [
+ "kiwa",
+ "SAI"
+ ]
+ },
+ {
+ "unicode": "969C",
+ "traits": 14,
+ "cles": 170,
+ "latin": [
+ "sawa",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "96A0",
+ "traits": 14,
+ "cles": 170,
+ "latin": [
+ "kaku",
+ "IN"
+ ]
+ },
+ {
+ "unicode": "96D1",
+ "traits": 14,
+ "cles": 172,
+ "latin": [
+ "ZATSU",
+ "ZOO"
+ ]
+ },
+ {
+ "unicode": "9700",
+ "traits": 14,
+ "cles": 173,
+ "latin": [
+ "JU"
+ ]
+ },
+ {
+ "unicode": "9759",
+ "traits": 14,
+ "cles": 174,
+ "latin": [
+ "shizu",
+ "JOO",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "9784",
+ "traits": 14,
+ "cles": 177,
+ "latin": [
+ "kaban"
+ ]
+ },
+ {
+ "unicode": "9818",
+ "traits": 14,
+ "cles": 181,
+ "latin": [
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "99C4",
+ "traits": 14,
+ "cles": 187,
+ "latin": [
+ "DA"
+ ]
+ },
+ {
+ "unicode": "99C5",
+ "traits": 14,
+ "cles": 187,
+ "latin": [
+ "EKI"
+ ]
+ },
+ {
+ "unicode": "99C6",
+ "traits": 14,
+ "cles": 187,
+ "latin": [
+ "ka",
+ "KU"
+ ]
+ },
+ {
+ "unicode": "9AEA",
+ "traits": 14,
+ "cles": 190,
+ "latin": [
+ "kami",
+ "HATSU"
+ ]
+ },
+ {
+ "unicode": "9B42",
+ "traits": 14,
+ "cles": 194,
+ "latin": [
+ "tamashii",
+ "KON"
+ ]
+ },
+ {
+ "unicode": "58A8",
+ "traits": 14,
+ "cles": 203,
+ "latin": [
+ "sumi",
+ "BOKU"
+ ]
+ },
+ {
+ "unicode": "9F3B",
+ "traits": 14,
+ "cles": 209,
+ "latin": [
+ "hana",
+ "BI"
+ ]
+ },
+ {
+ "unicode": "6182",
+ "traits": 15,
+ "cles": 1,
+ "latin": [
+ "ure",
+ "u",
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "8912",
+ "traits": 15,
+ "cles": 8,
+ "latin": [
+ "ho",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "5100",
+ "traits": 15,
+ "cles": 9,
+ "latin": [
+ "GI"
+ ]
+ },
+ {
+ "unicode": "5104",
+ "traits": 15,
+ "cles": 9,
+ "latin": [
+ "OKU"
+ ]
+ },
+ {
+ "unicode": "8217",
+ "traits": 15,
+ "cles": 9,
+ "latin": [
+ "HO"
+ ]
+ },
+ {
+ "unicode": "5287",
+ "traits": 15,
+ "cles": 18,
+ "latin": [
+ "GEKI"
+ ]
+ },
+ {
+ "unicode": "5631",
+ "traits": 15,
+ "cles": 30,
+ "latin": [
+ "SHOKU"
+ ]
+ },
+ {
+ "unicode": "5642",
+ "traits": 15,
+ "cles": 30,
+ "latin": [
+ "uwasa"
+ ]
+ },
+ {
+ "unicode": "5668",
+ "traits": 15,
+ "cles": 30,
+ "latin": [
+ "utsuwa",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "5674",
+ "traits": 15,
+ "cles": 30,
+ "latin": [
+ "fu",
+ "FUN"
+ ]
+ },
+ {
+ "unicode": "589C",
+ "traits": 15,
+ "cles": 32,
+ "latin": [
+ "TSUI"
+ ]
+ },
+ {
+ "unicode": "58B3",
+ "traits": 15,
+ "cles": 32,
+ "latin": [
+ "FUN"
+ ]
+ },
+ {
+ "unicode": "5B0C",
+ "traits": 15,
+ "cles": 38,
+ "latin": [
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "5BE9",
+ "traits": 15,
+ "cles": 40,
+ "latin": [
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "5BEE",
+ "traits": 15,
+ "cles": 40,
+ "latin": [
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "8CD3",
+ "traits": 15,
+ "cles": 40,
+ "latin": [
+ "HIN"
+ ]
+ },
+ {
+ "unicode": "5C0E",
+ "traits": 15,
+ "cles": 41,
+ "latin": [
+ "michibi",
+ "DOO"
+ ]
+ },
+ {
+ "unicode": "8CDE",
+ "traits": 15,
+ "cles": 42,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "5C65",
+ "traits": 15,
+ "cles": 44,
+ "latin": [
+ "ha",
+ "RI"
+ ]
+ },
+ {
+ "unicode": "5E63",
+ "traits": 15,
+ "cles": 50,
+ "latin": [
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "6176",
+ "traits": 15,
+ "cles": 53,
+ "latin": [
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "5F0A",
+ "traits": 15,
+ "cles": 55,
+ "latin": [
+ "HEI"
+ ]
+ },
+ {
+ "unicode": "5F71",
+ "traits": 15,
+ "cles": 59,
+ "latin": [
+ "kage",
+ "EI"
+ ]
+ },
+ {
+ "unicode": "5FB9",
+ "traits": 15,
+ "cles": 60,
+ "latin": [
+ "TETSU"
+ ]
+ },
+ {
+ "unicode": "885D",
+ "traits": 15,
+ "cles": 60,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "6170",
+ "traits": 15,
+ "cles": 61,
+ "latin": [
+ "nagusa",
+ "I"
+ ]
+ },
+ {
+ "unicode": "61A4",
+ "traits": 15,
+ "cles": 61,
+ "latin": [
+ "ikidoo",
+ "FUN"
+ ]
+ },
+ {
+ "unicode": "622F",
+ "traits": 15,
+ "cles": 62,
+ "latin": [
+ "tawamu",
+ "GI"
+ ]
+ },
+ {
+ "unicode": "6483",
+ "traits": 15,
+ "cles": 64,
+ "latin": [
+ "u",
+ "GEKI"
+ ]
+ },
+ {
+ "unicode": "64A4",
+ "traits": 15,
+ "cles": 64,
+ "latin": [
+ "TETSU"
+ ]
+ },
+ {
+ "unicode": "64AE",
+ "traits": 15,
+ "cles": 64,
+ "latin": [
+ "to",
+ "SATSU"
+ ]
+ },
+ {
+ "unicode": "64B2",
+ "traits": 15,
+ "cles": 64,
+ "latin": [
+ "BOKU"
+ ]
+ },
+ {
+ "unicode": "6575",
+ "traits": 15,
+ "cles": 66,
+ "latin": [
+ "kataki",
+ "TEKI"
+ ]
+ },
+ {
+ "unicode": "6577",
+ "traits": 15,
+ "cles": 66,
+ "latin": [
+ "shi",
+ "FU"
+ ]
+ },
+ {
+ "unicode": "66AB",
+ "traits": 15,
+ "cles": 72,
+ "latin": [
+ "ZAN"
+ ]
+ },
+ {
+ "unicode": "66B4",
+ "traits": 15,
+ "cles": 72,
+ "latin": [
+ "aba",
+ "BAKU",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "69D8",
+ "traits": 14,
+ "cles": 75,
+ "latin": [
+ "sama",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "69FD",
+ "traits": 15,
+ "cles": 75,
+ "latin": [
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "6A19",
+ "traits": 15,
+ "cles": 75,
+ "latin": [
+ "HYOO"
+ ]
+ },
+ {
+ "unicode": "6A29",
+ "traits": 15,
+ "cles": 75,
+ "latin": [
+ "GON",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "6A2A",
+ "traits": 15,
+ "cles": 75,
+ "latin": [
+ "yoko",
+ "OO"
+ ]
+ },
+ {
+ "unicode": "6B53",
+ "traits": 15,
+ "cles": 76,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "6F54",
+ "traits": 15,
+ "cles": 85,
+ "latin": [
+ "isagiyo",
+ "KETSU"
+ ]
+ },
+ {
+ "unicode": "6F5C",
+ "traits": 15,
+ "cles": 85,
+ "latin": [
+ "hiso",
+ "mogu",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "6F5F",
+ "traits": 15,
+ "cles": 85,
+ "latin": [
+ "kata",
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "6F64",
+ "traits": 15,
+ "cles": 85,
+ "latin": [
+ "uru",
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "6F6E",
+ "traits": 15,
+ "cles": 85,
+ "latin": [
+ "shio",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "6F70",
+ "traits": 15,
+ "cles": 85,
+ "latin": [
+ "tsubu",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "6F84",
+ "traits": 15,
+ "cles": 85,
+ "latin": [
+ "su",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "52F2",
+ "traits": 15,
+ "cles": 86,
+ "latin": [
+ "KUN"
+ ]
+ },
+ {
+ "unicode": "719F",
+ "traits": 15,
+ "cles": 86,
+ "latin": [
+ "u",
+ "JUKU"
+ ]
+ },
+ {
+ "unicode": "71B1",
+ "traits": 15,
+ "cles": 86,
+ "latin": [
+ "atsu",
+ "NETSU"
+ ]
+ },
+ {
+ "unicode": "9ED9",
+ "traits": 15,
+ "cles": 86,
+ "latin": [
+ "dama",
+ "MOKU"
+ ]
+ },
+ {
+ "unicode": "76E3",
+ "traits": 15,
+ "cles": 108,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "76E4",
+ "traits": 15,
+ "cles": 108,
+ "latin": [
+ "BAN"
+ ]
+ },
+ {
+ "unicode": "78BA",
+ "traits": 15,
+ "cles": 112,
+ "latin": [
+ "tashi",
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "7A3C",
+ "traits": 15,
+ "cles": 115,
+ "latin": [
+ "kase",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "7A3F",
+ "traits": 15,
+ "cles": 115,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "7A42",
+ "traits": 15,
+ "cles": 115,
+ "latin": [
+ "ho",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "7AAE",
+ "traits": 15,
+ "cles": 116,
+ "latin": [
+ "kiwa",
+ "KYUU"
+ ]
+ },
+ {
+ "unicode": "7AAF",
+ "traits": 15,
+ "cles": 116,
+ "latin": [
+ "kama",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "7BB1",
+ "traits": 15,
+ "cles": 118,
+ "latin": [
+ "hako"
+ ]
+ },
+ {
+ "unicode": "7BB8",
+ "traits": 15,
+ "cles": 118,
+ "latin": [
+ "hashi"
+ ]
+ },
+ {
+ "unicode": "7BC4",
+ "traits": 15,
+ "cles": 118,
+ "latin": [
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "7DCA",
+ "traits": 15,
+ "cles": 120,
+ "latin": [
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "7DDA",
+ "traits": 15,
+ "cles": 120,
+ "latin": [
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "7DE0",
+ "traits": 15,
+ "cles": 120,
+ "latin": [
+ "shi",
+ "TEI"
+ ]
+ },
+ {
+ "unicode": "7DE8",
+ "traits": 15,
+ "cles": 120,
+ "latin": [
+ "a",
+ "HEN"
+ ]
+ },
+ {
+ "unicode": "7DE9",
+ "traits": 15,
+ "cles": 120,
+ "latin": [
+ "yuru",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "7E01",
+ "traits": 15,
+ "cles": 120,
+ "latin": [
+ "fuchi",
+ "EN"
+ ]
+ },
+ {
+ "unicode": "7E04",
+ "traits": 15,
+ "cles": 120,
+ "latin": [
+ "nawa",
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "7F77",
+ "traits": 15,
+ "cles": 122,
+ "latin": [
+ "HI"
+ ]
+ },
+ {
+ "unicode": "990A",
+ "traits": 15,
+ "cles": 123,
+ "latin": [
+ "yashina",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "821E",
+ "traits": 15,
+ "cles": 136,
+ "latin": [
+ "ma",
+ "BU"
+ ]
+ },
+ {
+ "unicode": "8535",
+ "traits": 15,
+ "cles": 140,
+ "latin": [
+ "kura",
+ "ZOO"
+ ]
+ },
+ {
+ "unicode": "8549",
+ "traits": 15,
+ "cles": 140,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "854E",
+ "traits": 15,
+ "cles": 140,
+ "latin": [
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "616E",
+ "traits": 15,
+ "cles": 141,
+ "latin": [
+ "RYO"
+ ]
+ },
+ {
+ "unicode": "819A",
+ "traits": 15,
+ "cles": 141,
+ "latin": [
+ "FU"
+ ]
+ },
+ {
+ "unicode": "8A95",
+ "traits": 15,
+ "cles": 149,
+ "latin": [
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "8AB2",
+ "traits": 15,
+ "cles": 149,
+ "latin": [
+ "KA"
+ ]
+ },
+ {
+ "unicode": "8ABF",
+ "traits": 15,
+ "cles": 149,
+ "latin": [
+ "shira",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "8AC7",
+ "traits": 15,
+ "cles": 149,
+ "latin": [
+ "DAN"
+ ]
+ },
+ {
+ "unicode": "8ACB",
+ "traits": 15,
+ "cles": 149,
+ "latin": [
+ "ko",
+ "u",
+ "SEI",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "8AD6",
+ "traits": 15,
+ "cles": 149,
+ "latin": [
+ "RON"
+ ]
+ },
+ {
+ "unicode": "8AF8",
+ "traits": 15,
+ "cles": 149,
+ "latin": [
+ "SHO"
+ ]
+ },
+ {
+ "unicode": "8AFE",
+ "traits": 15,
+ "cles": 149,
+ "latin": [
+ "DAKU"
+ ]
+ },
+ {
+ "unicode": "8B01",
+ "traits": 15,
+ "cles": 149,
+ "latin": [
+ "ETSU"
+ ]
+ },
+ {
+ "unicode": "8CDB",
+ "traits": 15,
+ "cles": 154,
+ "latin": [
+ "SAN"
+ ]
+ },
+ {
+ "unicode": "8CDC",
+ "traits": 15,
+ "cles": 154,
+ "latin": [
+ "tamawa",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "8CE0",
+ "traits": 15,
+ "cles": 154,
+ "latin": [
+ "BAI"
+ ]
+ },
+ {
+ "unicode": "8CE6",
+ "traits": 15,
+ "cles": 154,
+ "latin": [
+ "FU"
+ ]
+ },
+ {
+ "unicode": "8CEA",
+ "traits": 15,
+ "cles": 154,
+ "latin": [
+ "SHICHI",
+ "SHITSU"
+ ]
+ },
+ {
+ "unicode": "8DA3",
+ "traits": 15,
+ "cles": 156,
+ "latin": [
+ "omomuki",
+ "SHU"
+ ]
+ },
+ {
+ "unicode": "8E0F",
+ "traits": 15,
+ "cles": 157,
+ "latin": [
+ "fu",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "8F1D",
+ "traits": 15,
+ "cles": 159,
+ "latin": [
+ "kagaya",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "8F2A",
+ "traits": 15,
+ "cles": 159,
+ "latin": [
+ "wa",
+ "RIN"
+ ]
+ },
+ {
+ "unicode": "9075",
+ "traits": 15,
+ "cles": 162,
+ "latin": [
+ "JUN"
+ ]
+ },
+ {
+ "unicode": "9077",
+ "traits": 15,
+ "cles": 162,
+ "latin": [
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "9078",
+ "traits": 15,
+ "cles": 162,
+ "latin": [
+ "era",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "907A",
+ "traits": 15,
+ "cles": 162,
+ "latin": [
+ "I",
+ "YUI"
+ ]
+ },
+ {
+ "unicode": "92ED",
+ "traits": 15,
+ "cles": 167,
+ "latin": [
+ "surudo",
+ "EI"
+ ]
+ },
+ {
+ "unicode": "92F3",
+ "traits": 15,
+ "cles": 167,
+ "latin": [
+ "i",
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "95B2",
+ "traits": 15,
+ "cles": 169,
+ "latin": [
+ "ETSU"
+ ]
+ },
+ {
+ "unicode": "9707",
+ "traits": 15,
+ "cles": 173,
+ "latin": [
+ "furu",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "970A",
+ "traits": 15,
+ "cles": 173,
+ "latin": [
+ "tama",
+ "REI",
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "8F29",
+ "traits": 15,
+ "cles": 175,
+ "latin": [
+ "HAI"
+ ]
+ },
+ {
+ "unicode": "9913",
+ "traits": 15,
+ "cles": 184,
+ "latin": [
+ "GA"
+ ]
+ },
+ {
+ "unicode": "99D0",
+ "traits": 15,
+ "cles": 187,
+ "latin": [
+ "CHUU"
+ ]
+ },
+ {
+ "unicode": "9B45",
+ "traits": 15,
+ "cles": 194,
+ "latin": [
+ "MI"
+ ]
+ },
+ {
+ "unicode": "6469",
+ "traits": 15,
+ "cles": 200,
+ "latin": [
+ "MA"
+ ]
+ },
+ {
+ "unicode": "5112",
+ "traits": 16,
+ "cles": 9,
+ "latin": [
+ "JU"
+ ]
+ },
+ {
+ "unicode": "51DD",
+ "traits": 16,
+ "cles": 15,
+ "latin": [
+ "ko",
+ "GYOO"
+ ]
+ },
+ {
+ "unicode": "58BE",
+ "traits": 16,
+ "cles": 32,
+ "latin": [
+ "KON"
+ ]
+ },
+ {
+ "unicode": "58C1",
+ "traits": 16,
+ "cles": 32,
+ "latin": [
+ "kabe",
+ "HEKI"
+ ]
+ },
+ {
+ "unicode": "58C7",
+ "traits": 16,
+ "cles": 32,
+ "latin": [
+ "DAN",
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "58CA",
+ "traits": 16,
+ "cles": 32,
+ "latin": [
+ "kowa",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "58CC",
+ "traits": 16,
+ "cles": 32,
+ "latin": [
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "596E",
+ "traits": 16,
+ "cles": 37,
+ "latin": [
+ "furu",
+ "FUN"
+ ]
+ },
+ {
+ "unicode": "5B22",
+ "traits": 16,
+ "cles": 38,
+ "latin": [
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "61B2",
+ "traits": 16,
+ "cles": 40,
+ "latin": [
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "885B",
+ "traits": 16,
+ "cles": 60,
+ "latin": [
+ "EI"
+ ]
+ },
+ {
+ "unicode": "8861",
+ "traits": 16,
+ "cles": 60,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "61A9",
+ "traits": 16,
+ "cles": 61,
+ "latin": [
+ "iko",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "61B6",
+ "traits": 16,
+ "cles": 61,
+ "latin": [
+ "OKU"
+ ]
+ },
+ {
+ "unicode": "61BE",
+ "traits": 16,
+ "cles": 61,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "61D0",
+ "traits": 16,
+ "cles": 61,
+ "latin": [
+ "natsu",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "64C1",
+ "traits": 16,
+ "cles": 64,
+ "latin": [
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "64CD",
+ "traits": 16,
+ "cles": 64,
+ "latin": [
+ "ayatsu",
+ "misao",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "66C7",
+ "traits": 16,
+ "cles": 72,
+ "latin": [
+ "kumo",
+ "DON"
+ ]
+ },
+ {
+ "unicode": "6A39",
+ "traits": 16,
+ "cles": 75,
+ "latin": [
+ "JU"
+ ]
+ },
+ {
+ "unicode": "6A4B",
+ "traits": 16,
+ "cles": 75,
+ "latin": [
+ "hashi",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "6A5F",
+ "traits": 16,
+ "cles": 75,
+ "latin": [
+ "hata",
+ "KI"
+ ]
+ },
+ {
+ "unicode": "6574",
+ "traits": 16,
+ "cles": 77,
+ "latin": [
+ "totono",
+ "SEI"
+ ]
+ },
+ {
+ "unicode": "6FC3",
+ "traits": 16,
+ "cles": 83,
+ "latin": [
+ "ko",
+ "NOO"
+ ]
+ },
+ {
+ "unicode": "6FC0",
+ "traits": 16,
+ "cles": 85,
+ "latin": [
+ "hage",
+ "GEKI"
+ ]
+ },
+ {
+ "unicode": "6FC1",
+ "traits": 16,
+ "cles": 85,
+ "latin": [
+ "nigo",
+ "DAKU"
+ ]
+ },
+ {
+ "unicode": "71C3",
+ "traits": 16,
+ "cles": 86,
+ "latin": [
+ "mo",
+ "NEN"
+ ]
+ },
+ {
+ "unicode": "7363",
+ "traits": 16,
+ "cles": 94,
+ "latin": [
+ "kemono",
+ "JUU"
+ ]
+ },
+ {
+ "unicode": "7372",
+ "traits": 16,
+ "cles": 94,
+ "latin": [
+ "e",
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "7A4D",
+ "traits": 16,
+ "cles": 115,
+ "latin": [
+ "tsu",
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "7A4F",
+ "traits": 16,
+ "cles": 115,
+ "latin": [
+ "oda",
+ "ON"
+ ]
+ },
+ {
+ "unicode": "7BC9",
+ "traits": 16,
+ "cles": 118,
+ "latin": [
+ "kizu",
+ "CHIKU"
+ ]
+ },
+ {
+ "unicode": "7BE4",
+ "traits": 16,
+ "cles": 118,
+ "latin": [
+ "TOKU"
+ ]
+ },
+ {
+ "unicode": "7CD6",
+ "traits": 16,
+ "cles": 119,
+ "latin": [
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "7DEF",
+ "traits": 16,
+ "cles": 120,
+ "latin": [
+ "I"
+ ]
+ },
+ {
+ "unicode": "7E1B",
+ "traits": 16,
+ "cles": 120,
+ "latin": [
+ "shiba",
+ "BAKU"
+ ]
+ },
+ {
+ "unicode": "7E26",
+ "traits": 16,
+ "cles": 120,
+ "latin": [
+ "tate",
+ "JUU"
+ ]
+ },
+ {
+ "unicode": "7E2B",
+ "traits": 16,
+ "cles": 120,
+ "latin": [
+ "nu",
+ "HOO"
+ ]
+ },
+ {
+ "unicode": "7E41",
+ "traits": 16,
+ "cles": 120,
+ "latin": [
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "81A8",
+ "traits": 16,
+ "cles": 130,
+ "latin": [
+ "fuku",
+ "BOO"
+ ]
+ },
+ {
+ "unicode": "8208",
+ "traits": 16,
+ "cles": 134,
+ "latin": [
+ "oko",
+ "KOO",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "8584",
+ "traits": 16,
+ "cles": 140,
+ "latin": [
+ "usu",
+ "HAKU"
+ ]
+ },
+ {
+ "unicode": "85A6",
+ "traits": 16,
+ "cles": 140,
+ "latin": [
+ "susu",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "85AA",
+ "traits": 16,
+ "cles": 140,
+ "latin": [
+ "takigi",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "85AB",
+ "traits": 16,
+ "cles": 140,
+ "latin": [
+ "kao",
+ "KUN"
+ ]
+ },
+ {
+ "unicode": "85AC",
+ "traits": 16,
+ "cles": 140,
+ "latin": [
+ "kusuri",
+ "YAKU"
+ ]
+ },
+ {
+ "unicode": "89AA",
+ "traits": 16,
+ "cles": 147,
+ "latin": [
+ "oya",
+ "shita",
+ "SHIN"
+ ]
+ },
+ {
+ "unicode": "8AED",
+ "traits": 16,
+ "cles": 149,
+ "latin": [
+ "sato",
+ "YU"
+ ]
+ },
+ {
+ "unicode": "8AEE",
+ "traits": 16,
+ "cles": 149,
+ "latin": [
+ "haka",
+ "SHI"
+ ]
+ },
+ {
+ "unicode": "8AFA",
+ "traits": 16,
+ "cles": 149,
+ "latin": [
+ "kotowaza"
+ ]
+ },
+ {
+ "unicode": "8B00",
+ "traits": 16,
+ "cles": 149,
+ "latin": [
+ "haka",
+ "BOO",
+ "MU"
+ ]
+ },
+ {
+ "unicode": "8B21",
+ "traits": 16,
+ "cles": 149,
+ "latin": [
+ "uta",
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "8CE2",
+ "traits": 16,
+ "cles": 154,
+ "latin": [
+ "kashiko",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "8F38",
+ "traits": 16,
+ "cles": 159,
+ "latin": [
+ "YU"
+ ]
+ },
+ {
+ "unicode": "907F",
+ "traits": 16,
+ "cles": 162,
+ "latin": [
+ "sa",
+ "HI"
+ ]
+ },
+ {
+ "unicode": "9084",
+ "traits": 16,
+ "cles": 162,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "92FC",
+ "traits": 16,
+ "cles": 167,
+ "latin": [
+ "hagane",
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "9318",
+ "traits": 16,
+ "cles": 167,
+ "latin": [
+ "tsumu",
+ "SUI"
+ ]
+ },
+ {
+ "unicode": "9320",
+ "traits": 16,
+ "cles": 167,
+ "latin": [
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "932C",
+ "traits": 16,
+ "cles": 167,
+ "latin": [
+ "REN"
+ ]
+ },
+ {
+ "unicode": "932F",
+ "traits": 16,
+ "cles": 167,
+ "latin": [
+ "SAKU"
+ ]
+ },
+ {
+ "unicode": "9332",
+ "traits": 16,
+ "cles": 167,
+ "latin": [
+ "ROKU"
+ ]
+ },
+ {
+ "unicode": "96A3",
+ "traits": 16,
+ "cles": 170,
+ "latin": [
+ "tonari",
+ "RIN"
+ ]
+ },
+ {
+ "unicode": "96B7",
+ "traits": 16,
+ "cles": 171,
+ "latin": [
+ "REI"
+ ]
+ },
+ {
+ "unicode": "982D",
+ "traits": 16,
+ "cles": 181,
+ "latin": [
+ "atama",
+ "TOO",
+ "ZU"
+ ]
+ },
+ {
+ "unicode": "983C",
+ "traits": 16,
+ "cles": 181,
+ "latin": [
+ "tayo",
+ "tano",
+ "RAI"
+ ]
+ },
+ {
+ "unicode": "9928",
+ "traits": 16,
+ "cles": 184,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "878D",
+ "traits": 16,
+ "cles": 193,
+ "latin": [
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "78E8",
+ "traits": 16,
+ "cles": 200,
+ "latin": [
+ "miga",
+ "MA"
+ ]
+ },
+ {
+ "unicode": "53B3",
+ "traits": 17,
+ "cles": 4,
+ "latin": [
+ "ogoso",
+ "kibi",
+ "GEN",
+ "GON"
+ ]
+ },
+ {
+ "unicode": "511F",
+ "traits": 17,
+ "cles": 9,
+ "latin": [
+ "tsuguna",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "512A",
+ "traits": 17,
+ "cles": 9,
+ "latin": [
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "5687",
+ "traits": 17,
+ "cles": 30,
+ "latin": [
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "61C7",
+ "traits": 17,
+ "cles": 61,
+ "latin": [
+ "nengo",
+ "KON"
+ ]
+ },
+ {
+ "unicode": "64E6",
+ "traits": 17,
+ "cles": 64,
+ "latin": [
+ "su",
+ "SATSU"
+ ]
+ },
+ {
+ "unicode": "64EC",
+ "traits": 17,
+ "cles": 64,
+ "latin": [
+ "GI"
+ ]
+ },
+ {
+ "unicode": "6A8E",
+ "traits": 17,
+ "cles": 75,
+ "latin": [
+ "GO",
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "6FEF",
+ "traits": 17,
+ "cles": 85,
+ "latin": [
+ "TAKU"
+ ]
+ },
+ {
+ "unicode": "71D0",
+ "traits": 17,
+ "cles": 86,
+ "latin": [
+ "RIN"
+ ]
+ },
+ {
+ "unicode": "71E5",
+ "traits": 17,
+ "cles": 86,
+ "latin": [
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "7235",
+ "traits": 17,
+ "cles": 87,
+ "latin": [
+ "SHAKU"
+ ]
+ },
+ {
+ "unicode": "72A0",
+ "traits": 17,
+ "cles": 93,
+ "latin": [
+ "GI"
+ ]
+ },
+ {
+ "unicode": "74B0",
+ "traits": 17,
+ "cles": 96,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "7642",
+ "traits": 17,
+ "cles": 104,
+ "latin": [
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "77EF",
+ "traits": 17,
+ "cles": 111,
+ "latin": [
+ "ta",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "7901",
+ "traits": 17,
+ "cles": 112,
+ "latin": [
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "7CDE",
+ "traits": 17,
+ "cles": 119,
+ "latin": [
+ "kuso",
+ "FUN"
+ ]
+ },
+ {
+ "unicode": "7E2E",
+ "traits": 17,
+ "cles": 120,
+ "latin": [
+ "chiji",
+ "SHUKU"
+ ]
+ },
+ {
+ "unicode": "7E3E",
+ "traits": 17,
+ "cles": 120,
+ "latin": [
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "7E4A",
+ "traits": 17,
+ "cles": 120,
+ "latin": [
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "7FFC",
+ "traits": 17,
+ "cles": 124,
+ "latin": [
+ "tsubasa",
+ "YOKU"
+ ]
+ },
+ {
+ "unicode": "8074",
+ "traits": 17,
+ "cles": 128,
+ "latin": [
+ "ki",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "8B04",
+ "traits": 17,
+ "cles": 130,
+ "latin": [
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "89A7",
+ "traits": 17,
+ "cles": 147,
+ "latin": [
+ "RAN"
+ ]
+ },
+ {
+ "unicode": "8B19",
+ "traits": 17,
+ "cles": 149,
+ "latin": [
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "8B1B",
+ "traits": 17,
+ "cles": 149,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "8B1D",
+ "traits": 17,
+ "cles": 149,
+ "latin": [
+ "ayama",
+ "SHA"
+ ]
+ },
+ {
+ "unicode": "8B39",
+ "traits": 17,
+ "cles": 149,
+ "latin": [
+ "tsutsushi",
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "8CFC",
+ "traits": 17,
+ "cles": 154,
+ "latin": [
+ "KOO"
+ ]
+ },
+ {
+ "unicode": "8F44",
+ "traits": 17,
+ "cles": 159,
+ "latin": [
+ "KATSU"
+ ]
+ },
+ {
+ "unicode": "919C",
+ "traits": 17,
+ "cles": 164,
+ "latin": [
+ "miniku",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "935B",
+ "traits": 17,
+ "cles": 167,
+ "latin": [
+ "kita",
+ "TAN"
+ ]
+ },
+ {
+ "unicode": "9375",
+ "traits": 17,
+ "cles": 167,
+ "latin": [
+ "kagi",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "937C",
+ "traits": 17,
+ "cles": 167,
+ "latin": [
+ "hari"
+ ]
+ },
+ {
+ "unicode": "971C",
+ "traits": 17,
+ "cles": 173,
+ "latin": [
+ "shimo",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "97D3",
+ "traits": 17,
+ "cles": 178,
+ "latin": [
+ "kara",
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "983B",
+ "traits": 17,
+ "cles": 181,
+ "latin": [
+ "HIN"
+ ]
+ },
+ {
+ "unicode": "9BAA",
+ "traits": 17,
+ "cles": 195,
+ "latin": [
+ "maguro",
+ "KI",
+ "YUU"
+ ]
+ },
+ {
+ "unicode": "9BAD",
+ "traits": 17,
+ "cles": 195,
+ "latin": [
+ "sake",
+ "shake",
+ "KAI",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "9BAE",
+ "traits": 17,
+ "cles": 195,
+ "latin": [
+ "aza",
+ "SEN"
+ ]
+ },
+ {
+ "unicode": "9F62",
+ "traits": 17,
+ "cles": 211,
+ "latin": [
+ "REI"
+ ]
+ },
+ {
+ "unicode": "61F2",
+ "traits": 18,
+ "cles": 61,
+ "latin": [
+ "ko",
+ "CHOO"
+ ]
+ },
+ {
+ "unicode": "66DC",
+ "traits": 18,
+ "cles": 72,
+ "latin": [
+ "YOO"
+ ]
+ },
+ {
+ "unicode": "6FEB",
+ "traits": 18,
+ "cles": 85,
+ "latin": [
+ "RAN"
+ ]
+ },
+ {
+ "unicode": "74A7",
+ "traits": 18,
+ "cles": 96,
+ "latin": [
+ "HEKI"
+ ]
+ },
+ {
+ "unicode": "7652",
+ "traits": 18,
+ "cles": 104,
+ "latin": [
+ "YU"
+ ]
+ },
+ {
+ "unicode": "7656",
+ "traits": 18,
+ "cles": 104,
+ "latin": [
+ "kuse",
+ "HEKI"
+ ]
+ },
+ {
+ "unicode": "77AC",
+ "traits": 18,
+ "cles": 109,
+ "latin": [
+ "matata",
+ "SHUN"
+ ]
+ },
+ {
+ "unicode": "790E",
+ "traits": 18,
+ "cles": 112,
+ "latin": [
+ "ishizue",
+ "SO"
+ ]
+ },
+ {
+ "unicode": "7A6B",
+ "traits": 18,
+ "cles": 115,
+ "latin": [
+ "KAKU"
+ ]
+ },
+ {
+ "unicode": "7C21",
+ "traits": 18,
+ "cles": 118,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "7CE7",
+ "traits": 18,
+ "cles": 119,
+ "latin": [
+ "kate",
+ "RYOO"
+ ]
+ },
+ {
+ "unicode": "7E54",
+ "traits": 18,
+ "cles": 120,
+ "latin": [
+ "o",
+ "SHIKI",
+ "SHOKU"
+ ]
+ },
+ {
+ "unicode": "7E55",
+ "traits": 18,
+ "cles": 120,
+ "latin": [
+ "tsukuro",
+ "ZEN"
+ ]
+ },
+ {
+ "unicode": "7FFB",
+ "traits": 18,
+ "cles": 124,
+ "latin": [
+ "hirugae",
+ "HON"
+ ]
+ },
+ {
+ "unicode": "8077",
+ "traits": 18,
+ "cles": 128,
+ "latin": [
+ "SHOKU"
+ ]
+ },
+ {
+ "unicode": "81E8",
+ "traits": 18,
+ "cles": 131,
+ "latin": [
+ "nozo",
+ "RIN"
+ ]
+ },
+ {
+ "unicode": "7E6D",
+ "traits": 18,
+ "cles": 140,
+ "latin": [
+ "mayu",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "85E4",
+ "traits": 18,
+ "cles": 140,
+ "latin": [
+ "fuji",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "85E9",
+ "traits": 18,
+ "cles": 140,
+ "latin": [
+ "HAN"
+ ]
+ },
+ {
+ "unicode": "895F",
+ "traits": 18,
+ "cles": 145,
+ "latin": [
+ "eri",
+ "KIN"
+ ]
+ },
+ {
+ "unicode": "8986",
+ "traits": 18,
+ "cles": 146,
+ "latin": [
+ "oo",
+ "kutsugae",
+ "FUKU"
+ ]
+ },
+ {
+ "unicode": "89B3",
+ "traits": 18,
+ "cles": 147,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "8D08",
+ "traits": 18,
+ "cles": 154,
+ "latin": [
+ "oku",
+ "SOO",
+ "ZOO"
+ ]
+ },
+ {
+ "unicode": "9396",
+ "traits": 18,
+ "cles": 167,
+ "latin": [
+ "kusari",
+ "SA"
+ ]
+ },
+ {
+ "unicode": "93AE",
+ "traits": 18,
+ "cles": 167,
+ "latin": [
+ "shizu",
+ "CHIN"
+ ]
+ },
+ {
+ "unicode": "95D8",
+ "traits": 18,
+ "cles": 169,
+ "latin": [
+ "tataka",
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "96E2",
+ "traits": 18,
+ "cles": 172,
+ "latin": [
+ "hana",
+ "RI"
+ ]
+ },
+ {
+ "unicode": "96E3",
+ "traits": 18,
+ "cles": 172,
+ "latin": [
+ "kata",
+ "muzuka",
+ "NAN"
+ ]
+ },
+ {
+ "unicode": "984C",
+ "traits": 18,
+ "cles": 181,
+ "latin": [
+ "DAI"
+ ]
+ },
+ {
+ "unicode": "984D",
+ "traits": 18,
+ "cles": 181,
+ "latin": [
+ "hitai",
+ "GAKU"
+ ]
+ },
+ {
+ "unicode": "9854",
+ "traits": 18,
+ "cles": 181,
+ "latin": [
+ "kao",
+ "GAN"
+ ]
+ },
+ {
+ "unicode": "9855",
+ "traits": 18,
+ "cles": 181,
+ "latin": [
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "985E",
+ "traits": 18,
+ "cles": 181,
+ "latin": [
+ "RUI"
+ ]
+ },
+ {
+ "unicode": "9A0E",
+ "traits": 18,
+ "cles": 187,
+ "latin": [
+ "KI"
+ ]
+ },
+ {
+ "unicode": "9A12",
+ "traits": 18,
+ "cles": 187,
+ "latin": [
+ "sawa",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "9A13",
+ "traits": 18,
+ "cles": 187,
+ "latin": [
+ "GEN",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "702C",
+ "traits": 19,
+ "cles": 85,
+ "latin": [
+ "se",
+ "RAI"
+ ]
+ },
+ {
+ "unicode": "7206",
+ "traits": 19,
+ "cles": 86,
+ "latin": [
+ "BAKU"
+ ]
+ },
+ {
+ "unicode": "74BD",
+ "traits": 19,
+ "cles": 96,
+ "latin": [
+ "JI"
+ ]
+ },
+ {
+ "unicode": "7C3F",
+ "traits": 19,
+ "cles": 118,
+ "latin": [
+ "BO"
+ ]
+ },
+ {
+ "unicode": "7E70",
+ "traits": 19,
+ "cles": 120,
+ "latin": [
+ "ku"
+ ]
+ },
+ {
+ "unicode": "7F85",
+ "traits": 19,
+ "cles": 122,
+ "latin": [
+ "RA"
+ ]
+ },
+ {
+ "unicode": "81D3",
+ "traits": 19,
+ "cles": 130,
+ "latin": [
+ "ZOO"
+ ]
+ },
+ {
+ "unicode": "85FB",
+ "traits": 19,
+ "cles": 140,
+ "latin": [
+ "mo",
+ "SOO"
+ ]
+ },
+ {
+ "unicode": "87F9",
+ "traits": 19,
+ "cles": 142,
+ "latin": [
+ "kani",
+ "KAI"
+ ]
+ },
+ {
+ "unicode": "8987",
+ "traits": 19,
+ "cles": 146,
+ "latin": [
+ "HA"
+ ]
+ },
+ {
+ "unicode": "8B58",
+ "traits": 19,
+ "cles": 149,
+ "latin": [
+ "SHIKI"
+ ]
+ },
+ {
+ "unicode": "8B5C",
+ "traits": 19,
+ "cles": 149,
+ "latin": [
+ "FU"
+ ]
+ },
+ {
+ "unicode": "8B66",
+ "traits": 19,
+ "cles": 149,
+ "latin": [
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "93E1",
+ "traits": 19,
+ "cles": 167,
+ "latin": [
+ "kagami",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "9727",
+ "traits": 19,
+ "cles": 173,
+ "latin": [
+ "kiri",
+ "MU"
+ ]
+ },
+ {
+ "unicode": "97FB",
+ "traits": 19,
+ "cles": 180,
+ "latin": [
+ "IN"
+ ]
+ },
+ {
+ "unicode": "9858",
+ "traits": 19,
+ "cles": 181,
+ "latin": [
+ "nega",
+ "GAN"
+ ]
+ },
+ {
+ "unicode": "9AC4",
+ "traits": 19,
+ "cles": 188,
+ "latin": [
+ "ZUI"
+ ]
+ },
+ {
+ "unicode": "9BD6",
+ "traits": 19,
+ "cles": 195,
+ "latin": [
+ "saba",
+ "SEI",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "9BE8",
+ "traits": 19,
+ "cles": 195,
+ "latin": [
+ "kujira",
+ "GEI"
+ ]
+ },
+ {
+ "unicode": "9D8F",
+ "traits": 19,
+ "cles": 196,
+ "latin": [
+ "niwatori",
+ "KEI"
+ ]
+ },
+ {
+ "unicode": "9E97",
+ "traits": 19,
+ "cles": 198,
+ "latin": [
+ "uruwa",
+ "REI"
+ ]
+ },
+ {
+ "unicode": "61F8",
+ "traits": 20,
+ "cles": 61,
+ "latin": [
+ "ka",
+ "KE",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "6B04",
+ "traits": 20,
+ "cles": 75,
+ "latin": [
+ "RAN"
+ ]
+ },
+ {
+ "unicode": "7AF6",
+ "traits": 20,
+ "cles": 117,
+ "latin": [
+ "kiso",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "7C4D",
+ "traits": 20,
+ "cles": 118,
+ "latin": [
+ "SEKI"
+ ]
+ },
+ {
+ "unicode": "9A30",
+ "traits": 20,
+ "cles": 130,
+ "latin": [
+ "TOO"
+ ]
+ },
+ {
+ "unicode": "8B70",
+ "traits": 20,
+ "cles": 149,
+ "latin": [
+ "GI"
+ ]
+ },
+ {
+ "unicode": "8B72",
+ "traits": 20,
+ "cles": 149,
+ "latin": [
+ "yuzu",
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "8B77",
+ "traits": 20,
+ "cles": 149,
+ "latin": [
+ "GO"
+ ]
+ },
+ {
+ "unicode": "91B8",
+ "traits": 20,
+ "cles": 164,
+ "latin": [
+ "kamo",
+ "JOO"
+ ]
+ },
+ {
+ "unicode": "9418",
+ "traits": 20,
+ "cles": 167,
+ "latin": [
+ "kane",
+ "SHOO"
+ ]
+ },
+ {
+ "unicode": "97FF",
+ "traits": 20,
+ "cles": 180,
+ "latin": [
+ "hibi",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "9C10",
+ "traits": 20,
+ "cles": 195,
+ "latin": [
+ "wani"
+ ]
+ },
+ {
+ "unicode": "9C15",
+ "traits": 20,
+ "cles": 195,
+ "latin": [
+ "ebi",
+ "KA"
+ ]
+ },
+ {
+ "unicode": "8266",
+ "traits": 21,
+ "cles": 137,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "8E8D",
+ "traits": 21,
+ "cles": 157,
+ "latin": [
+ "odo",
+ "YAKU"
+ ]
+ },
+ {
+ "unicode": "9732",
+ "traits": 21,
+ "cles": 173,
+ "latin": [
+ "tsuyu",
+ "RO"
+ ]
+ },
+ {
+ "unicode": "9867",
+ "traits": 21,
+ "cles": 181,
+ "latin": [
+ "kaeri",
+ "KO"
+ ]
+ },
+ {
+ "unicode": "9B54",
+ "traits": 21,
+ "cles": 200,
+ "latin": [
+ "MA"
+ ]
+ },
+ {
+ "unicode": "9A5A",
+ "traits": 22,
+ "cles": 187,
+ "latin": [
+ "odoro",
+ "KYOO"
+ ]
+ },
+ {
+ "unicode": "9C3B",
+ "traits": 22,
+ "cles": 195,
+ "latin": [
+ "unagi",
+ "BAN",
+ "MAN"
+ ]
+ },
+ {
+ "unicode": "8972",
+ "traits": 22,
+ "cles": 212,
+ "latin": [
+ "oso",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "9451",
+ "traits": 23,
+ "cles": 167,
+ "latin": [
+ "KAN"
+ ]
+ },
+ {
+ "unicode": "4FFA",
+ "traits": 9,
+ "cles": 10,
+ "latin": [
+ "ore"
+ ]
+ },
+ {
+ "unicode": "6F2C",
+ "traits": 14,
+ "cles": 85,
+ "latin": [
+ "zu",
+ "tsu"
+ ]
+ },
+ {
+ "unicode": "62F3",
+ "traits": 10,
+ "cles": 64,
+ "latin": [
+ "kobushi",
+ "GEN",
+ "KEN"
+ ]
+ },
+ {
+ "unicode": "4E80",
+ "traits": 11,
+ "cles": 213,
+ "latin": [
+ "kame"
+ ]
+ },
+ {
+ "unicode": "95C7",
+ "traits": 17,
+ "cles": 169,
+ "latin": [
+ "yami"
+ ]
+ },
+ {
+ "unicode": "5A9A",
+ "traits": 12,
+ "cles": 38,
+ "latin": []
+ },
+ {
+ "unicode": "9FA0",
+ "traits": 17,
+ "cles": 214,
+ "latin": [
+ "fue",
+ "YAKU"
+ ]
+ },
+ {
+ "unicode": "98F4",
+ "traits": 14,
+ "cles": 184,
+ "latin": [
+ "ame"
+ ]
+ },
+ {
+ "unicode": "779E",
+ "traits": 16,
+ "cles": 13,
+ "latin": [
+ "man"
+ ]
+ },
+ {
+ "unicode": "91A4",
+ "traits": 17,
+ "cles": 164,
+ "latin": [
+ "SHOO",
+ "hishio"
+ ]
+ },
+ {
+ "unicode": "8AB0",
+ "traits": 15,
+ "cles": 149,
+ "latin": [
+ "SUI",
+ "dare",
+ "tare",
+ "ta"
+ ]
+ },
+ {
+ "unicode": "8E74",
+ "traits": 19,
+ "cles": 157,
+ "latin": [
+ "ke",
+ "SHUKU",
+ "SHUU"
+ ]
+ },
+ {
+ "unicode": "9065",
+ "traits": 13,
+ "cles": 162,
+ "latin": [
+ "haruka",
+ "YOU"
+ ]
+ },
+  {
+ "unicode": "72D9",
+ "traits": 8,
+ "cles": 94,
+ "latin": [
+ "nera",
+ "SO",
+ "SHO"
+ ]
+ },
+  {
+ "unicode": "5B09",
+ "traits": 8,
+ "cles": 38,
+ "latin": [
+ "tano",
+ "KI"
+ ]
+ }
+]
