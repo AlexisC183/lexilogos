@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="shortcut icon" href="https://www.lexilogos.com/favicon.ico">
+</head>
+<body style="background: #0a2f45">
+    
+</body>
+<script>
+    let apiKey;
+    let translation;
+
+    const translate = (text, from, to) => {
+        if (
+            text === undefined ||
+            from === undefined ||
+            to === undefined
+        ) {
+            throw new TypeError('Arguments cannot be undefined');
+        }
+
+        const bodyObj = {
+            text: [ text ],
+            source_lang: from,
+            target_lang: to
+        };
+        const opts = {
+            method: 'POST',
+            body: JSON.stringify(bodyObj),
+            headers: {
+                Authorization: `DeepL-Auth-Key [${ apiKey }]`,
+                'Content-Type': 'application/json'
+            }
+        };
+        
+        fetch('http://127.0.0.1:8000/v2/translate', opts)
+            .then(res => res.json())
+            .then(jso => translation = jso);
+    };
+</script>
+</html>
