@@ -6,6 +6,7 @@ let isExpanded = false;
 
 function toggleExpand() {
     const input = document.getElementById("bar");
+    const otherInput = document.getElementById("bar1");
     const btn = document.getElementById("btnExpand");
     if (!input || !btn) return;
 
@@ -22,7 +23,8 @@ function toggleExpand() {
         // Mode déployer / expand
         btn.value = isEn ? "Fit to text" : "déployer";
         // Nettoyage complet pour revenir au CSS/HTML pur
-        input.style.removeProperty('height'); 
+        input.style.removeProperty('height');
+        otherInput.style.removeProperty('height');
     }
     
     // On garde le focus standard
@@ -32,10 +34,13 @@ function toggleExpand() {
 
 function autoResize() {
     const input = document.getElementById("bar");
+    const otherInput = document.getElementById("bar1");
     if (input && isExpanded) {
         input.style.height = 'auto';
+        otherInput.style.height = 'auto';
         // Le +2 évite les micro-scrollbars sur Firefox
         input.style.height = (input.scrollHeight + 2) + 'px';
+        otherInput.style.height = (otherInput.scrollHeight + 2) + 'px';
     }
 }
 
@@ -136,11 +141,14 @@ var resetTimer = null;
 
 function reset_all() {
     const bar = document.getElementById('bar');
+    const otherBar = document.getElementById('bar1');
 	const recherche = document.getElementById('recherche');
     const btnEffa = document.getElementById("btn-effa"); // Le bouton qui déclenche le reset
     const btnExp = document.getElementById("btnExpand");
     
     if (!bar) return;
+
+    otherBar.value = '';
 
     // 1. Détection de la langue pour le bouton Undo/Annuler
     const isEn = document.documentElement.lang === 'en';

@@ -407,6 +407,10 @@
 
         const originalText = textarea.value;
 
+        if (!textarea.value) {
+            document.getElementById('bar1').value = '';
+        }
+
         if (start === 0 && end === originalText.length) {
             textarea.value = transform(originalText);
             textarea.selectionStart = 0;
