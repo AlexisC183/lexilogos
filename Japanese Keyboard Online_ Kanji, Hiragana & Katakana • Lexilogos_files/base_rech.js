@@ -39,3 +39,27 @@ function alfa(item) {
         recherche.scrollIntoView({ block: "nearest", behavior: "smooth" });
     }
 }
+
+let to = 'EN';
+
+function translateBarText() {
+    const text = document.getElementById('bar').value;
+    const otherBar = document.getElementById('bar1');
+    const opts = {
+        method: 'POST',
+        body: JSON.stringify({
+            text: [ text ],
+            source_lang: 'JA',
+            target_lang: to
+        }),
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    };
+
+    fetch('http://127.0.0.1:3000/v2/translate', opts)
+        .then(res => res.json())
+        .then(jso => {
+            otherBar.value = jso.translations[0].text;
+        });
+}
