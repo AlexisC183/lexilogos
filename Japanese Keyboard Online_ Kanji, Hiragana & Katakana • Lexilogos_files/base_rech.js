@@ -63,3 +63,25 @@ function translateBarText() {
             otherBar.value = jso.translations[0].text;
         });
 }
+
+function correctBarText() {
+    const text = document.getElementById('bar').value;
+    const otherBar = document.getElementById('bar1');
+    const opts = {
+        method: 'POST',
+        body: JSON.stringify({
+            text: [ text ],
+            source_lang: 'JA',
+            target_lang: 'JA'
+        }),
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    };
+
+    fetch('http://127.0.0.1:3000/v2/write/rephrase', opts)
+        .then(res => res.json())
+        .then(jso => {
+            otherBar.value = jso.improvements[0].text;
+        });
+}

@@ -9,14 +9,13 @@
 <body style="background: #0a2f45">
     
 </body>
-<!--<script>
+<script>
     let apiKey;
     let translation;
 
-    const translate = (text, from, to) => {
+    const translate = (text, to) => {
         if (
             text === undefined ||
-            from === undefined ||
             to === undefined
         ) {
             throw new TypeError('Arguments cannot be undefined');
@@ -24,7 +23,6 @@
 
         const bodyObj = {
             text: [ text ],
-            source_lang: from,
             target_lang: to
         };
         const opts = {
@@ -36,9 +34,9 @@
             }
         };
         
-        fetch('http://127.0.0.1:3000/v2/translate', opts)
+        fetch('http://127.0.0.1:3000/v2/write/rephrase', opts)
             .then(res => res.json())
             .then(jso => translation = jso);
     };
-</script>-->
+</script>
 </html>
